@@ -1,0 +1,9 @@
+{
+  "showRibbon": true,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "accentColor": "#5568c3",
+  "enabledCssSnippets": [
+    "darkpdf"
+  ]
+}

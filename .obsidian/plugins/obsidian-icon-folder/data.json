@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📐",
+      "🖥",
+      "📘",
+      "LiBookOpen",
+      "⚙"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "MP2I 1/FR": "📘",
+  "MP2I 1/Informatique": "🖥",
+  "MP2I 1/Mathematique": "📐",
+  "MP2I 1/SI": "⚙",
+  "MP2I 1/SI/Séquence 3/TD": "LiBook",
+  "MP2I 1/SI/Séquence 4/Cours": "LiBookOpen",
+  "MP2I 1/SI/Séquence 3/TD/TD Hémostase correction.pdf": "LiFileCheck",
+  "MP2I 1/SI/Séquence 3/TD/TD Hémostase.pdf": "LiFileText"
+}

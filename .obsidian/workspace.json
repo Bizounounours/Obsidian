@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "907fbc8b93f7850a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd7b17c57716877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7719ba9b93170da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "murd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "murd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61f8a13822bed7ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "278b7a0d640fd0f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5e66e152642fbb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "9a948488874d046a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "b32e7e53b4424d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "c4f98c1b25bc3a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb166b6b7191e84a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ee07e8142344ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "murd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de murd"
+            }
+          },
+          {
+            "id": "66233c458281aa2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "9e4dec190d7af373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "murd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour murd"
+            }
+          },
+          {
+            "id": "7f4f5fbf71c1d1b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "murd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de murd"
+            }
+          },
+          {
+            "id": "608684da60852a22",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7719ba9b93170da7",
+  "lastOpenFiles": [
+    "Gros dossier/Obsidian",
+    "Gros dossier",
+    "Nouveau dossier",
+    "MP2I 1",
+    "2026-01-21.md",
+    "murd.md",
+    "Sans titre.canvas",
+    "MP2I 1/Informatique/Chapitre 14.md",
+    "MP2I 1/FR/Cours/Rapport de l'homme à la nature.md",
+    "Sans titre.base",
+    "MP2I 1/Informatique/Chapitre 13.md",
+    "MP2I 1/Informatique/Chapitre 12.md",
+    "MP2I 1/SI/Séquence 4/Cours/intro à la cinematique.pdf",
+    "MP2I/Informatique/Chapitre 13",
+    "astuce.md",
+    "MP2I 1/FR/DOCX/Attachments/Rapport de l'homme à la nature.png",
+    "MP2I/Mathematique/Démo colles/Sans titre.md",
+    "MP2I 1/FR/DOCX/Rapport de l'homme à la nature.docx",
+    "MP2I/FR/DOCX/Attachments/lu94814tl4s.tmp",
+    "MP2I/FR/DOCX/Rapport de l'homme à la nature.md",
+    "MP2I 1/FR/DOCX/Attachments",
+    "MP2I 1/FR/Cours",
+    "MP2I/FR/Sans titre.md",
+    "Attachments/Rapport de l'homme à la nature.png",
+    "2025-12-05.md",
+    "2025-11-29.md",
+    "Excalidraw/Drawing 2025-10-08 17.26.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 20.27.22.excalidraw.md",
+    "Sans titre 1.canvas",
+    "Excalidraw/Drawing 2025-11-29 15.06.34.excalidraw.md",
+    "2025-10-07.md",
+    "MP2I/Exercices/Physique/Démo 2elec.md",
+    "Exported image 20251007201933-0.png",
+    "MP2I/Mon bloc-notes/Notes rapides/Lol.md",
+    "MP2I/Mon bloc-notes/Notes rapides/╔═══════.md",
+    "MP2I/Mon bloc-notes/Notes rapides/Leon cracheur de feu.md",
+    "Exported image 20251007201941-0.gif",
+    "Exported image 20251007201948-0.jpeg",
+    "Exported image 20251007201944-0.jpeg",
+    "Bienvenue.md"
+  ]
+}
