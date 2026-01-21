@@ -34,12 +34,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "MP2I/FR": "📘",
-  "MP2I/Informatique": "🖥",
-  "MP2I/Mathematique": "📐",
-  "MP2I/SI": "⚙",
-  "MP2I/SI/Séquence 3/TD": "LiBook",
-  "MP2I/SI/Séquence 4/Cours": "LiBookOpen",
-  "MP2I/SI/Séquence 3/TD/TD Hémostase correction.pdf": "LiFileCheck",
-  "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf": "LiFileText"
+  "MP2I/Mathematique": "📐"
 }
