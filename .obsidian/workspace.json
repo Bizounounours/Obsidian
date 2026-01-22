@@ -11,14 +11,12 @@
             "id": "7719ba9b93170da7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Mathematique/Démo colles/Sans titre.md",
-                "mode": "source",
-                "source": false
+                "file": "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sans titre"
+              "icon": "lucide-file-text",
+              "title": "intro à la cinematique"
             }
           }
         ]
@@ -178,13 +176,21 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "7719ba9b93170da7",
   "lastOpenFiles": [
-    "MP2I/Mathematique/Démo colles/Sans titre.md",
+    "MP2I/Physique/Thermodynamique/thermo1.png",
+    "TD.pdf",
+    "MP2I/Physique/Thermodynamique",
+    "MP2I/Physique",
+    "Thermo 1.pdf",
+    "TD.md",
     "murd.md",
+    "MP2I/Informatique/Chapitre 12.md",
+    "MP2I/Mathematique/Démo colles/Sans titre.md",
     "astuce.md",
     "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
     "MP2I/SI/Séquence 3/TD/TD Hémostase correction.pdf",
@@ -192,14 +198,9 @@
     "MP2I/SI/Séquence 3/TD",
     "MP2I/SI/Séquence 4/Cours",
     "MP2I/SI/Séquence 3",
-    "MP2I/SI/Séquence 4",
-    "MP2I/SI",
     "MP2I/Informatique/Chapitre 14.md",
     "MP2I/Informatique/Chapitre 13.md",
-    "MP2I/Informatique/Chapitre 12.md",
-    "MP2I/Informatique",
     "MP2I/FR/DOCX/Attachments/Rapport de l'homme à la nature.png",
-    "MP2I/FR/DOCX/Rapport de l'homme à la nature.docx",
     "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
     "2026-01-21.md",
     "Sans titre.canvas",

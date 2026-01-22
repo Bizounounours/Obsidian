@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌡",
+      "⚛",
       "📐",
       "🖥",
-      "📘",
-      "LiBookOpen",
-      "⚙"
+      "📘"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "MP2I/Mathematique": "📐"
+  "MP2I/Mathematique": "📐",
+  "MP2I/SI": "⚙",
+  "MP2I/Informatique": "🖥",
+  "MP2I/Physique": "⚛",
+  "MP2I/FR": "📘"
 }

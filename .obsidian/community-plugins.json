@@ -6,5 +6,8 @@
   "highlightr-plugin",
   "obsidian-linter",
   "obsidian-underline",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-completr",
+  "obsidian-tikzjax",
+  "omnisearch"
 ]
