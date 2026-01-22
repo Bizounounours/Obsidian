@@ -1,4 +1,5 @@
 [
+  "obsidian-importer",
   "ink",
   "obsidian-icon-folder",
   "docxer",
@@ -8,6 +9,5 @@
   "obsidian-git",
   "obsidian-completr",
   "obsidian-tikzjax",
-  "omnisearch",
-  "custom-sort"
+  "omnisearch"
 ]
