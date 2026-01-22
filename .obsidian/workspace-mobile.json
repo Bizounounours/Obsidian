@@ -11,12 +11,12 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf"
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png"
               },
-              "icon": "lucide-file-text",
-              "title": "TD Hémostase"
+              "icon": "lucide-image",
+              "title": "Théorème 21"
             }
           }
         ]
@@ -149,12 +149,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false
+      "bases:Create new base": false
     }
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
+    "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
     "MP2I/Mathematique/Démo colles/Sans titre.md",
     "MP2I/Informatique/Chapitre 14.md",
     "MP2I/Informatique/Chapitre 13.md",
