@@ -11,10 +11,12 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD Hémostase"
             }
           }
         ]
@@ -94,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,5 +153,14 @@
     }
   },
   "active": "4fc6c5b34ca72ba0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "MP2I/Mathematique/Démo colles/Sans titre.md",
+    "MP2I/Informatique/Chapitre 14.md",
+    "MP2I/Informatique/Chapitre 13.md",
+    "MP2I/Informatique/Chapitre 12.md",
+    "MP2I/FR/DOCX/Rapport de l'homme à la nature.docx",
+    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
+    "MP2I/Mathematique/Démo colles",
+    "MP2I/Mathematique"
+  ]
 }
