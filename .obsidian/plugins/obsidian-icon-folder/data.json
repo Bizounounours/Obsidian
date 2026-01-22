@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📝",
+      "📁",
       "🌡",
       "⚛",
-      "📐",
-      "🖥",
-      "📘"
+      "📐"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "MP2I/SI": "⚙",
   "MP2I/Informatique": "🖥",
   "MP2I/Physique": "⚛",
-  "MP2I/FR": "📘"
+  "MP2I/FR": "📘",
+  "MP2I/Archives Khôlles": "📁",
+  "MP2I/Programme de Khôlles 19.01.26.md": "📝"
 }

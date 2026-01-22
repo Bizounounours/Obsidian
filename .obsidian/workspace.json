@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf"
+                "file": "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 Incomplete.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Khôlles D3"
+              "title": "Khôlles D4 Incomplete"
             }
           }
         ]
@@ -92,12 +92,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+                "file": "MP2I/Programme de Khôlles 19.01.26.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Khôlles D3"
+              "title": "Outgoing links from Programme de Khôlles 19.01.26"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+                "file": "MP2I/Programme de Khôlles 19.01.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Khôlles D3"
+              "title": "Backlinks for Programme de Khôlles 19.01.26"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+                "file": "MP2I/Programme de Khôlles 19.01.26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Khôlles D3"
+              "title": "Outline of Programme de Khôlles 19.01.26"
             }
           },
           {
@@ -176,17 +176,27 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "a95ad5605dd5186b",
   "lastOpenFiles": [
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 83.png",
+    "MP2I/Programme de Khôlles 19.01.26.md",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 Incomplete.pdf",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Cours/D4.pdf",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 35.png",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 15.png",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 8.png",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Cours",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+    "MP2I/Archives Khôlles",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 83.png",
     "murd.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 69.png",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème all.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf",
@@ -194,12 +204,7 @@
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",
     "MP2I/Physique/Thermodynamique/thermo1.png",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité",
     "astuce.md",
-    "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
-    "MP2I/Mathematique/Chapitre 1 1/Cours",
     "booksmark.md",
     "TD.md",
     "MP2I/Informatique/Chapitre 12.md",
@@ -212,7 +217,6 @@
     "Sans titre.canvas",
     "MP2I/FR/DOCX/Rapport de l'homme à la nature.md",
     "MP2I/FR/Sans titre.md",
-    "Attachments/Rapport de l'homme à la nature.png",
     "2025-12-05.md",
     "2025-11-29.md",
     "Excalidraw/Drawing 2025-10-08 17.26.28.excalidraw.md",
@@ -221,11 +225,9 @@
     "Excalidraw/Drawing 2025-11-29 15.06.34.excalidraw.md",
     "2025-10-07.md",
     "MP2I/Exercices/Physique/Démo 2elec.md",
-    "Exported image 20251007201933-0.png",
     "MP2I/Mon bloc-notes/Notes rapides/Lol.md",
     "MP2I/Mon bloc-notes/Notes rapides/╔═══════.md",
     "MP2I/Mon bloc-notes/Notes rapides/Leon cracheur de feu.md",
-    "Exported image 20251007201941-0.gif",
     "Bienvenue.md"
   ]
 }
