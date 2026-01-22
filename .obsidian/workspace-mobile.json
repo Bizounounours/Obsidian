@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf"
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "D3"
+              "title": "Théorème 18"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+            "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,9 +155,11 @@
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Informatique/Chapitre 12.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
     "MP2I/Mathematique/Démo colles/Sans titre.md",
     "MP2I/Informatique/Chapitre 14.md",
