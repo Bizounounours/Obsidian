@@ -92,11 +92,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Théorème 18"
             }
           },
           {
@@ -120,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Théorème 18"
             }
           },
           {
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Khôlles D3"
+              "title": "Outline of Théorème 18"
             }
           },
           {
@@ -177,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5e66e152642fbb2",
+  "active": "608684da60852a22",
   "lastOpenFiles": [
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème all.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/png2pdf.pdf",
