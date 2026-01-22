@@ -11,12 +11,12 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png"
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Théorème 21"
+              "icon": "lucide-file-text",
+              "title": "D3"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
+            "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,17 +149,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Informatique/Chapitre 12.md",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
     "MP2I/Mathematique/Démo colles/Sans titre.md",
     "MP2I/Informatique/Chapitre 14.md",
     "MP2I/Informatique/Chapitre 13.md",
-    "MP2I/Informatique/Chapitre 12.md",
     "MP2I/FR/DOCX/Rapport de l'homme à la nature.docx",
     "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
     "MP2I/Mathematique/Démo colles",
