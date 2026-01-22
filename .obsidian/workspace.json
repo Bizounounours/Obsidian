@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7719ba9b93170da7",
+            "id": "7f3da25a3e7640e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "intro à la cinematique"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -42,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -59,17 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
-            }
-          },
-          {
-            "id": "b32e7e53b4424d1a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Signets"
+              "title": "Search"
             }
           }
         ]
@@ -168,36 +156,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "d5e66e152642fbb2",
   "lastOpenFiles": [
+    "MP2I/Mathematique/Chapitre 1 1/Cours",
+    "MP2I/Mathematique/Chapitre 1 1/Colles",
+    "MP2I/Mathematique/Chapitre 1 1",
+    "MP2I/Mathematique/Chapitre 1/Cours",
+    "MP2I/Mathematique/Chapitre 1/Colles",
+    "MP2I/Mathematique/Chapitre 1",
+    "Sans titre.base",
+    "booksmark.md",
+    "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
+    "Template/Chapitre/Colles",
+    "Template/Chapitre/Cours",
+    "Template/Chapitre",
     "MP2I/Physique/Thermodynamique/thermo1.png",
-    "TD.pdf",
-    "MP2I/Physique/Thermodynamique",
-    "MP2I/Physique",
-    "Thermo 1.pdf",
     "TD.md",
     "murd.md",
     "MP2I/Informatique/Chapitre 12.md",
     "MP2I/Mathematique/Démo colles/Sans titre.md",
     "astuce.md",
-    "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
-    "MP2I/SI/Séquence 3/TD/TD Hémostase correction.pdf",
-    "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
-    "MP2I/SI/Séquence 3/TD",
-    "MP2I/SI/Séquence 4/Cours",
-    "MP2I/SI/Séquence 3",
     "MP2I/Informatique/Chapitre 14.md",
     "MP2I/Informatique/Chapitre 13.md",
     "MP2I/FR/DOCX/Attachments/Rapport de l'homme à la nature.png",
