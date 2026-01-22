@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd7b17c57716877",
+        "id": "6c22180e0494e9c7",
         "type": "tabs",
         "children": [
           {
-            "id": "7f3da25a3e7640e8",
+            "id": "a95ad5605dd5186b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Physique/Thermodynamique/thermo1.png"
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf"
               },
-              "icon": "lucide-image",
-              "title": "thermo1"
+              "icon": "lucide-file-text",
+              "title": "D3"
             }
           }
         ]
@@ -92,12 +92,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "murd.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de murd"
+              "title": "Outgoing links from D3"
             }
           },
           {
@@ -112,7 +112,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -121,17 +121,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "murd.md",
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour murd"
+              "title": "Backlinks for D3"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "murd.md",
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de murd"
+              "title": "Outline of D3"
             }
           },
           {
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,22 +179,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f3da25a3e7640e8",
+  "active": "608684da60852a22",
   "lastOpenFiles": [
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/Highlights for D3.md",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",
+    "MP2I/Physique/Thermodynamique/thermo1.png",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité",
     "murd.md",
     "astuce.md",
-    "MP2I/Physique/Thermodynamique/thermo1.png",
     "MP2I/SI/Séquence 3/TD/TD Hémostase.pdf",
     "MP2I/Mathematique/Chapitre 1 1/Cours",
     "MP2I/Mathematique/Chapitre 1 1/Colles",
     "MP2I/Mathematique/Chapitre 1 1",
     "MP2I/Mathematique/Chapitre 1/Cours",
     "MP2I/Mathematique/Chapitre 1/Colles",
-    "MP2I/Mathematique/Chapitre 1",
-    "Sans titre.base",
     "booksmark.md",
-    "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
-    "Template/Chapitre/Colles",
     "TD.md",
     "MP2I/Informatique/Chapitre 12.md",
     "MP2I/Mathematique/Démo colles/Sans titre.md",
