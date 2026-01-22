@@ -11,12 +11,12 @@
             "id": "a95ad5605dd5186b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf"
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png"
               },
-              "icon": "lucide-file-text",
-              "title": "D3"
+              "icon": "lucide-image",
+              "title": "Théorème 18"
             }
           }
         ]
@@ -92,12 +92,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from D3"
+              "title": "Outgoing links from Théorème 18"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for D3"
+              "title": "Backlinks for Théorème 18"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of D3"
+              "title": "Outline of Théorème 18"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "608684da60852a22",
+  "active": "a95ad5605dd5186b",
   "lastOpenFiles": [
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/Highlights for D3.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/Highlights for D3.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",
