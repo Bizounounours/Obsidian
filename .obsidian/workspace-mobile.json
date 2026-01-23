@@ -11,12 +11,12 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf"
+                "file": "MP2I/Physique/Thermodynamique/thermo1.png"
               },
-              "icon": "lucide-file-text",
-              "title": "Théorème 18"
+              "icon": "lucide-image",
+              "title": "thermo1"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf",
+            "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -149,13 +150,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+    "MP2I/Physique/Thermodynamique/thermo1.png",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 Incomplete.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
+    "MP2I/Programme de Khôlles 19.01.26.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Informatique/Chapitre 12.md",
