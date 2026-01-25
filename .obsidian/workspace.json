@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "Khôlles D3"
             }
-          },
-          {
-            "id": "54f798b346eb166a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes imcomplet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Thermo2 Notes imcomplet"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,6 +182,7 @@
   },
   "active": "d5e66e152642fbb2",
   "lastOpenFiles": [
+    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes Imcomplete.pdf",
     "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
     "MP2I/Physique/Mécanique/TD/Meca2&3_TD.pdf",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
