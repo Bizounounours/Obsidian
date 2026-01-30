@@ -11,5 +11,6 @@
   "custom-sort",
   "text-extractor",
   "ai-image-analyzer",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "obsidian-completr"
 ]

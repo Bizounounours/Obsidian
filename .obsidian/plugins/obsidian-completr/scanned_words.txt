@@ -6720,6 +6720,7 @@ fEL
 fzo
 fOr
 fZM
+fonction
 StructTreeRoot
 StructParents
 SS
@@ -7893,6 +7894,7 @@ StsF
 SRo
 SFL
 SPed
+Soit
 MarkInfo
 Marked
 Metadata
@@ -10115,6 +10117,7 @@ tKjU
 tuj
 twM
 taille
+telle
 ViewerPreferences
 Vg
 Vk
@@ -12438,6 +12441,7 @@ eXOZ
 eEEFl
 eGKs
 eUEE
+existe
 Kids
 Kqx
 Kh
@@ -21365,6 +21369,7 @@ aDM
 ako
 alL
 awk
+alors
 dX
 dU
 dy
@@ -28324,6 +28329,7 @@ uqk
 uWTCn
 uQo
 uiUEE
+une
 NkUK
 NK
 Nv
@@ -44078,6 +44084,7 @@ qkok
 qnf
 qWgj
 qsSc
+que
 xD
 xFUZw
 xM
@@ -53246,6 +53253,7 @@ rKy
 rDJn
 rmJ
 rRT
+rivable
 Yh
 Yo
 Yen
