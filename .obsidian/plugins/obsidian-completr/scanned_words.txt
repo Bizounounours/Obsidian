@@ -4539,6 +4539,8 @@ CZp
 CRo
 Coy
 Combined
+Croissance
+Compar
 Lang
 Length
 LN
@@ -20268,6 +20270,7 @@ sOGs
 sCcC
 sFdF
 siD
+suivants
 aY
 aq
 aFd
@@ -39655,6 +39658,7 @@ lmc
 lUKgN
 lGi
 lGib
+les
 bfz
 bh
 bT
@@ -53254,6 +53258,7 @@ rDJn
 rmJ
 rRT
 rivable
+resultats
 Yh
 Yo
 Yen
