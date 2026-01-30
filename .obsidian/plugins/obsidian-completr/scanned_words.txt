@@ -4541,6 +4541,7 @@ Coy
 Combined
 Croissance
 Compar
+Cas
 Lang
 Length
 LN
@@ -6723,6 +6724,7 @@ fzo
 fOr
 fZM
 fonction
+finition
 StructTreeRoot
 StructParents
 SS
@@ -44089,6 +44091,7 @@ qnf
 qWgj
 qsSc
 que
+quents
 xD
 xFUZw
 xM
@@ -53259,6 +53262,7 @@ rmJ
 rRT
 rivable
 resultats
+rale
 Yh
 Yo
 Yen
