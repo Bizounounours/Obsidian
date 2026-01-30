@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes.pdf"
+                "file": "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Thermo2 Notes"
+              "title": "Thermo2"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
+            "file": "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,15 +155,16 @@
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
-    "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
-    "MP2I/Physique/Thermodynamique/thermo1.png",
+    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes Imcomplete.pdf",
     "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
+    "MP2I/Archives Khôlles/Programme de Khôlles 19.01.26.md",
+    "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes.pdf",
+    "MP2I/Physique/Thermodynamique/thermo1.png",
     "MP2I/Physique/Thermodynamique/Thermo 2",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
     "MP2I/Physique/Thermodynamique/Thermo 1",
-    "MP2I/Archives Khôlles/Programme de Khôlles 19.01.26.md",
     "MP2I/Archives Khôlles",
     "astuce.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
@@ -171,7 +172,6 @@
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/Programme de Khôlles 19.01.26.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.pdf",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Informatique/Chapitre 12.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
     "MP2I/Mathematique/Démo colles/Sans titre.md",
