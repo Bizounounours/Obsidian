@@ -8,9 +8,9 @@
   "obsidian-git",
   "obsidian-tikzjax",
   "omnisearch",
-  "custom-sort",
   "text-extractor",
   "ai-image-analyzer",
   "obsidian-image-toolkit",
-  "obsidian-completr"
+  "obsidian-completr",
+  "custom-sort"
 ]
