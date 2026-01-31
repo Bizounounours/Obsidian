@@ -1072,6 +1072,7 @@ PZU
 PpaL
 PTXPR
 PVs
+Pour
 obj
 oq
 oI
@@ -2317,6 +2318,7 @@ oWU
 onjL
 oPX
 oUEE
+obtient
 Type
 Transparency
 Tabs
@@ -6725,6 +6727,9 @@ fOr
 fZM
 fonction
 finition
+ffaf
+finis
+faisant
 StructTreeRoot
 StructParents
 SS
@@ -7899,6 +7904,7 @@ SRo
 SFL
 SPed
 Soit
+Soient
 MarkInfo
 Marked
 Metadata
@@ -10122,6 +10128,7 @@ tuj
 twM
 taille
 telle
+tendre
 ViewerPreferences
 Vg
 Vk
@@ -15814,6 +15821,7 @@ EMHg
 Evf
 ExifTool
 EndExifToolUpdate
+Enonc
 GS
 Group
 GV
@@ -17989,6 +17997,7 @@ FEljc
 FGr
 FoCVC
 Fonction
+Finalement
 DeviceRGB
 Dw
 DP
@@ -20273,6 +20282,8 @@ sCcC
 sFdF
 siD
 suivants
+suppose
+sultat
 aY
 aq
 aFd
@@ -21375,6 +21386,8 @@ ako
 alL
 awk
 alors
+aurevoir
+acroissements
 dX
 dU
 dy
@@ -22461,6 +22474,8 @@ dzo
 dLH
 dWg
 dRM
+donc
+donne
 cKB
 cys
 cOA
@@ -23600,6 +23615,9 @@ cQE
 croXoE
 cwV
 cMd
+continue
+consid
+composition
 km
 kl
 kw
@@ -30565,6 +30583,8 @@ pwn
 pEf
 pQmZ
 pTz
+par
+prouve
 BL
 Bs
 BIv
@@ -31682,6 +31702,7 @@ BlzFX
 BJf
 BDZ
 BeginExifToolUpdate
+Bonsoir
 Ht
 He
 HL
@@ -38481,6 +38502,7 @@ necF
 nSv
 ncDijl
 nfs
+ncjnjdsncndsklcnldknvl
 lr
 lq
 ly
@@ -39661,6 +39683,7 @@ lUKgN
 lGi
 lGib
 les
+lemme
 bfz
 bh
 bT
@@ -41867,6 +41890,7 @@ gMy
 gNd
 gPJ
 gLOw
+gendarmes
 Ju
 Jx
 Jh
@@ -46393,6 +46417,9 @@ mfTI
 mMUj
 mMm
 mentation
+mark
+matiques
+monstration
 Xh
 Xd
 XNe
@@ -48596,6 +48623,7 @@ vLC
 vKMI
 vvk
 vwqk
+vers
 wx
 wo
 wjr
@@ -53263,6 +53291,8 @@ rRT
 rivable
 resultats
 rale
+riv
+rons
 Yh
 Yo
 Yen

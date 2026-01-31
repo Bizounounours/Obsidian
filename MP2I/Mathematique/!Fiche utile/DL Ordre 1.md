@@ -1,4 +1,5 @@
 
+[[D4.pdf|original]]
 >[!info] Définition Générale
 >Soit $f : I \to \mathbb{R}$ une fonction dérivable en $0$. Il existe alors une fonction $\varepsilon : I \to \mathbb{R}$ telle que :
 >$$
@@ -33,7 +34,3 @@
 >- $(1+x)^\alpha= 1+\alpha x+x\varepsilon_9(x)$
 
 
-
-
-
- 
