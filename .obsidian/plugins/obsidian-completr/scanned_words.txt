@@ -1074,6 +1074,7 @@ PTXPR
 PVs
 Pour
 Please
+Prouvons
 obj
 oq
 oI
@@ -3488,6 +3489,7 @@ TJO
 TbZ
 TUb
 TTxV
+Taylor
 Catalog
 Count
 Contents
@@ -6739,6 +6741,7 @@ folder
 for
 files
 following
+formule
 StructTreeRoot
 StructParents
 SS
@@ -10139,6 +10142,7 @@ taille
 telle
 tendre
 them
+tout
 ViewerPreferences
 Vg
 Vk
@@ -18010,6 +18014,7 @@ FGr
 FoCVC
 Fonction
 Finalement
+Formule
 DeviceRGB
 Dw
 DP
@@ -23641,6 +23646,8 @@ commit
 commands
 conflicted
 conflicts
+classe
+currence
 km
 kl
 kw
@@ -58911,6 +58918,7 @@ IqQ
 ISQ
 Impl
 Instructions
+Initialisation
 öp
 öa
 öHu

@@ -3,5 +3,5 @@
 
 Chapitre D4 [[Khôlles D4 (fin)|Liste Théorèmes]]
 
-- Théorème de la limite de la dérivée. [[Khôlles D4 (fin)#^ffaf6e|Démo]]
+- Théorème de la limite de la dérivée. [[Khôlles D4 (fin)#^ffaf6e|Théorème 48]]
 - 
