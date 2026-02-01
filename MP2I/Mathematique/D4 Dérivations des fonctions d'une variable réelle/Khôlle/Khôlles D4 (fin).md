@@ -59,7 +59,7 @@
 >$$f(b) = \sum^{n}_{k=0}\frac{f^{(t)}(a)}{k!}(b-a)^k+R_n$$
 >où
 >$$\begin{aligned}
->R_n &= \int^{b}_{a}\frac{f^{(n+1)}}{n!}(b-t)^n dt
+>R_n &= \int^{b}_{a}\frac{f^{(n+1)}}{n!}(b-t)^n dt\\
 >&=\int^{b}_{a}
 \end{aligned}$$
 >
