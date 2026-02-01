@@ -7917,6 +7917,7 @@ SFL
 SPed
 Soit
 Soient
+Supposons
 MarkInfo
 Marked
 Metadata
@@ -12469,6 +12470,7 @@ eUEE
 existe
 each
 every
+excel
 Kids
 Kqx
 Kh
@@ -22500,6 +22502,7 @@ donc
 donne
 deleted
 desired
+dit
 cKB
 cys
 cOA
@@ -30620,6 +30623,9 @@ pTz
 par
 prouve
 plugins
+propri
+particulier
+pro
 BL
 Bs
 BIv
@@ -53340,6 +53346,8 @@ rons
 resolve
 recommend
 replace
+rifi
+rang
 Yh
 Yo
 Yen
@@ -57814,6 +57822,7 @@ hlHN
 hJN
 hDX
 hauteur
+hypoth
 Iv
 IF
 IZE
