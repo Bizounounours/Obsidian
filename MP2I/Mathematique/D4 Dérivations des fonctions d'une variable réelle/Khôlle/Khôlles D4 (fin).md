@@ -60,7 +60,7 @@
 >où
 >$$\begin{aligned}
 >R_n &= \int^{b}_{a}\frac{f^{(n+1)}}{n!}(b-t)^n dt
->&=\int^{#}_{#}
+>&=\int^{b}_{a}
 \end{aligned}$$
 >
 
