@@ -11,12 +11,14 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf"
+                "file": "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Thermo2"
+              "icon": "lucide-file",
+              "title": "DL Ordre 1"
             }
           }
         ]
@@ -35,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
+            "file": "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,9 +157,13 @@
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
-    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes Imcomplete.pdf",
-    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
+    "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
+    "murd.md",
+    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "MP2I/Archives Khôlles/Programme de Khôlles 19.01.26.md",
+    "Untitled.md",
+    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
+    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes Imcomplete.pdf",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2 Notes.pdf",
     "MP2I/Physique/Thermodynamique/thermo1.png",
