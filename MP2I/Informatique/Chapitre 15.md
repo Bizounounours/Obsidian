@@ -52,8 +52,11 @@ III \ Bonds
 
 
 
+<u>Complexité</u> : en fonction du nombre de noeuds 
+- $C(n_a)= 1 +$ 
 
 
+On peut 
 
 
 
