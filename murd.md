@@ -36,3 +36,5 @@ $$Lim_{x\to 0} \ x^2 = 0 \\ sd$$
 
 Lim x->0 x2= 0
 
+
+soit $f:I\to J$ 
