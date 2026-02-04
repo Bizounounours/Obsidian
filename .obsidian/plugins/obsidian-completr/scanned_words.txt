@@ -1134,6 +1134,7 @@ Pouvais
 Paralys
 Partons
 Poursuit
+PGCD
 obj
 oq
 oI
@@ -3723,6 +3724,9 @@ Taureau
 Trieste
 Torre
 Trouverais
+Tests
+Test
+Trois
 Catalog
 Count
 Contents
@@ -4829,6 +4833,7 @@ Ceci
 Carpe
 Craque
 Certaines
+Choix
 Lang
 Length
 LN
@@ -7333,6 +7338,7 @@ fantasmes
 figur
 fasciner
 filtraient
+fonctionnels
 StructTreeRoot
 StructParents
 SS
@@ -11139,6 +11145,7 @@ timent
 trai
 treintes
 teigne
+tester
 ViewerPreferences
 Vg
 Vk
@@ -13761,6 +13768,8 @@ effrayantes
 efface
 extra
 enfermer
+execution
+exhaustifs
 Kids
 Kqx
 Kh
@@ -17192,6 +17201,7 @@ Eden
 Enfin
 Edgard
 Encore
+Euclide
 GS
 Group
 GV
@@ -23757,6 +23767,11 @@ adversaire
 apporteront
 adoption
 auteur
+assert
+atoire
+algoritme
+algorithme
+algo
 dX
 dU
 dy
@@ -26963,6 +26978,10 @@ constatai
 crus
 cultiv
 colima
+code
+choisissant
+correcte
+correct
 km
 kl
 kw
@@ -33005,6 +33024,7 @@ Narval
 Nulle
 Narwal
 Nidros
+Noire
 pC
 pv
 pR
@@ -34645,6 +34665,10 @@ punir
 patrie
 pire
 paragraphes
+partitionnement
+potentiels
+positifs
+positif
 BL
 Bs
 BIv
@@ -35781,6 +35805,7 @@ Brisons
 Blaise
 Bon
 Buffon
+Boite
 Ht
 He
 HL
@@ -41487,6 +41512,7 @@ Ourse
 Orph
 Objet
 Olaüs
+OCaml
 nF
 nA
 nG
@@ -46589,6 +46615,7 @@ glorieuse
 grandiose
 gonflait
 gouffre
+gatifs
 Ju
 Jx
 Jh
@@ -51490,6 +51517,7 @@ meurtri
 montait
 murmurer
 manuscrit
+meme
 Xh
 Xd
 XNe
@@ -56588,6 +56616,9 @@ intensit
 implacable
 involontaire
 inspirait
+interesse
+instruction
+initialiser
 ZM
 ZS
 ZK
@@ -59336,6 +59367,8 @@ riss
 regardais
 remords
 rile
+rifie
+ralement
 Yh
 Yo
 Yen
