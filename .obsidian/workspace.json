@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Rapport de l'homme à la nature"
             }
+          },
+          {
+            "id": "4985e21477a63dbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,15 +193,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ab769674121233bc",
+  "active": "4985e21477a63dbb",
   "lastOpenFiles": [
+    "MP2I/FR/Devoirs/Résumer CCINP.md",
+    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
+    "MP2I/FR/Devoirs",
     "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
     "MP2I/TIPE/2026-02-03.md",
     "MP2I/TIPE",
     "MP2I/Informatique/Chapitre 15.md",
     "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "murd.md",
-    "Untitled.md",
     "MP2I/Informatique/Chapitre 12.md",
     "MP2I/Informatique/Chapitre 14.md",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
@@ -212,7 +225,6 @@
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 69.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 21.png",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 18.png",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 15.png",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 35.png",
@@ -221,7 +233,6 @@
     "2026-01-30.md",
     "Untitled.canvas",
     "MP2I/Mathematique/Untitled.md",
-    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
     "Excalidraw/Drawing 2026-01-23 20.01.52.excalidraw.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/Highlights for D3.md",
@@ -231,7 +242,6 @@
     "MP2I/Informatique/Chapitre 13.md",
     "2026-01-21.md",
     "Sans titre.canvas",
-    "MP2I/FR/DOCX/Rapport de l'homme à la nature.md",
     "Sans titre 1.canvas"
   ]
 }

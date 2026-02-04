@@ -23756,6 +23756,7 @@ attaquant
 adversaire
 apporteront
 adoption
+auteur
 dX
 dU
 dy
@@ -34643,6 +34644,7 @@ paroles
 punir
 patrie
 pire
+paragraphes
 BL
 Bs
 BIv
