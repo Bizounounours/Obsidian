@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Rapport de l'homme à la nature"
             }
-          },
-          {
-            "id": "4985e21477a63dbb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,12 +182,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4985e21477a63dbb",
+  "active": "ab769674121233bc",
   "lastOpenFiles": [
-    "MP2I/FR/Devoirs/Résumer CCINP.md",
-    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
-    "MP2I/FR/Devoirs",
+    "MP2I/!Programme Khôlles 02.02.2026.md",
     "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
+    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
+    "MP2I/FR/Devoirs/Résumer CCINP.md",
+    "MP2I/FR/Devoirs",
     "MP2I/TIPE/2026-02-03.md",
     "MP2I/TIPE",
     "MP2I/Informatique/Chapitre 15.md",
@@ -212,7 +202,6 @@
     "MP2I/Mathematique/B8 Polynôme/Chapitre",
     "MP2I/Mathematique/B8 Polynômes",
     "MP2I/Colloscope.md",
-    "MP2I/!Programme Khôlles 02.02.2026.md",
     "Excel 2026-02-01 15.04.38.univer.md",
     "MP2I/Archives Khôlles/!Programme de Khôlles 19.01.26.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Cours/D4.pdf",
