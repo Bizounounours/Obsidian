@@ -57,12 +57,7 @@ III \ Bonds
   
   On peut montrer, par récurrence forte sur la taille que $C(n)=n$  (En prenant $C(0)=0$)
 
-<u>ou bien</u> : on argumente sur le fait que en chaque noeud on effectue une seule opération élémentaire d'affichage de la valeur.
-
-
-
-
-
+<u>ou bien</u> : on argumente sur le fait que en chaque noeud on effectue une seule opération élémentaire d'affichage de la valeur. 
 
 
 

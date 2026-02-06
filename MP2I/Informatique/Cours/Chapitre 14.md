@@ -69,7 +69,7 @@ let a = Noeud(0,
   let rec taille a = match a with
 ```
 
-
+Si on remplace la file par une pile on obtient un parcours en profondeur (à tester)
 
 
 
