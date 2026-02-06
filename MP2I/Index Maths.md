@@ -10,8 +10,9 @@
   - [[Théorème 83.png]]
 
 - [[D4.pdf|D4 Dérivations de fonction d'une variable réelle]]
-  - [[Théorème 48]]
-  - [[Khôlles D4 Incomplete.pdf]]
   - [[Théorème 8.png]]
   - [[Théorème 15.png]]
   - [[Théorème 35.png]]
+  - [[Théorème 48]]
+  - [[Théorème 53]]
+  - [[Théorème 55]]
