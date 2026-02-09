@@ -1,3 +1,4 @@
+
 >[!question] Formule de Taylor pour un Polynôme
 >Soit $\mathbb{K}$ un corps de caractéristique nulle, $n \in \mathbb{N}\ P \in \mathbb{K}_n[X] \iff \deg(P) \leq n$ et $\alpha \in \mathbb{K}$. Alors : 
 >$$
@@ -11,5 +12,3 @@
 >$$
 >
 >$$
-
-
