@@ -1,5 +1,6 @@
-- [[B8.pdf|B8 Polynômes]]
-  - 
+-  [[B8.pdf|B8 Polynômes]]
+  - [[B8.pdf]]
+  - [[Théorème 22]]
 
 - [[D3.pdf|D3 Limites de fonction et contnuité]] 
   - [[Khôlles D3.pdf]]
