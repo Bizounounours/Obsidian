@@ -1,3 +1,4 @@
+
 >[!question] Inégalité de Taylor-Lagrange
 >
 >Soient $n ∈ N$ et $f : [a, b] → R$ une fonction de classe $C^{n+1}$. On a : 
@@ -34,3 +35,4 @@
 >Or $\int^{b}_{a}\frac{(b-t)^n}{n!}dt=\left[\frac{(b-t)^{n+1}}{n!}dt \right]^{b}_{a} = 0 + \frac{(b-a)^{n+1}}{(n+1)!}$
 >
 >D'où   $\left|R_n \right| \leq M \times \frac{(b-t)^{n+1}}{(n+1)!}$
+

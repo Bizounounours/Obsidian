@@ -24,7 +24,7 @@
 >où
 >$$\begin{aligned}
 >R_n &= \int^{b}_{a}\frac{f^{(n+1)}}{n!}(b-t)^n dt\\
->&=\int^{b}_{a} f^{n+1}(t) \times \frac{d}{dt}(\frac{-(b-t)^{n+1}}{(n+1)!})dt
+>&=\int^{b}_{a} f^{n+1}(t) \times \frac{d}{dt}\left(\frac{-(b-t)^{n+1}}{(n+1)!}\right)dt
 \end{aligned}$$
 >
 >Or $f$ est de classe $C^{(n+1)}$ , donc $f^{(n+1)}$ est de classe $C^1$

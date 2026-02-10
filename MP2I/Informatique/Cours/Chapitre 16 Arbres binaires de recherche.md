@@ -52,7 +52,7 @@ E &= \mathbb{N} \ \text{par exemple}\\
 >- <u>sens direct</u> : On va montrer, par induction sur la structure d'ABR que pour tout ABR $a$, la liste de ses étiquettes dans l'ordre issu d'un parcours infixe est croissante --> $\mathscr{P}_a$
 >	- si $a$ est vide : (cas de base / initialisation)
 >		- une liste est croissante (*cf* il s'agit d'une prpriété qui doit être vraie pour tout couple $(x_i,x_j)$ de la liste : si $i<j$ alors $x_i<x_j$)
->		
+>		>
 >	- si $a=N(x,g,d)$ : Si on suppose que g et d vérifient $\mathscr{P}$
 >		- Le parcours infixe de a renvoie la liste $L_g@[x]@L_d$
 >		- Par hypothèse d'induction : $L_{g}\nearrow$
@@ -66,7 +66,7 @@ E &= \mathbb{N} \ \text{par exemple}\\
 >- <u>sens indirect</u> : On va montrer, par induction sur la structure d'arbre binaire que si par un arbre binaire $a$, la liste de ses étiquettes dans l'ordre issu d'un parcours infixe est strictement croissante alors a est un ABR --> $\mathscr{P}_a$
 >	- si $a$ est vide : (a est un arbre binaire vide)
 >		- a est un ABR de par la définition des ABR 
->		
+>		>
 >	- si $a=N(x,g,d)$ : on suppose que $\mathscr{P}$ est vraie pour$g$ et $d$
 >		- si la liste des étiquettes issue d'un parcours infixe de $g$ est strictement croissante alors $g$ est un ABR 
 >		- et si la liste des étiquettes issue d'un parcours infixes de $d$ est strictement croissante alors $d$ est un ABR 
@@ -132,7 +132,7 @@ let rec ajout a e = match a with
 > 
 >- Etape d'induction $\star$ <u>Si a est non vide</u> ie si `a = N(x,g,d)`
 >  - <mark style="background: #BBFABBA6;"><u>Cas n°1</u></mark> : e=x :  a est un ABR et e appartient à a donc $\mathscr{P}$
->    
+>    >
 >  - <mark style="background: #BBFABBA6;"><u>Cas n°2</u></mark> : `a = N(x,g,d)` 
 >    - On veut montrer que ajout a e vérifie $\mathscr{P}$ càd que ajout a e :
 > 	   1)  est un ABR 

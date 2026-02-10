@@ -21,5 +21,47 @@
 >
 >On conjecture que pour tout $i \in [\![1;m]\!]$
 >$$\begin{align}
->P^{(i)} = \sum^{m}_{k=i}(k(k-1)\dots)
+>P^{(i)} &= \sum^{m}_{k=i}\underbrace{(k(k-1)\dots(k-i+1))a_kX^{k-i}}_{\frac{k!}{(k-i)!}} \\
+>&=\sum^{m}_{k=i}\frac{k!}{(kk-i)!}a_kXk^{k-i} \\
+>&= \sum^{m-i}_{j=0}\frac{(j+i)!}{j!}a_{j+i}X^j \ \ \ \ \ \ \ \ j=k-i \\
 >\end{align}$$
+>
+>Donc $P^(i)(0)=\frac{(0+i)!}{O!}a_{0+i}+0=i! \times a_i$ 
+>
+>Ainsi $\frac{P^{(i)}(0)}{i!}=a_i \ \ \ \ \ \heartsuit$
+>
+>Donc : $$P=\sum^{m}_{i=0}\frac{P^{(0)}(0)}{k!}X^k = \sum^{m}_{i=0}\frac{P^{(0)}(0)}{k!}(X-0)^k$$
+>
+>Or si $k>m$ on a $P^{(0)}=0$ donc $P^{(0)}(0)=0$ 
+>On peut donc prolonger la somme jusqu'a $n \geq m$
+>
+>
+><u>2eme cas</u> : $\alpha \in \mathbb{K}^*$
+>
+>Posons $Q(X) =P_0(X+\alpha) = P(X+\alpha)$
+>On a $\deg Q = \deg P$, donc $Q \in \mathbb{K}_n[X]$
+>On applique la formule précédente à $Q$
+>$$
+>Q=\sum^{n}_{k=0}\frac{Q^{(k)}(0)}{k!}(X-0)^k
+>$$
+>Or $Q(X)=P(X+\alpha)$ donc $Q(0)=P(\alpha)$
+>$Q'(X)=(P_0(X+\alpha))'=P_0(X+\alpha)+(X+\alpha)'=P'(X+\alpha)$
+>Donc $Q'(0)=P'(\alpha)$
+>Par récurrence on prouverait $Q^{(k)}=P^{(k)}(\alpha)$ pour tout $k \in \mathbb{N}$
+>
+>Donc :
+>$$
+>Q=\sum^{n}_{k=0}\frac{P^{(k)}(\alpha)}{k!}X^k
+>$$
+>Or
+>$$\begin{align}
+>P(X) &= P(X-\alpha+\alpha)\\ \\
+>&=Q(X-\alpha)\\ \\
+>&= Q \circ (X-\alpha)\\ \\
+>&=\left(\sum^{n}_{k=0}\frac{P^{(k)}(\alpha)}{k!}X^k\right) \circ (X-\alpha)\\ \\
+>&=\sum^{n}_{k=0}\frac{P^{(k)}(\alpha)}{k!}(X-\alpha)^k
+>\end{align}$$
+>
+>D'où le résultat.
+
+

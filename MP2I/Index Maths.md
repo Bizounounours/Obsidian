@@ -1,6 +1,7 @@
 -  [[B8.pdf|B8 Polynômes]]
   - [[B8.pdf]]
   - [[Théorème 22]]
+  - [[MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48]]
 
 - [[D3.pdf|D3 Limites de fonction et contnuité]] 
   - [[Khôlles D3.pdf]]
@@ -14,6 +15,6 @@
   - [[Théorème 8.png]]
   - [[Théorème 15.png]]
   - [[Théorème 35.png]]
-  - [[Théorème 48]]
+  - [[MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 48]]
   - [[Théorème 53]]
   - [[Théorème 55]]
