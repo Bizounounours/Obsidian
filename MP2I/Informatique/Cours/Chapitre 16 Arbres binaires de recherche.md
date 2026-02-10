@@ -81,7 +81,8 @@ E &= \mathbb{N} \ \text{par exemple}\\
 
 ## II \ Implémentations du type ensemble 
 
-1) <u>Recherche</u> : a est supposé ABR 
+### 1) <u>Recherche</u> : a est supposé ABR 
+
    ```Ocaml
    let rec recherche e a = match a with 
 	   |Vide -> false
@@ -89,13 +90,88 @@ E &= \mathbb{N} \ \text{par exemple}\\
 						else if e < x then recherche e g
 						else recherche e d 
    ```
-- <u>Terminaison</u> : on a pour variant d'appel la taille de l'arbre. 
+- <mark style="background: #00688F;"><u>Terminaison</u></mark> : on a pour variant d'appel la taille de l'arbre. 
   Si la recherche se poursuit dans un sous-arbre gauche ou droit qui est de taille strictement plus petite (ne contient pas la racine) donc la fonction termine
 
-- <u>Correction </u> : invariant d'appel : recherche e a renvoie true ssi e est une etiquette d'un noeud de a .
+- <mark style="background: #00688F;"><u>Correction </u></mark> : invariant d'appel : recherche e a renvoie true ssi e est une etiquette d'un noeud de a .
   On procède par induction sur la structure d'arbre binaire 
 	-  <u>si a est vide</u> :  vrai recherche e arbre vide renvoie ``false``
 				    et e $\notin$ a car a est vide
 				    l'équivalence est vraie
 	- <u>si a = N(x,g,d)</u> : 
 	  si x = e : l'appel renvoie 
+
+- <mark style="background: #00688F;"><u>Complexité</u></mark> : $$\begin{align}
+ &C(0)=1 \\
+ &C(h)\leq C(h-1)+\left\lbrace{\begin{aligned}&1 \\ &O(1) \\ &\alpha.1
+\end{aligned}}\right.\\
+&C_a = \left\lbrace O(1) \rightarrow \text{Cas n°1 : on trouve la valeur à la racine} \right.
+\end{align}$$
+
+
+
+### 2) <u>Ajout d'un élément</u> : 
+
+```Ocaml
+let rec ajout a e = match a with 
+	|Vide -> N(e,Vide,Vide) (*Ce que l'in fait si on ajoute e à un arbre vide*)
+	|N(x,g,d)->if x=e then a (*On pourrai aussi lever une exception avec failwith*)
+				else if e<x then N(x,ajout g e, d)
+				else N(x,g,ajout d e)
+				
+```
+
+- <mark style="background: #00688F;"><u>Terminaison</u></mark> : variant d'appel la taille de l'arbre de la hauteur (diminue de 1 au moins à chaque appel récursif)
+  
+- <mark style="background: #00688F;"><u>Correction partielle</u></mark> : On va montrer que l'appel ajout a e renvoie un ABR contenant les memes valeurs que a et la valeur e si elle n'est pas dans a.
+
+>[!summary]+ Démonstartion
+> - Initialisisation / cas de base $\star$ <u>si a est vide</u> :
+>   `ajout a e` renvoie `N(e,Vide,Vide)`
+>   `N(e,Vide,Vide)` est un ABR d'après la définition des ABR 
+> 
+>- Etape d'induction $\star$ <u>Si a est non vide</u> ie si `a = N(x,g,d)`
+>  - <mark style="background: #BBFABBA6;"><u>Cas n°1</u></mark> : e=x :  a est un ABR et e appartient à a donc $\mathscr{P}$
+>    
+>  - <mark style="background: #BBFABBA6;"><u>Cas n°2</u></mark> : `a = N(x,g,d)` 
+>    - On veut montrer que ajout a e vérifie $\mathscr{P}$ càd que ajout a e :
+> 	   1)  est un ABR 
+> 	   2) Contient les mêmes valeurs a + eventuellemnt e
+>    - Or l'appel ajout a e renvoie `a' = N(x,ajout g e,d` 
+> 	   1) `g' = ajout g e` est un ABR par hypothèse d'induction
+> 	   d' = d est un ABR (car a est un ABR)
+> 	   Toutes les valeurs dans g' sont $<$ x car ces valeurs sont dans g (et  a ABR)
+> 	   
+> 	   
+> 	   A finir
+
+
+- Remarque sur la méthode d'ajout : 
+  ```mermaid
+  graph TD;
+  id1((1))-->id2((2));
+  id2((2))-->id3((3));
+  id3((3))-->id4((4));
+  id4((4))-->id5((5));
+  ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<u>Rappel</u> : la recherche dans un ABR est en O(h) dans le pire cas, pour un arbre de hauteur h
+Sui
