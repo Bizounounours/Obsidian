@@ -65,7 +65,7 @@
 >Soit $M= \sum^{n}_{i=1}A_iU_i \in I$ et $P \in \mathbb{K}[X]$. On a :
 >$$M \times P = \sum^{n}_{i=1} A_i(U_i \times P) \in I$$
 >
->D'où le resultats
+>D'où le resultat
 
 
 
