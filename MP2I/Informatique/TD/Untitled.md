@@ -1,0 +1,18 @@
+definition abr : 
+- un abr est 
+		soit vide 
+		soit son sous arbre gauche est un abr dont pour toutes étiquettes $x_{g} < racine:r$
+		et son sous arbre droit est un abr dont pour toutes étiquettes $x_{d} > racine:r$
+
+``` Ocaml
+let est_abr a = 
+let rec aux a = match a with
+		|Vide -> true,None,None
+		|N(x,g,d) -> let okg,ming,maxg = aux g 
+					 and okd,mind,maxd = aux d
+					 in 
+					 let res = okg && okd && mind > x && maxg < x
+					 in 
+					 res, if g = V then x else ming
+						  if d = V then x else maxd
+```

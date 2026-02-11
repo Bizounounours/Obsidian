@@ -1,3 +1,5 @@
+
+
 >[!question] Théorème de Bézout 
 >Soient $A,B,C \in \mathbb{K}[X]$. Si $A|BC$ et $A \wedge B=1$ alors $A|C$
 

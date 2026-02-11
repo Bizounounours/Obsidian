@@ -60718,6 +60718,7 @@ rQtr
 rsV
 run
 rkl
+resultat
 Yh
 Yo
 Yen
