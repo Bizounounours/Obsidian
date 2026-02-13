@@ -25,12 +25,14 @@
             "id": "621fee5b03087d0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf"
+                "file": "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "B8"
+              "icon": "lucide-file",
+              "title": "Chapitre 16 Arbres binaires de recherche"
             }
           }
         ],
@@ -195,10 +197,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "621fee5b03087d0e",
+  "active": "d5e66e152642fbb2",
   "lastOpenFiles": [
     "MP2I/Informatique/TD/TD 11.md",
-    "MP2I/!Programmes Khôlles 2026.02.09.md",
+    "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
+    "MP2I/Archives Khôlles/!Programmes Khôlles 2026.02.09.md",
     "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
     "MP2I/Informatique/TD/TD 10.md",
     "murd.md",
@@ -209,7 +212,6 @@
     "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
     "AMONGUS.md",
     "MP2I/Archives Khôlles/!Programme Khôlles 2026.02.02.md",
-    "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
     "MP2I/Index Maths.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 48.md",
     "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",

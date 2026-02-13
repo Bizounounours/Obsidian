@@ -175,3 +175,53 @@ let rec ajout a e = match a with
 
 <u>Rappel</u> : la recherche dans un ABR est en O(h) dans le pire cas, pour un arbre de hauteur h
 Sui
+
+
+
+<u>Supression du max à gauche</u> 
+
+```Ocaml
+let rec supprime_max a = match a with
+	|Vide -> failwith "Arbre Vide"
+	|N(x,Vide,d) -> x,d
+	|N(x,g,d) -> let m,g1 = supprime_max g in m,N(x,g1,d)
+```
+
+`supprime_min a` prend en argument un arbre dont on veut supprimer le max.
+- cet arbre doit être vide
+- si `a = x` (x = Vide / d) alors x est le min et on renvoie x (max) et d (a privé de son max) 
+- si `a = x` (x = g non vide / d ) alors le min est dans g et on le cherche récursivement
+
+`suprime_min g` renvoie le min `m` et `g1 = g` privé de son min
+
+```Ocaml
+let rec supprime a e = match a with
+	|Vide -> Vide 
+	|N(x,g,d) when x = e -> let m,d1 = supprime_min d in N(m,g,d1)
+	|N(x,g,d) when e < x -> N(x, supprime g e, d)
+	|N(x,g,d) -> N(x,g,supprime d e)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
