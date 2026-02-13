@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01e0107fada45e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Théorème 22"
-            }
-          },
-          {
             "id": "621fee5b03087d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 16 Arbres binaires de recherche"
+              "title": "Chapitre 18 Fils de priorité et tas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MP2I/Programme de Khôlles 19.01.26.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Programme de Khôlles 19.01.26"
+              "title": "Outgoing links from Chapitre 18 Fils de priorité et tas"
             }
           },
           {
@@ -138,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MP2I/Physique/Thermodynamique/thermo1.png",
+                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for thermo1"
+              "title": "Backlinks for Chapitre 18 Fils de priorité et tas"
             }
           },
           {
@@ -197,26 +182,32 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d5e66e152642fbb2",
+  "active": "608684da60852a22",
   "lastOpenFiles": [
     "MP2I/Informatique/TD/TD 11.md",
+    "Ink/Drawing/2026.2.13 - 9.47am.drawing",
+    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+    "Ink/Drawing",
+    "Ink",
+    "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
+    "murd.md",
+    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
+    "MP2I/Informatique/Cours/Chapitre 15.md",
+    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
+    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
+    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
     "MP2I/Archives Khôlles/!Programmes Khôlles 2026.02.09.md",
     "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
     "MP2I/Informatique/TD/TD 10.md",
-    "murd.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
     "Untitled.md",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
     "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
     "AMONGUS.md",
     "MP2I/Archives Khôlles/!Programme Khôlles 2026.02.02.md",
     "MP2I/Index Maths.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 48.md",
-    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 55.md",
-    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 53.md",
     "MP2I/Archives Khôlles/!Programme Khôlles 2026.01.19.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 35.png",
@@ -224,18 +215,12 @@
     "MP2I/TIPE/2026-02-03.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 8.png",
     "MP2I/Index Info.md",
-    "MP2I/Informatique/Cours/Chapitre 15.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 Incomplete.pdf",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Cours/D4.pdf",
     "MP2I/Informatique/Cours/Chapitre 14.md",
-    "MP2I/Informatique/Cours/Chapitre 12.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
     "MP2I/Informatique/TD",
     "MP2I/Informatique/Cours",
-    "MP2I/Informatique/Cours/Chapitre 13.md",
-    "MP2I/FR/Devoirs",
-    "MP2I/TIPE",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 83.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 69.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",

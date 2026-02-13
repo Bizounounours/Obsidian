@@ -197,12 +197,27 @@ let rec supprime_max a = match a with
 ```Ocaml
 let rec supprime a e = match a with
 	|Vide -> Vide 
-	|N(x,g,d) when x = e -> let m,d1 = supprime_min d in N(m,g,d1)
+	|N(x,g,d) when x = e (*motif gardé*)-> let m,d1 = supprime_min d in N(m,g,d1)
 	|N(x,g,d) when e < x -> N(x, supprime g e, d)
 	|N(x,g,d) -> N(x,g,supprime d e)
 ```
 
+<u>Complexité O(h)</u> :
 
+>[!summary] Démo
+>1) Complexité de supprime_min. $O(h)$ ou $O(1)+C(d)$
+>2) Complexité supprime. $C(a) = O(1)+C(g)$ ou $O(1)+C(d)$
+>
+>$$C(a) = \cases{
+>\ O(1)+C(d) \ \ \ (1)\\
+>\ O(1)+C(g) \ \ \ (2)\\
+>\ O(1)+C(d) \ \ \ (3)
+>}$$
+><u>Par induction</u> $C(a)=O(h_a)$
+>- Sur un arbre vide $C(v)=O(1)$
+>- Si $C(g)=O(h_g)$ et $C(d)=O(h_d)$  par (1) ,(2), (3) 
+> $$C(a) \leq \underbrace{\alpha \times 1}_{O(1)} + \underbrace{\beta \max(h_g,h_d)}_{O(h_d) \ \text{et} \ O(h_g)} \leq max(\alpha,\beta) \times \max(1+h_d, 1+h_g) 
+> $$ 
 
 
 
