@@ -25,14 +25,12 @@
             "id": "621fee5b03087d0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Informatique/TD/TD 11.md",
-                "mode": "source",
-                "source": false
+                "file": "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf"
               },
-              "icon": "lucide-file",
-              "title": "TD 11"
+              "icon": "lucide-file-text",
+              "title": "B8"
             }
           }
         ],
@@ -199,16 +197,17 @@
   },
   "active": "621fee5b03087d0e",
   "lastOpenFiles": [
+    "MP2I/Informatique/TD/TD 11.md",
+    "MP2I/!Programmes Khôlles 2026.02.09.md",
+    "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
     "MP2I/Informatique/TD/TD 10.md",
     "murd.md",
-    "MP2I/Informatique/TD/TD 11.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
     "Untitled.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
     "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
     "AMONGUS.md",
-    "MP2I/!Programmes Khôlles 2026.02.09.md",
     "MP2I/Archives Khôlles/!Programme Khôlles 2026.02.02.md",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
     "MP2I/Index Maths.md",
@@ -232,11 +231,9 @@
     "MP2I/Informatique/TD",
     "MP2I/Informatique/Cours",
     "MP2I/Informatique/Cours/Chapitre 13.md",
-    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
     "MP2I/FR/Devoirs",
     "MP2I/TIPE",
     "MP2I/Mathematique/B8 Polynômes/Khôlle",
-    "MP2I/Mathematique/B8 Polynômes/Cours",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 83.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 69.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",
