@@ -2599,6 +2599,7 @@ oNj
 otJx
 ojV
 oIC
+option
 Type
 Transparency
 Tabs
@@ -3831,6 +3832,7 @@ TYZ
 TcCY
 TyOQ
 Tas
+Tableau
 Catalog
 Count
 Contents
@@ -7523,6 +7525,10 @@ forall
 ffWGMTC
 fDPLdg
 frMx
+fonctionnne
+filtrage
+finies
+fonctionnel
 StructTreeRoot
 StructParents
 SS
@@ -8767,6 +8773,10 @@ SFz
 SVu
 SQvzKWjPeKKyvOXA
 SZMNW
+Sortie
+Stack
+Syntaxe
+Seront
 MarkInfo
 Marked
 Metadata
@@ -11415,6 +11425,9 @@ tPh
 tvP
 terminera
 tEr
+traits
+take
+tab
 ViewerPreferences
 Vg
 Vk
@@ -14104,6 +14117,11 @@ exeption
 erreur
 exceptions
 eRXepV
+exeptions
+exhaustif
+echec
+empile
+empiler
 Kids
 Kqx
 Kh
@@ -22674,6 +22692,7 @@ showdown
 synthaxe
 srpyx
 stockant
+suivante
 aY
 aq
 aFd
@@ -24320,6 +24339,13 @@ absorbant
 argument
 alternatif
 aYrigr
+advient
+analogue
+adresse
+adresses
+add
+array
+alternative
 dX
 dU
 dy
@@ -25701,6 +25727,8 @@ division
 duira
 dLqCjIx
 dbYGwuGTlatz
+dresser
+demment
 cKB
 cys
 cOA
@@ -27600,6 +27628,11 @@ correspond
 cwkRfEzL
 cutWaG
 czwx
+clenche
+correspondant
+comparent
+continuera
+create
 km
 kl
 kw
@@ -31300,6 +31333,7 @@ QuZ
 QIW
 QUmo
 QWTKpSJzNUjTV
+Queue
 ur
 uq
 ue
@@ -33806,6 +33840,8 @@ NQqw
 NXs
 NCv
 NZtZyzm
+None
+Num
 pC
 pv
 pR
@@ -35485,6 +35521,11 @@ pIP
 pEaozrjtAPJhG
 pxedN
 pSM
+pointeur
+piler
+push
+pil
+positions
 BL
 Bs
 BIv
@@ -36648,6 +36689,7 @@ BRO
 BDa
 BuH
 BxYPW
+Boucle
 Ht
 He
 HL
@@ -38850,6 +38892,7 @@ WpY
 WHdAtHi
 WfQz
 WrXf
+While
 yB
 yR
 yU
@@ -45173,6 +45216,7 @@ lIZ
 lgO
 lzO
 lsqa
+lenght
 bfz
 bh
 bT
@@ -46373,6 +46417,8 @@ bpX
 buh
 bsf
 brk
+boucle
+bool
 gD
 gN
 gGl
@@ -47716,6 +47762,8 @@ gyx
 gagne
 godKankD
 gguxYihTJ
+gative
+gestion
 Ju
 Jx
 Jh
@@ -50077,6 +50125,7 @@ qCf
 qcL
 qaf
 qVzshz
+quence
 xD
 xFUZw
 xM
@@ -51239,6 +51288,7 @@ xecution
 xecuter
 xZYpt
 xDFU
+xception
 mE
 mS
 ml
@@ -52761,6 +52811,13 @@ mSYe
 mDTc
 mRc
 memes
+motif
+matur
+modifiable
+mutabilit
+modules
+mentent
+muables
 Xh
 Xd
 XNe
@@ -58008,6 +58065,10 @@ iaS
 iCpPZ
 interpolation
 iActGVuXgncd
+interesser
+inclus
+incr
+interrompt
 ZM
 ZS
 ZK
@@ -60814,6 +60875,13 @@ rkl
 resultat
 rattrapage
 rdagKV
+remplacera
+ratifs
+renc
+rateurs
+renvoyais
+ref
+return
 Yh
 Yo
 Yen
