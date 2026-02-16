@@ -1172,6 +1172,7 @@ Pxr
 PHT
 Posons
 PUncm
+Proposition
 obj
 oq
 oI
@@ -2600,6 +2601,8 @@ otJx
 ojV
 oIC
 option
+out
+oui
 Type
 Transparency
 Tabs
@@ -4966,6 +4969,8 @@ CGj
 Contient
 CiRA
 CHi
+Compl
+Chercher
 Lang
 Length
 LN
@@ -8777,6 +8782,10 @@ Sortie
 Stack
 Syntaxe
 Seront
+Sommaire
+Suppression
+Supprimer
+Supprime
 MarkInfo
 Marked
 Metadata
@@ -11428,6 +11437,7 @@ tEr
 traits
 take
 tab
+test
 ViewerPreferences
 Vg
 Vk
@@ -12618,6 +12628,8 @@ Vey
 VZUP
 VQH
 Vide
+Vrai
+Variant
 endobj
 eisw
 ez
@@ -16449,6 +16461,8 @@ RzNd
 Remarque
 Rattraper
 RrZKBLvDYNE
+Remplacer
+Reste
 ExtGState
 EG
 EN
@@ -22693,6 +22707,15 @@ synthaxe
 srpyx
 stockant
 suivante
+sents
+suppression
+sch
+supposant
+successivement
+server
+supprim
+supposons
+supprimant
 aY
 aq
 aFd
@@ -24346,6 +24369,9 @@ adresses
 add
 array
 alternative
+abstraite
+ajoutera
+ajouts
 dX
 dU
 dy
@@ -25729,6 +25755,9 @@ dLqCjIx
 dbYGwuGTlatz
 dresser
 demment
+descendre
+doublons
+disjonction
 cKB
 cys
 cOA
@@ -27633,6 +27662,9 @@ correspondant
 comparent
 continuera
 create
+cursifs
+changeant
+croissant
 km
 kl
 kw
@@ -32614,6 +32646,7 @@ uzQ
 umX
 uZq
 uabR
+uds
 NkUK
 NK
 Nv
@@ -33842,6 +33875,7 @@ NCv
 NZtZyzm
 None
 Num
+Notation
 pC
 pv
 pR
@@ -35526,6 +35560,8 @@ piler
 push
 pil
 positions
+peigne
+proscrit
 BL
 Bs
 BIv
@@ -46419,6 +46455,7 @@ bsf
 brk
 boucle
 bool
+bianire
 gD
 gN
 gGl
@@ -50126,6 +50163,7 @@ qcL
 qaf
 qVzshz
 quence
+quilibrer
 xD
 xFUZw
 xM
@@ -51289,6 +51327,7 @@ xecuter
 xZYpt
 xDFU
 xception
+xite
 mE
 mS
 ml
@@ -55324,6 +55363,7 @@ vyV
 viy
 vEwn
 vgq
+ventuellement
 wx
 wo
 wjr
@@ -58069,6 +58109,8 @@ interesser
 inclus
 incr
 interrompt
+instructions
+ivde
 ZM
 ZS
 ZK
@@ -60882,6 +60924,10 @@ rateurs
 renvoyais
 ref
 return
+raccrochement
+revoie
+renvoyer
+rempla
 Yh
 Yo
 Yen
@@ -64429,6 +64475,7 @@ AjDzY
 AJKPkximKV
 AVPc
 AbWdCgg
+Arbre
 hwm
 hp
 hq
@@ -66791,6 +66838,7 @@ Initialisisation
 IdcRuqcq
 IrZPSQ
 IpjDzMJNbu
+Intro
 öp
 öa
 öHu

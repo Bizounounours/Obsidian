@@ -17,8 +17,8 @@ Avec un arbre binaire quelconque, ces opérations sont respectivement, en :
   - <mark style="background: #BBFABBA6;">Methode 1</mark> :
     - O(1) dans tous les cas si on ajoute comme racine (création d'un nouveau noeud et raccordement)
     - O(h) dans le pire cas si on ajoute à une feuille à un noeud n'ayant qu'un fils.
-- <mark style="background: #BBFABBA6;">Méthode 2</mark> : 
-  - Si on fait un parcours en largeur jusqu'au 1er noeud  srtictement negatif  de 2 fils : Complexité en O(n)
+	- <mark style="background: #BBFABBA6;">Méthode 2</mark> : 
+	  - Si on fait un parcours en largeur jusqu'au 1er noeud  srtictement negatif  de 2 fils : Complexité en O(n)
 
 
 
@@ -39,8 +39,21 @@ $$\begin{align}
 E &= \mathbb{N} \ \text{par exemple}\\
 &=R\\
 &=ensemble\\ 
-&=
+&= \text{couples de flottants} \text{ (2,3) < (3,2)   et (2,3) < (2,4)}
 \end{align}$$
+
+```mermaid
+graph TD;
+id1((10)) --> id2((6));
+id1((10)) --> id3((19));
+id2((6)) --> id4((2));
+id2((6)) --> id5((8));
+id3((19)) --> id6((14));
+id3((19)) --> id7((25));
+id7((25)) --> id8((8));
+```
+$8<10$ ce n'est pas un ABR 
+
 
 <mark style="background: #00688F;"><u>Propriété (caractéristique)</u></mark> : 
 	Un arbre binaire est un ABR 
@@ -140,20 +153,21 @@ let rec ajout a e = match a with
 >    - Or l'appel ajout a e renvoie `a' = N(x,ajout g e,d` 
 > 	   1) `g' = ajout g e` est un ABR par hypothèse d'induction
 > 	   d' = d est un ABR (car a est un ABR)
-> 	   Toutes les valeurs dans g' sont $<$ x car ces valeurs sont dans g (et  a ABR)
+> 	   Toutes les valeurs dans g' sont $<$ x car ces valeurs sont dans g (et  a ABR avec x à la racine) ou valent e (et $e < x$)
+> 	   Toutes les valeurs dans d' sont $> x$ car a ABR (avec x à la racine)
 > 	   
 > 	   
 > 	   A finir
 
 
-- Remarque sur la méthode d'ajout : 
-  ```mermaid
+##### Remarque sur la méthode d'ajout : 
+```mermaid
   graph TD;
   id1((1))-->id2((2));
   id2((2))-->id3((3));
   id3((3))-->id4((4));
   id4((4))-->id5((5));
-  ```
+```
 
 
 
@@ -181,13 +195,13 @@ Sui
 <u>Supression du max à gauche</u> 
 
 ```Ocaml
-let rec supprime_max a = match a with
+let rec supprime_min a = match a with
 	|Vide -> failwith "Arbre Vide"
 	|N(x,Vide,d) -> x,d
-	|N(x,g,d) -> let m,g1 = supprime_max g in m,N(x,g1,d)
+	|N(x,g,d) -> let m,g1 = supprime_min g in m,N(x,g1,d)
 ```
 
-`supprime_min a` prend en argument un arbre dont on veut supprimer le max.
+`supprime_min a` prend en argument un arbre dont on veut supprimer le min.
 - cet arbre doit être vide
 - si `a = x` (x = Vide / d) alors x est le min et on renvoie x (max) et d (a privé de son max) 
 - si `a = x` (x = g non vide / d ) alors le min est dans g et on le cherche récursivement

@@ -1,8 +1,8 @@
 
 On présente ici les traits impératifs (ou mutables) de OCaml alors que jusque là, on avait utilisé Ocaml comme langage fonctionnel, dans lequel, toutes les variables et valeurs étaient de type non mutable (non modifiable).
 <h1> I)<u>Référence </u></h1>
-Définition : 
-	Une référence en OCaml est l'analogue d'un pointeur ne C, elle correspond à une adresse en mémoire.
+<mark style="background: #00688F;">Définition : </mark>
+	Une référence en OCaml est l'analogue d'un pointeur en C, elle correspond à une adresse en mémoire.
 
 Pour chaque type de valeur que l'on connaît, on peut définir des références vers des valeurs de ce type.
 
