@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 15.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Théorème 48"
+              "title": "Chapitre 15"
             }
           }
         ]
@@ -157,6 +157,14 @@
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+    "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
+    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
+    "MP2I/Informatique/Cours/Chapitre 15.md",
+    "MP2I/Informatique/Cours/Chapitre 14.md",
+    "MP2I/Informatique/Cours/Chapitre 13.md",
+    "MP2I/Informatique/Cours/Chapitre 12.md",
+    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 (fin).md",
     "MP2I/TIPE/2026-02-10.md",
@@ -169,7 +177,6 @@
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 48.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 55.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle",
     "AMONGUS.md",
     "MP2I/TIPE/2026-02-03.md",
@@ -177,11 +184,6 @@
     "MP2I/GOOFASS INDEX.md",
     "MP2I/Informatique/TD/TD 10.md",
     "MP2I/Informatique/TD",
-    "MP2I/Informatique/Cours/Chapitre 13.md",
-    "MP2I/Informatique/Cours/Chapitre 12.md",
-    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
-    "MP2I/Informatique/Cours/Chapitre 15.md",
-    "MP2I/Informatique/Cours/Chapitre 14.md",
     "MP2I/Informatique/Cours",
     "MP2I/FR/Devoirs/Résumer CCINP.md",
     "MP2I/FR/Devoirs",
@@ -191,8 +193,6 @@
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
     "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
     "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
-    "MP2I/Programme Khôlles 02.02.2026.md",
-    "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/Thermodynamique/thermo1.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
