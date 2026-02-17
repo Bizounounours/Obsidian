@@ -23,8 +23,8 @@ On a donc la possibilité de le rprésenter en stockant son parcours en largeur 
 
 ```C
 struct tas{
-	int * tab;
-	int capacity;
+	int * tab; //valeurs dans le tas
+	int capacity; //nb de cases alloués
 }
 ```
 
@@ -52,6 +52,14 @@ t.tab[j]=temp;
 
 ## II) Opérations sur les tas min 
 
->[!info] Dans un tas min, en tout noeuds les sous-arbres g et d sont des tas-min.
+>[!info] NB : Dans un tas min, en tout noeuds les sous-arbres g et d sont des tas-min.
 
-On va s'interesser à deux 
+On va s'interesser à deux opération
+
+```C
+void up(struct tas,int i){
+//Rétablie la propriété de tas min dans l'hypothèse où t est un tas min sauf éventuellemnt t.tab[i] qui peut être inférieur à son père
+
+}
+```
+
