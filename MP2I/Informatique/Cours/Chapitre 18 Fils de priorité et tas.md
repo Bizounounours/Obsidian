@@ -19,7 +19,7 @@ On a donc la possibilité de le rprésenter en stockant son parcours en largeur 
 }
 ```
 
-<u>Implémentation</u> en C : 
+##### <u>Implémentation</u> en C : 
 
 ```C
 struct tas{
@@ -52,19 +52,71 @@ t.tab[j]=temp;
 
 ## II) Opérations sur les tas min 
 
->[!info] NB : Dans un tas min, en tout noeuds les sous-arbres g et d sont des tas-min.
+>[!note] NB : Dans un tas min, en tout noeuds les sous-arbres g et d sont des tas-min.
 
 On va s'interesser à deux opération
 
 ```C
-void up(struct tas,int i){
-//Rétablie la propriété de tas min dans l'hypothèse où t est un tas min sauf éventuellemnt t.tab[i] qui peut être inférieur à son père
+void up(struct tas t,int i){
+//Rétablie la propriété de tas min dans l'hypothèse où t est un tas min sauf éventuellemnt t.tab[i] qui peut être inférieur à son père à ceci près la structure de tas min doit être respecté càd 
 	int p = pere(i);
-	while (p>0 && t.tab[p]>t.tab[i]{
+	while (p>0 && t.tab[p]>t.tab[i]){
 		swap(t,i,p);
 		i=p;
-		p=pere(i)
+		p=pere(i);
 	}
 }
 ```
+
+`p > 0` : vérifier que i n'est pas à la racine
+`t.tab[p]>t.tab[i]` : on vérifie s'il faut inverser pere et fils
+`i = p; p = pere(i);`  Prépartion de l'itération suivante (éventuelle)
+
+<mark style="background: #00688F;"><u>Complexité</u></mark> : le nombre d'itérations est au plus égale à la profondeur de noeud i. donc la complexité est en $\log_2(i)$ (majoré par $O(h)$)
+
+```C
+void down(struct tas t, int i){
+//Rétablit la propriété de tas min dans l'hypothèse où t est un tas min sauf éventuellement au noeud i, qui peut être supérieur à l'un de ses fils.
+	int taille = t.tab[0];
+	while (i<taille){
+		int gauche = fils_gauche(i);
+		int droit = fils_droit(i);
+		int min_Index = i;
+		//si le fg existe et est pmus petit que le plus petit déja trouvé
+		if
+	}
+}
+```
+
+
+ajouter un éléméen tckn djzb 
+
+mettre a jour un élément  cad draguer la valeur en position i 
+on change la valeur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

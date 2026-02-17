@@ -11438,6 +11438,7 @@ traits
 take
 tab
 test
+tckn
 ViewerPreferences
 Vg
 Vk
@@ -25758,6 +25759,8 @@ demment
 descendre
 doublons
 disjonction
+djzb
+draguer
 cKB
 cys
 cOA
@@ -35562,6 +35565,8 @@ pil
 positions
 peigne
 proscrit
+pere
+partion
 BL
 Bs
 BIv
@@ -52857,6 +52862,7 @@ mutabilit
 modules
 mentent
 muables
+major
 Xh
 Xd
 XNe
@@ -55364,6 +55370,7 @@ viy
 vEwn
 vgq
 ventuellement
+ventuelle
 wx
 wo
 wjr
@@ -58111,6 +58118,7 @@ incr
 interrompt
 instructions
 ivde
+inverser
 ZM
 ZS
 ZK
