@@ -59,7 +59,12 @@ On va s'interesser à deux opération
 ```C
 void up(struct tas,int i){
 //Rétablie la propriété de tas min dans l'hypothèse où t est un tas min sauf éventuellemnt t.tab[i] qui peut être inférieur à son père
-
+	int p = pere(i);
+	while (p>0 && t.tab[p]>t.tab[i]{
+		swap(t,i,p);
+		i=p;
+		p=pere(i)
+	}
 }
 ```
 
