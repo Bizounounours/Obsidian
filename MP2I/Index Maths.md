@@ -1,5 +1,4 @@
 -  [[B8.pdf|B8 Polynômes]]
-  - [[B8.pdf]]
   - [[Théorème 22]]
   - [[MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48|Théorème 48]]
   - [[Théorème 58]]
