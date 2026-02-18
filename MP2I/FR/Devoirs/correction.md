@@ -1,0 +1,1 @@
+crise de sensibilité : crise sensorielle 
