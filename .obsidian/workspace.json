@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/FR/Devoirs/correction.md",
+                "file": "MP2I/Informatique/TD/TD 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "correction"
+              "title": "TD 11"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "995eae4a1e477847",
   "lastOpenFiles": [
-    "MP2I/FR/Devoirs/Résumer CCINP.md",
     "MP2I/FR/Devoirs/correction.md",
+    "MP2I/FR/Devoirs/Résumer CCINP.md",
     "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
     "MP2I/TIPE/2026-02-17.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
