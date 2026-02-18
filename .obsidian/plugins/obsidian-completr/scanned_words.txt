@@ -27668,6 +27668,7 @@ create
 cursifs
 changeant
 croissant
+crise
 km
 kl
 kw
