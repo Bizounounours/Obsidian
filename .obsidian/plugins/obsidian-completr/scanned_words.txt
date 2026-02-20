@@ -1173,6 +1173,7 @@ PHT
 Posons
 PUncm
 Proposition
+Principe
 obj
 oq
 oI
@@ -4971,6 +4972,7 @@ CiRA
 CHi
 Compl
 Chercher
+Code
 Lang
 Length
 LN
@@ -7534,6 +7536,8 @@ fonctionnne
 filtrage
 finies
 fonctionnel
+fusion
+formant
 StructTreeRoot
 StructParents
 SS
@@ -8786,6 +8790,7 @@ Sommaire
 Suppression
 Supprimer
 Supprime
+Suite
 MarkInfo
 Marked
 Metadata
@@ -9947,6 +9952,7 @@ Mpm
 Montrons
 Movxu
 MeC
+Mettre
 true
 tN
 tK
@@ -11439,6 +11445,8 @@ take
 tab
 test
 tckn
+trie
+tablis
 ViewerPreferences
 Vg
 Vk
@@ -14135,6 +14143,7 @@ exhaustif
 echec
 empile
 empiler
+elt
 Kids
 Kqx
 Kh
@@ -17643,6 +17652,7 @@ EaN
 Etape
 Exception
 Erreur
+Extraire
 GS
 Group
 GV
@@ -21064,6 +21074,9 @@ DBckRhgUefxJz
 DImApIPwtP
 DuPIZUxLjgUsvjTutl
 Dmg
+Down
+Def
+Deuxieme
 stream
 sN
 sM
@@ -22717,6 +22730,7 @@ server
 supprim
 supposons
 supprimant
+serve
 aY
 aq
 aFd
@@ -24373,6 +24387,7 @@ alternative
 abstraite
 ajoutera
 ajouts
+application
 dX
 dU
 dy
@@ -25761,6 +25776,7 @@ doublons
 disjonction
 djzb
 draguer
+down
 cKB
 cys
 cOA
@@ -27669,6 +27685,8 @@ cursifs
 changeant
 croissant
 crise
+ceci
+conserver
 km
 kl
 kw
@@ -47807,6 +47825,8 @@ godKankD
 gguxYihTJ
 gative
 gestion
+gal
+gle
 Ju
 Jx
 Jh
@@ -50170,6 +50190,7 @@ qaf
 qVzshz
 quence
 quilibrer
+quotient
 xD
 xFUZw
 xM
@@ -55372,6 +55393,7 @@ vEwn
 vgq
 ventuellement
 ventuelle
+void
 wx
 wo
 wjr
@@ -58120,6 +58142,7 @@ interrompt
 instructions
 ivde
 inverser
+insertions
 ZM
 ZS
 ZK
@@ -60937,6 +60960,8 @@ raccrochement
 revoie
 renvoyer
 rempla
+remplies
+rajouter
 Yh
 Yo
 Yen
@@ -64485,6 +64510,7 @@ AJKPkximKV
 AVPc
 AbWdCgg
 Arbre
+Actualiser
 hwm
 hp
 hq
@@ -66848,6 +66874,7 @@ IdcRuqcq
 IrZPSQ
 IpjDzMJNbu
 Intro
+Insertion
 öp
 öa
 öHu

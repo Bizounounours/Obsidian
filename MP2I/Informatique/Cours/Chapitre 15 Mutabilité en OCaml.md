@@ -7,19 +7,19 @@ On présente ici les traits impératifs (ou mutables) de OCaml alors que jusque 
 Pour chaque type de valeur que l'on connaît, on peut définir des références vers des valeurs de ce type.
 
 ````OCaml
-#let s  = ref 0;
+let s  = ref 0;
 si int ref = {content = 0}
 `````
 
 Pour accéder à la valeur référencée par s :
 ````OCaml
-#!s  (*Analogue de *p en C *)
+!s  (*Analogue de *p en C *)
 int = 0
 `````
 
 Pour changer la valeur référencée :
 ````OCaml
-#s := 2
+s := 2
 -: unit = ()    (* instruction de type unit*)
 `````
 
