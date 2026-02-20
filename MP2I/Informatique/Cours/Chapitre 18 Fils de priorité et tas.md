@@ -182,6 +182,10 @@ struct tas init(int* tab, int taille){
 }
 ```
 
+Compléxité : 
+$$
+O(1)+\sum^{h}_{k=0}O(k)\underbrace{ 2^k}_{\text{nombre de noeud à la profondeur k}}
+$$
 ### 2) Deuxieme façon
 
 ```C
@@ -202,3 +206,9 @@ struct tas init(int* tab, int taille){
 }
 ```
 
+
+
+hrejgjr
+ijfezlkjl
+jkzjfzjekjhehpzzpam;s
+skmmasls;a
