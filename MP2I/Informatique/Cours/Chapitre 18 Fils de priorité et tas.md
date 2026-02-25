@@ -176,7 +176,7 @@ struct tas init(int* tab, int taille){
 	t.tab[0] = 0
 	for(int i =0; i<taille; i++){
 		inserer(t,tab[i]) /*Préconditions: que le tableau t.tab soit de taille 
-		suffisnate pour aceuillir la valeur tab[i]*/ 
+		suffisante pour aceuillir la valeur tab[i]*/ 
 	}
 	return t; //On renvoie une copie de la structure crée
 }
