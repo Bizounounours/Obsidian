@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 18 Fils de priorité et tas"
+              "title": "Chapitre 16 Arbres binaires de recherche"
+            }
+          },
+          {
+            "id": "cd4fcbf18b7ad0a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +195,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "78447da6a94c5ed1",
+  "active": "cd4fcbf18b7ad0a1",
   "lastOpenFiles": [
-    "MP2I/Chapitre 18 - Files de priorité et tas.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+    "MP2I/Chapitre 18 - Files de priorité et tas.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 15 Mutabilité en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 13.md",
