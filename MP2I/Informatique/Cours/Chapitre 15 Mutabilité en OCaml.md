@@ -28,7 +28,7 @@ s := 2
 	 qui compare les adresses en mémoire (alors que = et <> comparent les valeurs référencées)
 
 ````OCaml
-#let s = ref 0 and r = ref 0
+let s = ref 0 and r = ref 0
 `````
 
 On aura : 
