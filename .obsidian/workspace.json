@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Chapitre 16 Arbres binaires de recherche"
             }
-          },
-          {
-            "id": "cd4fcbf18b7ad0a1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
