@@ -21,7 +21,7 @@
 >
 >On conjecture que pour tout $i \in [\![1;m]\!]$
 >$$\begin{align}
->P^{(i)} &= \sum^{m}_{k=i}\underbrace{(k(k-1)\dots(k-i+1))a_kX^{k-i}}_{\frac{k!}{(k-i)!}} \\
+>P^{(i)} &= \sum^{m}_{k=i}\underbrace{(k(k-1)\dots(k-i+1))}a_kX^{k-i}_{\frac{k!}{(k-i)!}} \\
 >&=\sum^{m}_{k=i}\frac{k!}{(kk-i)!}a_kXk^{k-i} \\
 >&= \sum^{m-i}_{j=0}\frac{(j+i)!}{j!}a_{j+i}X^j \ \ \ \ \ \ \ \ j=k-i \\
 >\end{align}$$
