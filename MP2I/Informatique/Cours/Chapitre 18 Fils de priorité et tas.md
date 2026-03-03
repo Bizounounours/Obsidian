@@ -21,7 +21,7 @@ On a donc la possibilité de le rprésenter en stockant son parcours en largeur 
 
 ##### <u>Implémentation</u> en C : 
 
-```C
+```C {pre}
 struct tas{
 	int * tab; //valeurs dans le tas
 	int capacity; //nb de cases alloués

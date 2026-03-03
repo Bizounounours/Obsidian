@@ -40,3 +40,15 @@ Lim x->0 x2= 0
 soit $f:I\to J$ 
 
 https://brantsteele.net/hungergames/night1.php
+
+
+
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Success!");
+    return 0;
+}
+```
