@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+                "file": "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Khôlle/Théorème 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 18 Fils de priorité et tas"
+              "title": "Théorème 26"
+            }
+          },
+          {
+            "id": "22bbd50932418823",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Cours/B7.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "B7"
             }
           }
         ]
@@ -184,22 +196,28 @@
   },
   "active": "78447da6a94c5ed1",
   "lastOpenFiles": [
-    "murd.md",
-    "AMONGUS.md",
-    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
-    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
-    "MP2I/Informatique/Cours/Chapitre 14.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Khôlle/Théorème 26.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
-    "MP2I/Informatique/Cours/Chapitre 15 Mutabilité en OCaml.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Cours/B7.pdf",
+    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Cours/Définitions importantes.md",
+    "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Khôlle",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Cours",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires",
+    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "MP2I/Index Maths.md",
     "MP2I/Index Info.md",
+    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+    "murd.md",
+    "AMONGUS.md",
+    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
+    "MP2I/Informatique/Cours/Chapitre 14.md",
+    "MP2I/Informatique/Cours/Chapitre 15 Mutabilité en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 13.md",
     "MP2I/Informatique/Cours/Chapitre 12.md",
-    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
-    "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
     "MP2I/Chapitre 18 - Files de priorité et tas.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 8.png",
     "MP2I/Informatique/TD/TD 11.md",
@@ -210,18 +228,11 @@
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
     "Untitled.md",
-    "MP2I/Chapitre 16 - Arbres binaires de recherche.md",
     "Ink/Drawing/2026.2.13 - 9.47am.drawing",
-    "MP2I/Informatique/Cours/Chapitre 15.md",
     "Ink/Drawing",
     "Ink",
-    "MP2I/Archives Khôlles/!Programmes Khôlles 2026.02.09.md",
     "MP2I/SI/Séquence 4/Cours/intro à la cinematique.pdf",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 35.png",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 Incomplete.pdf",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Cours/D4.pdf",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Khôlles D3.pdf",
-    "MP2I/Informatique/TD",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 83.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 69.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Khôlle/Théorème 54.png",
