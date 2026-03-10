@@ -208,7 +208,33 @@ struct tas init(int* tab, int taille){
 
 
 
-hrejgjr
-ijfezlkjl
-jkzjfzjekjhehpzzpam;s
-skmmasls;a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
