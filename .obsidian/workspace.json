@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0824458e5e81e577",
+        "id": "664815e8aa78656d",
         "type": "tabs",
         "children": [
           {
-            "id": "78447da6a94c5ed1",
+            "id": "dee395b4eb70ce93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+                "file": "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 18 Fils de priorité et tas"
-            }
-          },
-          {
-            "id": "833c1bd19d78126b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 19 Dictionnaire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 19 Dictionnaire"
-            }
-          },
-          {
-            "id": "22bbd50932418823",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Cours/B7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "B7"
+              "title": "Rapport de l'homme à la nature"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+                "file": "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapitre 18 Fils de priorité et tas"
+              "title": "Outgoing links from Rapport de l'homme à la nature"
             }
           },
           {
@@ -150,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+                "file": "Chapitre 19 Dictionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapitre 18 Fils de priorité et tas"
+              "title": "Backlinks for Chapitre 19 Dictionnaire"
             }
           },
           {
@@ -169,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Programme de Khôlles 19.01.26.md",
+                "file": "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programme de Khôlles 19.01.26"
+              "title": "Outline of Rapport de l'homme à la nature"
             }
           },
           {
@@ -209,10 +182,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "833c1bd19d78126b",
+  "active": "608684da60852a22",
   "lastOpenFiles": [
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Khôlle/Théorème 26.md",
+    "MP2I/TIPE/2026-03-10.md",
+    "MP2I/TIPE/2026-02-17.md",
+    "MP2I/TIPE/2026-02-10.md",
+    "MP2I/TIPE/2026-02-03.md",
     "Chapitre 19 Dictionnaire.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Khôlle/Théorème 26.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
@@ -238,12 +215,8 @@
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 8.png",
     "MP2I/Informatique/TD/TD 11.md",
     "MP2I/FR/Devoirs/correction.md",
-    "MP2I/FR/Devoirs/Résumer CCINP.md",
-    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
-    "MP2I/TIPE/2026-02-17.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
-    "Untitled.md",
     "Ink/Drawing/2026.2.13 - 9.47am.drawing",
     "Ink/Drawing",
     "Ink",
