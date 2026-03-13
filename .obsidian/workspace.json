@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rapport de l'homme à la nature"
+              "title": "Chapitre 17 Les exceptions en OCaml"
             }
           }
         ]
@@ -182,15 +182,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "608684da60852a22",
+  "active": "dee395b4eb70ce93",
   "lastOpenFiles": [
+    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaire.md",
+    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+    "MP2I/Informatique/TD/TD 11.md",
     "MP2I/TIPE/2026-03-10.md",
     "MP2I/TIPE/2026-02-17.md",
     "MP2I/TIPE/2026-02-10.md",
     "MP2I/TIPE/2026-02-03.md",
-    "Chapitre 19 Dictionnaire.md",
+    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Khôlle/Théorème 26.md",
-    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 22.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Cours/B7.pdf",
@@ -213,8 +215,6 @@
     "MP2I/Informatique/Cours/Chapitre 12.md",
     "MP2I/Chapitre 18 - Files de priorité et tas.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 8.png",
-    "MP2I/Informatique/TD/TD 11.md",
-    "MP2I/FR/Devoirs/correction.md",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours/D3.pdf",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
     "Ink/Drawing/2026.2.13 - 9.47am.drawing",

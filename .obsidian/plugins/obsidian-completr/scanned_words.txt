@@ -14201,6 +14201,7 @@ ecb
 etre
 entieres
 essai
+efforcera
 Kids
 Kqx
 Kh
@@ -48028,6 +48029,7 @@ gYp
 germandbls
 guillemotleft
 guillemotright
+gat
 Ju
 Jx
 Jh
@@ -58389,6 +58391,7 @@ icircumflex
 iLj
 ijN
 interface
+interet
 ZM
 ZS
 ZK

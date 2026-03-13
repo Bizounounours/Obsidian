@@ -59,6 +59,40 @@ inconvénient :
 une table
 
 
+on s'efforcera d'avoir $\frac{\alpha}{N}$ proche de $1$ quel que soient $n$ et $N$ et donc
+
+
+
+
+
+
+
+
+
+
+cad un agrégat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
