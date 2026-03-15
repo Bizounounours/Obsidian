@@ -8,41 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "addecf07bbcc570a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!Programmes Khôlles 18"
-            }
-          },
-          {
             "id": "e0bfea66e6e3eb82",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "69a207aafe186766",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Mathematique/D3 Limites de Fonctions et continuité/!D3.md",
+                "file": "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!D3"
+              "title": "Théorème 15"
+            }
+          },
+          {
+            "id": "f25fda3331db8ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Théorème 15"
             }
           }
         ],
@@ -203,30 +193,34 @@
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e0bfea66e6e3eb82",
+  "active": "f25fda3331db8ac3",
   "lastOpenFiles": [
+    "MP2I/Colles Maths 21.md",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 15.md",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/!B9.md",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/énoncé/Enonce13.png",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 14.md",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 13.md",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/B9.pdf",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/énoncé/Enonce15.png",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/énoncé/Enonce14.png",
+    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/!D3.md",
+    "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
     "MP2I/Index_Maths.md",
     "MP2I/Index_Info.md",
     "MP2I/Archives Khôlles/!INDEX_colles.md",
-    "MP2I/Colles Maths 21.md",
-    "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/!B9.md",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 14.md",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/B9.pdf",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/!D3.md",
     "MP2I/Informatique/TD/TD 11.md",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Théorème 26.md",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 13.md",
     "MP2I/Archives Khôlles/Maths",
     "MP2I/Archives Khôlles/Old",
     "murd.md",
@@ -242,8 +236,6 @@
     "MP2I/Mathematique/!Fiche utile/Multiplication Matrices.md",
     "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/énoncé/B9.png",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/énoncé/B9 1.png",
     "MP2I/Mathematique/B9 Fonctions Rationelles/énoncé",
     "MP2I/Mathematique/B8 Polynômes/Théorème 58.md",
     "Autres/Icones/Hesse.png",
@@ -251,12 +243,10 @@
     "Autres/Nouveau dossier",
     "Autres",
     "MP2I/Mathematique/B8 Polynômes/Théorème 22.md",
-    "MP2I/Mathematique/B8 Polynômes/Théorème 48.md",
     "B9.webp",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Théorème 35.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Théorème 83.png",
     "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Théorème 54.png",
-    "MP2I/Mathematique/D3 Limites de Fonctions et continuité/Théorème 21.png",
     "Untitled.canvas",
     "Sans titre.canvas",
     "Sans titre 1.canvas"

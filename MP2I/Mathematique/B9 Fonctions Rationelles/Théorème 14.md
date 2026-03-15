@@ -1,6 +1,6 @@
 ### Décomposition Polaire
 
-![[B9 1.png]]
+![[Enonce14.png]]
 
 > [!colles]+ Démonstration
 > 

@@ -1,0 +1,43 @@
+/* 1. HIDE EMBED HEADERS (Théorème 13) BUT KEEP BLUE LINE */
+.markdown-embed-header {
+  display: none !important;
+}
+
+.markdown-embed {
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+  /* Keeps the blue accent line on the left */
+  border-left: 2px solid var(--interactive-accent) !important; 
+  padding-left: 15px !important;
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
+
+/* 2. UNIVERSAL LINK STYLING (Normal State) */
+/* Targets Editor (Live Preview) and Reading Mode */
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link, 
+.markdown-rendered .internal-link,
+.markdown-rendered blockquote .internal-link {
+  color: #00688f !important; /* Change this to your preferred link color */
+  text-decoration: none !important;
+  font-weight: 500;
+  transition: color 0.15s ease-in-out;
+}
+
+/* 3. HOVER EFFECT (Works everywhere) */
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link:hover, 
+.markdown-rendered .internal-link:hover,
+.markdown-rendered blockquote .internal-link:hover {
+  color: #b80202 !important; /* The color when you hover */
+  text-decoration: underline !important;
+  cursor: pointer;
+  opacity: 1 !important;
+}
+
+/* 4. OPTIONAL: Style for 'Unresolved' links (links to files that don't exist yet) */
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link.is-unresolved,
+.markdown-rendered .internal-link.is-unresolved {
+  color: #ff4444 !important; /* Makes them red-ish */
+  opacity: 0.7;
+}

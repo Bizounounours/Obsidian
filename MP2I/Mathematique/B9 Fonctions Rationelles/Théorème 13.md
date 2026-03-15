@@ -1,6 +1,6 @@
 ### $F$ s’écrit de manière unique $F = E + G$
 
-![[B9.png]]
+![[Enonce15.png]]
 
 > [!colles]+ Démonstration
 > #### Existence:
