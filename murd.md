@@ -58,3 +58,6 @@ int main() {
 
 
 $\alpha_{peak} \\dot{s}$
+$$
+\dots
+$$
