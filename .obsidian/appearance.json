@@ -4,6 +4,7 @@
   "cssTheme": "Tokyo Night",
   "accentColor": "#00688f",
   "enabledCssSnippets": [
-    "RoundedCorner"
+    "RoundedCorner",
+    "NO TITLE IN EMBED"
   ]
 }

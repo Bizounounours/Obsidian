@@ -5,26 +5,40 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"MP2I/Mathematique/D3 Limites de Fonctions et continuité/Cours\"  ",
+      "query": "file:Index Maths",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 182809
+      }
+    },
+    {
+      "query": "tag:#Kholles  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Chap_maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 28685
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.96302083333333,
+  "nodeSizeMultiplier": 1.53131578947368,
+  "lineSizeMultiplier": 3.37526315789474,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0534979423868298,
+  "centerStrength": 0.513157894736842,
+  "repelStrength": 10.7368421052632,
+  "linkStrength": 0.468421052631579,
+  "linkDistance": 113,
+  "scale": 0.6146654427851901,
   "close": true
 }

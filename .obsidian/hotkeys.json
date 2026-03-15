@@ -52,5 +52,14 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
