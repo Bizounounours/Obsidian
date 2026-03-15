@@ -1,0 +1,12 @@
+/* Hides the filename header and the link icon in embeds */
+.markdown-embed-header, 
+.markdown-embed-title {
+  display: none !important;
+}
+
+/* Optional: Removes the border and extra padding for a seamless look */
+.markdown-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}

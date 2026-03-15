@@ -1,5 +1,4 @@
 
-[[D4.pdf|Original]]
 >[!info] Définition Générale
 >Soit $f : I \to \mathbb{R}$ une fonction dérivable en $0$. Il existe alors une fonction $\varepsilon : I \to \mathbb{R}$ telle que :
 >$$
@@ -10,7 +9,7 @@
 >}
 > $$
 
-
+   
 >[!example] Cas fréquents
 >
 >$\forall x \in I$ et $\alpha$ un réel fixé

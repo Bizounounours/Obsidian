@@ -3,7 +3,7 @@ Une "exeption" est un mécanisme qui cause l'arrêt de l'éxecution d'un program
 
 <u>Par exemple</u> :
 ```Ocaml
-# let x = 1/0;;
+let x = 1/0;;
 Exeption: Division_by_zero
 ```
 
