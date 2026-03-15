@@ -1,3 +1,5 @@
+#Kholles 
+
 ## Chapitre B8 : 
 
 - Formule de Taylor pour les Polynômes [[Théorème 22]]
