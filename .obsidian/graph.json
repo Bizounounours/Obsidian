@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Index Maths",
+      "query": "file:Index_Maths",
       "color": {
         "a": 1,
         "rgb": 182809
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:!INDEX colles",
+      "query": "file:!INDEX_colles",
       "color": {
         "a": 1,
         "rgb": 15784960
@@ -46,6 +46,6 @@
   "repelStrength": 10.7368421052632,
   "linkStrength": 0.468421052631579,
   "linkDistance": 113,
-  "scale": 1.1817167083573048,
+  "scale": 0.8370353605643189,
   "close": false
 }
