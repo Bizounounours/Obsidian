@@ -1,0 +1,6 @@
+/* Arrondir les bords des images dans les notes */
+.markdown-source-view.mod-cm6 .cm-content img, /* Mode Édition / Live Preview */
+.markdown-rendered img {                      /* Mode Lecture */
+    border-radius: 12px;                      /* Ajuste cette valeur selon ton goût */
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1); /* Optionnel : ajoute une ombre légère */
+}

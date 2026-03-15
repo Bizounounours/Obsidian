@@ -52,3 +52,7 @@ int main() {
     return 0;
 }
 ```
+
+
+
+![[B9.webp|697]]

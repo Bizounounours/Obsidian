@@ -1,6 +1,6 @@
 -  [[B8.pdf|B8 Polynômes]]
   - [[Théorème 22]]
-  - [[MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48|Théorème 48]]
+  - [[MP2I/Mathematique/B8 Polynômes/Théorème 48|Théorème 48]]
   - [[Théorème 58]]
 
 - [[D3.pdf|D3 Limites de fonction et contnuité]] 

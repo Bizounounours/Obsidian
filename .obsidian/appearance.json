@@ -3,5 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "Tokyo Night",
   "accentColor": "#00688f",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "RoundedCorner"
+  ]
 }
