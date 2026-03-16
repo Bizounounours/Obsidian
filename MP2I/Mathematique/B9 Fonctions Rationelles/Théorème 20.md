@@ -1,3 +1,6 @@
+
+### Décomposition en éléments simples de $\frac{P′}{P}$ avec $P ∈ \mathbb{C}[X]$
+
 ![[Enonce20.png]]
 
 >[!colles]+ Démonstration
