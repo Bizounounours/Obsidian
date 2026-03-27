@@ -28,7 +28,7 @@ struct tas{
 }
 ```
 
-```C
+```C {pre}
 int fils_gauche(int i){
 	return 2*i;
 }
@@ -74,7 +74,7 @@ void up(struct tas t,int i){
 
 <mark style="background: #00688F;"><u>Complexité</u></mark> : le nombre d'itérations est au plus égale à la profondeur de noeud i. donc la complexité est en $\log_2(i)$ (majoré par $O(h)$)
 
-```C
+```C {pre}
 void down(struct tas t, int i){
 //Rétablit la propriété de tas min dans l'hypothèse où t est un tas min sauf éventuellement au noeud i, qui peut être supérieur à l'un de ses fils.
 	int taille = t.tab[0];
@@ -82,8 +82,8 @@ void down(struct tas t, int i){
 		int gauche = fils_gauche(i);
 		int droit = fils_droit(i);
 		int min_Index = i;
-		//si le fg existe et est pmus petit que le plus petit déja trouvé
-//trouvé (ici i)
+		//si le fg existe et est plus petit que le plus petit déja trouvé
+		//trouvé (ici i)
 		if (gauche <= taille && t.tab[gauche]<t.tab[minIndex]){
 			minIndex = gauche;
 		}

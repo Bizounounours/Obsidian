@@ -42,7 +42,8 @@
 >&=\frac{\mu_{i}}{X-\alpha_{i}}
 >\end{align}
 >$$
->Ainsi $\frac{P'}{P}=\sum^{r}_{i=1}\frac{\mu_{i}}{X-\alpha_{i}}$
+>Ainsi
+>$$\frac{P'}{P}=\sum^{r}_{i=1}\frac{\mu_{i}}{X-\alpha_{i}}$$
 
 
 

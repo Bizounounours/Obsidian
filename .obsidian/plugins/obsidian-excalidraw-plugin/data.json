@@ -35,17 +35,18 @@
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
-  "width": "400",
+  "width": "",
   "height": "",
   "overrideObsidianFontSize": false,
-  "dynamicStyling": "colorful",
+  "dynamicStyling": "none",
   "isLeftHanded": false,
   "desktopUIMode": "tray",
   "tabletUIMode": "compact",
+  "phoneUIMode": "mobile",
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
-  "matchThemeAlways": false,
-  "matchThemeTrigger": false,
+  "matchTheme": true,
+  "matchThemeAlways": true,
+  "matchThemeTrigger": true,
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
@@ -55,7 +56,7 @@
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
-  "allowPinchZoom": false,
+  "allowPinchZoom": true,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": false,
@@ -88,7 +89,7 @@
   "exportPaddingSVG": 10,
   "exportEmbedScene": false,
   "keepInSync": false,
-  "autoexportSVG": false,
+  "autoexportSVG": true,
   "autoexportPNG": false,
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
@@ -112,18 +113,63 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.19.2",
-    "libraryItems": []
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.20.6",
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "xDPtuhoK",
+            "type": "frame",
+            "x": 1220,
+            "y": -780,
+            "width": 2000,
+            "height": 3040,
+            "angle": 0,
+            "strokeColor": "#bbb",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "aI",
+            "roundness": null,
+            "seed": 1971041280,
+            "version": 43,
+            "versionNonce": 1899629568,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1773657738736,
+            "link": null,
+            "locked": false,
+            "customData": {
+              "frameColor": {
+                "stroke": "#bbb",
+                "fill": "rgba(0, 0, 200, 0.04)",
+                "nameColor": "#999999"
+              }
+            },
+            "name": null,
+            "hasTextLink": false
+          }
+        ],
+        "id": "ACv00l-PLMa3VQhtjspLy",
+        "created": 1773657744068
+      }
+    ]
   },
   "imageElementNotice": true,
-  "mdSVGwidth": 500,
+  "mdSVGwidth": 1000,
   "mdSVGmaxHeight": 800,
   "mdFont": "Virgil",
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.19.2",
+  "previousRelease": "2.20.6",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -458,11 +504,11 @@
   "pdfImportScale": 0.3,
   "gridSettings": {
     "DYNAMIC_COLOR": true,
-    "COLOR": "#000000",
-    "OPACITY": 50,
+    "COLOR": "#6e00db",
+    "OPACITY": 100,
     "GRID_DIRECTION": {
       "horizontal": true,
-      "vertical": true
+      "vertical": false
     }
   },
   "laserSettings": {
