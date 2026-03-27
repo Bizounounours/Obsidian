@@ -11,7 +11,7 @@
 > Donc :
 > $$F=\frac{P}{Q}=\frac{BQ+R}{Q}=B+\frac{R}{Q}$$
 > Or $B \in \mathbb{K}[X]$ et $\deg\left( \frac{R}{Q} \right)=\deg R-\deg Q <0$
-> D'où l'éxistence 
+> D'où l'existence 
 > 
 > 
 > #### Unicité

@@ -55,9 +55,21 @@ int main() {
 
 
 
+![[Drawing 2026-03-18 10.12.31.excalidraw.svg]]
 
 
-$\alpha_{peak} \\dot{s}$
+
+
+![[Drawing 2026-03-18 10.15.15.excalidraw.svg]]
+
+
+
+
 $$
-\dots
+\begin{align}
+\Delta(f)=f' \\
+
+\Delta(y^{(4)}+2y^{(2)}+y) = \Delta(0) \\
+\implies (y^{(4)}+2y^{(2)}+y)'=0'
+\end{align}
 $$

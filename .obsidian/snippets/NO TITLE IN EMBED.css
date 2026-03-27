@@ -1,12 +1,20 @@
-/* Hides the filename header and the link icon in embeds */
+/* Cache l'en-tête et l'icône de lien dans les embeds */
 .markdown-embed-header, 
 .markdown-embed-title {
   display: none !important;
 }
 
-/* Optional: Removes the border and extra padding for a seamless look */
+/* Supprime les bordures, marges et force le fond transparent */
 .markdown-embed {
   border: none !important;
   padding: 0 !important;
   margin: 0 !important;
+  background-color: transparent !important; /* Rend le fond transparent */
+}
+
+/* Cible spécifiquement l'export PDF pour s'assurer que le fond est blanc/propre */
+@media print {
+  .markdown-embed {
+    background-color: white !important;
+  }
 }

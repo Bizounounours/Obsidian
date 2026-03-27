@@ -26,7 +26,7 @@ etc...
 
 Une fois un type d'exception définie, on peut déclencher avec le mot-clé `raise` 
 ```Ocaml
-# raise (D, "toto")
+raise (D, "toto")
 (*causera l'arret avec l'affichage*)
 Exception : D toto
 ```

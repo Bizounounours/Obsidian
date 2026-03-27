@@ -15,5 +15,8 @@
   "obsidian-latex-suite",
   "pdf-plus",
   "callout-manager",
-  "obsidian-hider"
+  "obsidian-hider",
+  "obsidian-importer",
+  "obsidian-enhancing-export",
+  "obsidian-excalidraw-plugin"
 ]
