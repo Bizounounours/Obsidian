@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 19 Dictionnaires"
+              "title": "Chapitre 21 Entrées Sorties"
             }
           }
         ]
@@ -189,11 +189,12 @@
   },
   "active": "0886e8bbf7cd5ed6",
   "lastOpenFiles": [
+    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
+    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
     "MP2I/Informatique/TD/TD 10.md",
     "MP2I/Informatique/TD/TD 11.md",
-    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
-    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Informatique/Cours/Chapitre 18 Files de priorité et tas.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
@@ -224,7 +225,6 @@
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce23.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/!C1.md",
-    "MP2I/TIPE/2026-03-17.md",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",

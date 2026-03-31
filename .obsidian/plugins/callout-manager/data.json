@@ -1,7 +1,8 @@
 {
   "callouts": {
     "custom": [
-      "colles"
+      "colles",
+      "definition"
     ],
     "settings": {
       "colles": [
@@ -9,6 +10,29 @@
           "changes": {
             "icon": "lucide-book-heart",
             "color": "227, 107, 167"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-book-key"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 234, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 234, 0"
           }
         }
       ]
