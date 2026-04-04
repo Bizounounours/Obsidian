@@ -40438,6 +40438,7 @@ pXuR
 progresse
 produisant
 principes
+ponses
 BL
 Bs
 BIv
@@ -42977,6 +42978,7 @@ HgM
 HrX
 Hasard
 Hybris
+Homme
 Wn
 Wi
 Wr
@@ -52916,6 +52918,7 @@ botaniques
 brales
 biochimie
 bleues
+borgne
 gD
 gN
 gGl
@@ -66294,6 +66297,7 @@ indivisible
 immunisent
 injection
 isolement
+interrogent
 ZM
 ZS
 ZK
@@ -69514,6 +69518,7 @@ rectification
 respecter
 rousses
 rempart
+raisonne
 Yh
 Yo
 Yen
