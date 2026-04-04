@@ -32,7 +32,7 @@
 
 - **Le regard intérieur du scientifique** : Le savant est lui-même un vivant ; il ne peut donc pas avoir un regard purement objectif ou extérieur sur la vie.
     
-    - **Anthropomorphisme** : On juge le hérisson traversant une route comme commettant une « faute », alors qu'il suit ses propres normes de vivant dans son milieu.
+    - **Anthropomorphisme** : On juge le hérisson traversant une route comme commettant une « faute », alors qu'il suit ses propres normes de vivant dans son milieu
 
 
 ## III. Organisme contre Machine (Le Vitalisme)
