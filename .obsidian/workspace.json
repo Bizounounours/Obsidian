@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMONGUS.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AMONGUS"
+              "title": "Chapitre 18 Fils de priorité et tas"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "ebc0ae5636c74790",
   "lastOpenFiles": [
+    "AMONGUS.md",
     "conflict-files-obsidian-git.md",
     "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Mathematique/B8 Polynômes/Théorème 48.md",
@@ -235,7 +236,6 @@
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
-    "AMONGUS.md",
     "MP2I/Informatique/TD/TD 12.md",
     "INDEX INFINI.base",
     "MP2I/Informatique/TD/TD 11.md",
