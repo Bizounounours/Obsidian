@@ -6,7 +6,7 @@
 > \left|f(b) −\sum_{k=0}^n \frac{f^{(k)}(a)}{k!} (b − a)^k \right| \leq \frac{(b − a)^{n+1}}{(n + 1)!} \sup_{x∈[a,b]}\left|f^{(n+1)}(x)\right|
 >$$
 
->[!tip]+ Démonstartion
+>[!tip]+ Démonstration
 >La formule de Taylor avec reste intégral donne :
 >$$
 >f(b)-\sum^{n}_{k=0}\frac{f^{(n+1)}(a)}{k!}(b-a)^k=R_n

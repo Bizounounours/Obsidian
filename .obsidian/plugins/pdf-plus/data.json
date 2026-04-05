@@ -264,7 +264,7 @@
   "newPDFLocation": "current",
   "newPDFFolderPath": "",
   "rectEmbedStaticImage": true,
-  "rectImageFormat": "file",
+  "rectImageFormat": "data-url",
   "rectImageExtension": "png",
   "zoomToFitRect": false,
   "rectFollowAdaptToTheme": true,
