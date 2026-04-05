@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Théorème 7"
             }
+          },
+          {
+            "id": "ebc0ae5636c74790",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "AMONGUS.md",
+                "bFile": "AMONGUS.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: AMONGUS  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,13 +218,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "bf87c95b661056f7",
+  "active": "ebc0ae5636c74790",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Mathematique/B8 Polynômes/Théorème 48.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Théorème 55.md",
     "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Mathematique/B8 Polynômes/Théorème 58.md",
-    "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Mathematique/D7 Développements Limités/!D7.md",
     "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
@@ -235,7 +250,6 @@
     "MP2I/Informatique/Cours/Chapitre 18 Files de priorité et tas.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité Avancé.md",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaire.md",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Théorème 18.md",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/C1.pdf",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",

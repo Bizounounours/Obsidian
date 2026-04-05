@@ -83,7 +83,7 @@ void down(struct tas t, int i){
 		int droit = fils_droit(i);
 		int min_Index = i;
 		//si le fg existe et est plus petit que le plus petit déja trouvé
-		//trouvé (ici i)
+		//(ici i)
 		if (gauche <= taille && t.tab[gauche]<t.tab[minIndex]){
 			minIndex = gauche;
 		}
