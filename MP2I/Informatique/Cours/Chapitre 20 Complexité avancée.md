@@ -84,7 +84,9 @@ $$\forall n \geq 1, C_{m}(n+1) - C_{m}(n) = \frac{1}{2^n}$$
 
 ### 2)<u>Complexité du tri-bulle</u> : 
 
->[!warning] tri-bulle et tri sélection
+>[!warning] ATTENTION ⚠
+>
+><mark style="background: #FF5582A6;">tri-bulle et tri sélection</mark>
 >OK pour des exercices, mais à ne pas citer en exemple 
 >(préférer : 
 >- tri insertion

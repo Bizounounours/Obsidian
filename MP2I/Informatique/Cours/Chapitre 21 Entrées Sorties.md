@@ -37,6 +37,51 @@ Le système d'exploitation gère une table des inodes dans laquelle, à chaque i
 
 
 
+E étant non vide, il admet un élément minimal par $\star$ que l'on $n_{0}$
+
+
+
+
+
+x est un prédecesseur de y d'un ensemble E, muni de l'ordre $\leq$ on dit que 
+	x est un predecesseur de y (ou de facon equivalente y est un successeur de x) si on peut comparer x et y et que x $\leq$ y
+On parle de prédecesseur immédiat( resp successeur immédiat
+
+
+
+
+
+
+
+Exemples : 
+- l'ordre visuel sur $\mathbb{N}$, sur $\mathbb{Z}$, sur $\mathbb{R}$ est total 
+- l'ordre induit par la divisibilité est partiel sur $\mathbb{N}$ ou $\mathbb{Z}$ 
+
+>[!definition] Définition et propriété
+>Un ensemble muni 
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

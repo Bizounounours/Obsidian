@@ -5,7 +5,7 @@
 >\sum^{n}_{i=1}A_{i}U_{i} = \bigwedge^{n}_{i=1}A_i
 >$$
 
->[!tip]+ Démonstartion 
+>[!tip]+ Démonstration 
 >- Si $\forall i \in [\![ 1;n ]\!], \ A_i=0$, alors $\bigwedge^{n}_{i=1}A_i=0$ par convention. Il suffit alors de prendre $U_i=0$ pour tout $i \in [\![1,n]\!]$
 >  >
 >- S'il existe $i_0 \in [\![1;n]\!]$ tel que $A_{i_0} \neq 0$

@@ -138,7 +138,7 @@ let rec ajout a e = match a with
   
 - <mark style="background: #00688F;"><u>Correction partielle</u></mark> : On va montrer que l'appel ajout a e renvoie un ABR contenant les memes valeurs que a et la valeur e si elle n'est pas dans a.
 
->[!summary]+ Démonstartion
+>[!summary]+ Démonstration
 > - Initialisisation / cas de base $\star$ <u>si a est vide</u> :
 >   `ajout a e` renvoie `N(e,Vide,Vide)`
 >   `N(e,Vide,Vide)` est un ABR d'après la définition des ABR 
