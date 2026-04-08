@@ -2,7 +2,8 @@
   "callouts": {
     "custom": [
       "colles",
-      "definition"
+      "definition",
+      "remarque"
     ],
     "settings": {
       "colles": [
@@ -33,6 +34,14 @@
           },
           "changes": {
             "color": "255, 234, 0"
+          }
+        }
+      ],
+      "remarque": [
+        {
+          "changes": {
+            "icon": "lucide-pencil-line",
+            "color": "254, 77, 104"
           }
         }
       ]

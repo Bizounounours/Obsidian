@@ -6,6 +6,11 @@
 - [[Chapitre 16 Arbres binaires de recherche]]
 - [[Chapitre 17 Les exceptions en OCaml]]
 - [[Chapitre 18 Fils de priorité et tas]]
+- [[Chapitre 19 Dictionnaires]]
+- [[Chapitre 20 Complexité avancée]]
+- [[Chapitre 21 Entrées Sorties]]
 # TD
 - [[TD 10]]
 - [[TD 11]]
+- [[TD 12]]
+- [[TD 13]]

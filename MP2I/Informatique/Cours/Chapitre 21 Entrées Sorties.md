@@ -73,8 +73,19 @@ Exemples :
 
 
 
+exemples : 
+L'ordre visuel sur $\mathbb{N}$ est bien fondé 
+L'odre visuel sur $\mathbb{Z}$ ne l'est pas
+L'ordre alphabetique sur les mots ne l'est pas
 
 
+
+
+
+
+
+> [!definition]
+> Soit une famille d'ensemble ordonnées $(E_{i},\leq_{i})$
 
 
 

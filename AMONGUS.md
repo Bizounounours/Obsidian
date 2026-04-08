@@ -38,3 +38,10 @@ L'Homme ne se borgne pas à voir : il pense et veut connaître la signification 
 
 yoyoyooyo
 >>>>>>> origin/main
+
+
+
+
+$$
+\supset
+$$

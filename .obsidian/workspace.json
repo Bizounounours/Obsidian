@@ -8,51 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9c5bfe7f67e39bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
-                "page": 2,
-                "left": -13,
-                "top": 12,
-                "zoom": 1.1218487394957983
-              },
-              "icon": "lucide-file-text",
-              "title": "D7"
-            }
-          },
-          {
-            "id": "bf87c95b661056f7",
+            "id": "6311eeb6d8bb181e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
+                "file": "MP2I/Physique/TP/Compte_rendu_jacob_ayrton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Théorème 7"
-            }
-          },
-          {
-            "id": "ebc0ae5636c74790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 18 Fils de priorité et tas"
+              "title": "Compte_rendu_jacob_ayrton"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,38 +187,38 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ebc0ae5636c74790",
+  "active": "6311eeb6d8bb181e",
   "lastOpenFiles": [
+    "MP2I/Physique/TP/Pasted image 20260317114959.png",
+    "MP2I/Physique/TP/Compte_rendu_jacob_ayrton.md",
+    "MP2I/Informatique/TD/TD 13.md",
+    "MP2I/FR/Sans titre.md",
+    "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md",
+    "MP2I/Index_Info.md",
+    "MP2I/Mathematique/D7 Développements Limités/!D7.md",
+    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
+    "MP2I/Index_Maths.md",
+    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "AMONGUS.md",
-    "conflict-files-obsidian-git.md",
     "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
+    "Sans titre.md",
+    "MP2I/TIPE/2026-04-07.md",
+    "MP2I/TIPE/2026-03-31.md",
+    "murd.md",
+    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
+    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
+    "conflict-files-obsidian-git.md",
     "MP2I/Mathematique/B8 Polynômes/Théorème 48.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Théorème 55.md",
     "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Mathematique/B8 Polynômes/Théorème 58.md",
-    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
-    "MP2I/Mathematique/D7 Développements Limités/!D7.md",
     "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
     "MP2I/Archives Khôlles/!INDEX_colles.md",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Mathematique/D7 Développements Limités",
-    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
-    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
-    "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
-    "MP2I/Informatique/TD/TD 12.md",
     "INDEX INFINI.base",
-    "MP2I/Informatique/TD/TD 11.md",
-    "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md",
-    "murd.md",
     "MP2I/FR/DOCX/Rapport de l'homme à la nature.docx",
-    "MP2I/FR/Sans titre.md",
-    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
-    "MP2I/TIPE/2026-03-31.md",
-    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
-    "MP2I/Informatique/TD/TD 10.md",
-    "MP2I/Informatique/Cours/Chapitre 18 Files de priorité et tas.md",
-    "MP2I/Informatique/Cours/Chapitre 20 Complexité Avancé.md",
-    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaire.md",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/C1.pdf",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
@@ -259,7 +228,6 @@
     "MP2I/Physique/Mécanique/TD/Meca2&3_TD.pdf",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce23.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
-    "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
     "MP2I/Physique/TP",
