@@ -71,6 +71,38 @@ l
 
 
 
+analogue de la récurrence forte serait
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
