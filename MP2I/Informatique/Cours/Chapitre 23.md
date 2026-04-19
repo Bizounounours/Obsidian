@@ -5,13 +5,14 @@
 
 
 
+hieznjnifjezifjfiozeofijfipezhefiiapfiv zzokdlvkejahshc ,vkeoapqkdnciebvpadkdnjzaooefll
 
 
 
 
 
 
-
+methode : BOTTOM-UP On remplit
 
 
 

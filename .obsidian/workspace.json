@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 23.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 23"
+              "title": "Chapitre 21 Entrées Sorties"
             }
           }
         ]
@@ -187,10 +187,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d5e66e152642fbb2",
+  "active": "6311eeb6d8bb181e",
   "lastOpenFiles": [
-    "MP2I/Informatique/TD/PDF/TD13.pdf",
+    "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
+    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
+    "MP2I/Chapitre 22 - Récursivité et induction.md",
+    "MP2I/Informatique/Cours/Chapitre 22.md",
     "MP2I/Informatique/Cours/Chapitre 23.md",
+    "MP2I/Informatique/TD/PDF/TD13.pdf",
     "MP2I/Informatique/TD/TD 14.md",
     "MP2I/Informatique/TD/PDF",
     "MP2I/Informatique/TD/TD 13.md",
@@ -201,7 +205,6 @@
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/TIPE/2026-04-14.md",
     "MP2I/Index_Info.md",
-    "MP2I/Informatique/Cours/Chapitre 22.md",
     "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Physique/TP/Compte_rendu_jacob_ayrton.md",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
@@ -210,7 +213,6 @@
     "MP2I/Mathematique/D7 Développements Limités/!D7.md",
     "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Index_Maths.md",
-    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "Sans titre.md",
     "MP2I/TIPE/2026-04-07.md",
     "MP2I/TIPE/2026-03-31.md",
@@ -218,7 +220,6 @@
     "conflict-files-obsidian-git.md",
     "MP2I/Mathematique/B8 Polynômes/Théorème 48.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Théorème 55.md",
-    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Mathematique/D7 Développements Limités",
     "MP2I/FR/DOCX/Rapport de l'homme à la nature.docx",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
