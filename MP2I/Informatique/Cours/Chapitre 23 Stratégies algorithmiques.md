@@ -26,7 +26,6 @@
 
 >[!example] Problèmes de 8 reines (ici 4 reines)
 >On cherche à placer 4 reine sur un plateau de 16 cases de sorte qu'aucune n'en menace une autre :
-![[jeu_reines.excalidraw]]
 
 >[!note] N.B
 >Pour qu'elles ne se menace pas l'une l'autre, il ne peut y en avoir qu'une par ligne 

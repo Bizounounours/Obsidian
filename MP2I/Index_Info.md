@@ -9,8 +9,12 @@
 - [[Chapitre 19 Dictionnaires]]
 - [[Chapitre 20 Complexité avancée]]
 - [[Chapitre 21 Entrées Sorties]]
+- [[Chapitre 22 Récursivité et induction]]
+- [[Chapitre 23 Stratégies algorithmiques]]
+- [[Chapitre 24 Bases de Données]]
 # TD
 - [[TD 10]]
 - [[TD 11]]
 - [[TD 12]]
 - [[TD 13]]
+- [[TD 14]]
