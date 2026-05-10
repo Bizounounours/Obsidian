@@ -246,7 +246,7 @@
 ><u>Indication</u> :
 >utiliser $(n,p)$ comme variant d'appel et l'ordre lexicographique sur $\mathbb{N}^2$
 
-# <u>Induction</u> :
+# III)<u>Induction</u> :
 
 ### 1)<u>Induction bien fondée</u> : (généralisation du raisonnement par récurrence)
 
@@ -337,7 +337,7 @@ n \in X \implies n+2 \in X \color{grey} \text{ (ou succ (succ x)} \in X \text{ s
 >- <u>ensemble des expressions bien parenthésées (exemple simplifié)</u> :
 >cas de base :
 >> $\epsilon = \text{""} \in X \color{grey} \text{ (le mot vide appartient à X) ("" est l'unique assertion)}$
->> $x \in X \implies (x)\in X co\color{grey}\text{ (règle d'inférence : }r_{1}\cases{X \to X \\ x \mapsto r_{1}(x)=(x)}$
+>> $x \in X \implies (x)\in X \color{grey}\text{ (règle d'inférence : }r_{1}\cases{X \to X \\ x \mapsto r_{1}(x)=(x)}$
 >> $x \in X, y \in X \implies xy \in X \color{grey}\text{ règle d'inférence : }r_{2}\cases{X^2 \to X \\ (x,y) \mapsto xy}$
 >
 ><u>ex</u> : de mots de  cet ensemble (ensemble de Dyck)
@@ -384,14 +384,113 @@ g \in AB, d\in AB \implies N(g,d)\in AB
 >>est appelée composition de $\mathscr{R}$ avec $\mathscr{R}'$
 >
 >C e qui permet de définir par récurrence pour tout $n \in \mathbb{N}n \mathscr{R}^n$ par :
->$\mathscr{R}^{0} = E\times E$ *($\mathscr{R}^{0}$ est la relation par laquelle tout $x$ est en relation avec tout $y$)*
+>$\mathscr{R}^{0} = \lbrace(x,x),x \in E \rbrace$ *($\mathscr{R}^{0}$ est la relation par laquelle tout $x$ est en relation avec lui même)*
 >$\mathscr{R}^{n+1} = \mathscr{R}^n \circ \mathscr{R}$
 
 >[!cour] Définition
->On appelle <font color = "red"><u>cloture transitive</u></font> d'une relation $\mathscr{R}$ sur un ensemble $E$, on note $\leq_{E}$ la relation :
+>On appelle <font color = "red"><u>clôture transitive</u></font> d'une relation $\mathscr{R}$ sur un ensemble $E$, on note $\leq_{E}$ la relation :
 >$$\leq_{E} = \bigcup_{n \in \mathbb{N}} \mathscr{R}^{n}$$
 
+>[!cour] <u>Signification de la définition</u> :
+>$x\leq_{E}y$ signifie que le couple $(x,y)$ appartient à la partie $\bigcup_{n \in \mathbb{N}} \subset E\times E$
+>
+><u>càd</u> : $x\leq_{E}y$ s'il existe $n \in \mathbb{N}$ tel que $x\mathscr{R}^ny$
 
+>[!important] Propriété
+>$\boxed{\leq_{E}\text{est une relation d'ordre}}$ 
+
+>[!check] Démonstration
+> - $\leq_{E}$ réflexive : où $(\forall x \in E, x\leq_{E}x)$
+><u>car</u> : 
+>$(x,x)\in\mathscr{R}^0$ $(x\mathscr{R}^0x)$
+>donc $(x,x)\in \bigcup_{n \in \mathbb{N}} \mathscr{R}^n$
+>>[!note] 
+>>c'est l'ajout (imposé par la définition) de $\mathscr{R}^0$ dans l'union qui assure la réflexivité, on peut parler de "clôture réflexive" de la relation $\mathscr{R}$
+>
+>------------------------------------------------------------------------
+>
+>- $\leq_{E}$ antisymétrique : càd $\forall x,y \in E, si (x \leq_{E}y et y\leq_{E}x)$ alors $(x=y)$
+><u>car</u> : 
+>si $x \leq_{E}y$, cela signifie que $\exists n_{1} \in \mathbb{N}$ tel que $x\mathscr{R}^{n_{1}}y$
+>si $y \leq_{E}x$, cela signifie que $\exists n_{2} \in \mathbb{N}$ tel que $y\mathscr{R}^{n_{2}}x$
+>
+>(Par l'absurde) si $x \not= y$ alors $n_{1}\not=0$ (car $x\mathscr{R}^0y$ est faux) donc $n_{1}\geq1$ et de même $n_{2}\geq1$
+><u>et donc pour la propriété de la fonction hauteur</u>
+>$n_{1}\geq 1$ <u>donc</u> $h(y)\geq h(x)+1$ $\color{red}\text{càd }h(y)>h(x)$
+>$n_{2}\geq 1$ <u>donc</u> $h(x)\geq h(y)+1$ $\color{red}\text{càd }h(x)>h(y)$
+>$\color{red} CONTRADICTION$
+><u>Conclusion</u> : $x=y$ (par l'absurde)
+>
+>------------------------------------------------------------------------
+>
+>- $\leq_{E}$ transitive : 
+>si $x\leq_{E}y$ et $y\leq_{E}z$ alors $\exists n_{1},n_{2}\in \mathbb{N}$ tel que $x\mathscr{R}^{n_{1}}y$ et $y\mathscr{R}^{n_{2}}z$
+>ce qui implique $x\mathscr{R}^{n_{1}+n_{2}}z$ (par définition de $\mathscr{R}^n$)
+>càd $x\leq_{E}z$
+>
+>><u>suite</u> : c'est un ordre bien fondé, on a un principe d'induction.
+
+>[!important] Propriété 
+>$\boxed{\leq_{X} \text{est un ordre bien fondé}}$ 
+
+>[!check] Démonstration
+>Pour $x, y \in X$, tels que $x \mathscr{R}y$, comme on vient de le démontrer, on a $h(y) \geq h(x) + 1$. 
+>Il en découle, par récurrence et d’après la définition de $\mathscr{R}^k$ , que pour tout $k \in \mathbb{N}$ : 
+>$$\text{(4) si } x \mathscr{R}^k y,\text{ alors } h(y) \geq h(x) + k$$
+> (démonstration laissée au lecteur). 
+> En conséquence, puisque $x \leq_{X}y$ signifie qu’il existe $k \in \mathbb{N}$ tel que $x \mathscr{R}^k y$, et pour lequel on a $h(y) \geq h(x) + k$, et, a fortieri, $h(x) \leq h(y)$, on peut énoncer que la fonction ℎ vérifie : 
+> $$(5) (x \leq_{X}y) \implies (h(x)\leq h(y))$$ 
+> Considérons maintenant une suite $u = (x_{n})_{n \in \mathbb{N}}$ décroissante d’éléments de $X$, et la suite des hauteurs des éléments des éléments de cette suite, $v = (h(x_{n}))_{n \in \mathbb{N}}$.
+> 
+> En vertu de la propriété $(5)$, la décroissance de la suite $u$ implique celle de la suite $v$. Or la suite $v$ est à valeurs dans $\mathbb{N}$, et décroissante pour l’ordre usuel sur $\mathbb{N}$, bien fondé, donc la suite $v$ est stationnaire, i.e. constante à partir d’un certain rang $n_{0}$. 
+> 
+> Or, si $x_{n+1}\leq x_{n}$, cela signifie qu’il existe $k \in \mathbb{N}$ tel que $x_{n+1}\mathscr{R}^kx_{n}$, et il en découle, par $(4)$, que $h(x_{n+1}) \geq h(x_{n})+k),$ et, comme ici, pour tout $n \geq n_{0}, h(x_{n+1}) = h(x_{n})$, cela impose que $k=0$, et donc $x_{n+1}\mathscr{R^0x_{n}}$, c’est-à-dire que $x_{n+1} = x_{n}$, et établit que la suite $(x_{n})$ est constante au-delà du rang $n_{0}$. 
+> 
+> On a ainsi montré que toute suite décroissante d’éléments de $X$ est nécessairement stationnaire, ce qui établit que l’ordre $\leq_{X}$ est bien fondé.
+
+>[!cour]
+>L'ordre $\leq_{X}$ étant bien fondé +, on en déduit le <font color="red"><u>principe d'induction</u></font> pour les ensembles inductifs :
+>
+>Soit $P$ une propriété sur $X$ telle que :
+> - $\forall x_{0} \in B, P(x_{0})\text{ vraie}$
+> - $\forall r \in R$ d'arité $m$, $\forall(x_{1},\dots,x_{m})\in X^m,(\forall i \in [\![1,r]\!],P(x_{i}))\implies(P(r(x_{1},x_{2},\dots,x_{m})))$
+>   Alors $\forall x \in X, P(x)\text{ vraie}$
+> 
+>Il s'agit ici de l'analogue du principe de récurrence faible :
+> - $\color{cyan}\text{si P est vraie sur les éléments de B (assertions)}$
+> - $\color{green}\text{si lorsque } \color{red} \boxed{\color{green}\text{x est construit à partir d'élément de }x_{1},x_{2},\dots,x_{m}\text{ pour lesquels P est vraie}}$
+>   $\color{green}\text{alors P vraie pour x}$
+>On en conclut $P$ vraie pour tout $x$ de $X$
+>
+>L'analogue de la récurrence forte serait (cf. théorème de l'induction bien bien fondée avant dans le cour.)
+>$$(\forall x \in X, \underbrace{(\forall y \in X, y <_{X}x \implies P(y))}_{\text{si P vraie sur tous les prédécesseurs de x}}\implies \underbrace{P(x)}_{\text{alors P(x) vraie}}) \implies (\forall x \in X,P(x))$$
+>et si $x$ n'admet pas de prédécesseur : $P(x)$ vraie 
+
+>[!example] Montrer que tout mot du langage de Dyck possède autant de parenthèses ouvrantes que fermantes
+> -<u>Langage de Dyck</u> :
+>  - - éléments de base : le mot vide $\epsilon$ $B={\epsilon}$[^6]
+>  - - règles d'inférence : $\cases{r_{1}(x) = (x)\\ r_{2}(x,y) = xy}$[^7]
+>
+><u>Notons</u>, pour tout $x \in X$ ($X$ : ensembles des mots du langage de Dyck)
+>$P(x)$ la propriété "$x$ comporte autant de parenthèses ouvrantes que fermantes"
+>
+> - <u>Initialisation</u> : vrai pour le mot vide (*aucune parenthèse*)
+> - <u>Hérédité</u> : Supposons que $P$ est vraie pour un certain $x$ et un certain $y$ de $X$ (hypothèse d'induction, H.I) alors :
+>    - $(x)$ contient *une parenthèse $($ et une $)$ de plus que $x$* et $x$ vérifie $P$ donc $(x)$ vérifie $P$
+>   - le nombre de parenthèses ouvrantes (resp. fermantes) dans $xy$ est *la somme des nombre de telles parenthèses* dans $x$ et dans $y$.
+>    donc, si $x$ et $y$ vérifient $P$, $xy$ vérifient $P$
+
+### 3)<u>Fonctions définies par induction</u> :
+
+>[!cour]
+>Sur un ensemble défini par induction, on défini une fonction en la définissant sur les éléments de base ($B$), et en définissant, pour chaque règle d'inférence $r \in R$,
+>$$f(r(x_{1},x_{2},\dots ,x_{m})) \text{en fonction des }x_{i}\text{ et des }f(x_{i}), 1\leq i \leq m$$
+
+>[!example] Exemple : longueur d'une liste chaînée
+>$$\cases{len([ ]) = 0 \\ len(x:: lst) = 1 + len(lst)}$$
+
+>[!note] N.B
+>Définir ainsi une fonction n'est possible que s'il n'existe qu'une unique façon de construire un élément $x \in X$
 
 
 
@@ -405,3 +504,7 @@ g \in AB, d\in AB \implies N(g,d)\in AB
 [^4]: ordre du dictionnaire mais sur des n-uplets
 
 [^5]: nombre de variables de la fonction
+
+[^6]: mettre des parenthèses autour d'un élément déjà construit
+
+[^7]: accoler deux éléments déjà construits 

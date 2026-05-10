@@ -73,3 +73,35 @@ $$
 \implies (y^{(4)}+2y^{(2)}+y)'=0'
 \end{align}
 $$
+
+
+
+
+Pokémon: 21
+4 Teal Mask Ogerpon ex TWM 25
+2 Applin TWM 17
+2 Dipplin TWM 18
+2 Hydrapple ex SCR 14
+2 Chikorita ASC 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+2 Meowth ex POR 62
+1 Tapu Bulu SFA 6
+1 Celebi MEG 12
+1 Fezandipiti ex ASC 142
+
+Trainer: 25
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Dawn PFL 87
+1 Lana's Aid TWM 155
+1 Team Rocket's Petrel DRI 176
+4 Bug Catching Set TWM 143
+3 Ultra Ball MEG 131
+2 Poké Pad POR 81
+1 Unfair Stamp TWM 165
+1 Night Stretcher ASC 196
+4 Forest of Vitality MEG 117
+
+Energy: 14
+15 Grass Energy MEE 1
