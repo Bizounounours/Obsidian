@@ -5,4 +5,8 @@ views:
       - file.name
       - file.folder
       - file.tags
-      - tags
+      - file.size
+    sort: []
+    columnSize:
+      file.folder: 306
+      file.tags: 200

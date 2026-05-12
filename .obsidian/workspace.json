@@ -8,26 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e91024ae8ccd0a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
             "id": "f3158120c646fa60",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "INDEX.base",
-                "viewName": "Table"
+                "file": "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "INDEX"
+              "icon": "lucide-file",
+              "title": "🌡️ Fiche de Révision - Thermodynamique"
             }
           }
         ]
@@ -50,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -197,9 +188,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5e91024ae8ccd0a9",
+  "active": "f3158120c646fa60",
   "lastOpenFiles": [
     "INDEX.base",
+    "Ink/Drawing/2026.2.13 - 9.47am.drawing",
+    "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
+    "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
+    "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
+    "MP2I/Index_Info.md",
+    "MP2I/Index_Maths.md",
     "Sans titre.md",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Théorème 26.md",
@@ -209,12 +206,7 @@
     "MP2I/Mathematique/B9 Fonctions Rationelles/!B9.md",
     "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
     "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
-    "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
-    "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
     "MP2I/Mathematique/!Fiche utile/Multiplication Matrices.md",
-    "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
-    "MP2I/Index_Info.md",
-    "MP2I/Index_Maths.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
