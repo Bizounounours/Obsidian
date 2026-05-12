@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
+                "file": "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌡️ Fiche de Révision - Thermodynamique"
+              "title": "⚙️ Mécanique - Moment Cinétique, Gravitation et Solide"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Chap_maths",
+                "query": "tag:#Elec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,9 +190,11 @@
   },
   "active": "f3158120c646fa60",
   "lastOpenFiles": [
+    "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
+    "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
+    "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
     "INDEX.base",
     "Ink/Drawing/2026.2.13 - 9.47am.drawing",
-    "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
     "MP2I/Index_Info.md",
@@ -217,7 +219,6 @@
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Informatique/Cours/Chapitre 14.md",
-    "MP2I/Informatique/Cours/Chapitre 13.md",
     "MP2I/Informatique/TD/PDF/TD14.pdf",
     "MP2I/Informatique/TD/PDF/TD13.pdf",
     "MP2I/Informatique/TD/PDF",
@@ -229,7 +230,6 @@
     "MP2I/Mathematique/C1 Espaces Vectoriels/C1.pdf",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
     "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",
-    "Excalidraw",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce23.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
