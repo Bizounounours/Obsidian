@@ -1,8 +1,7 @@
 ---
 tags:
-  - Kholles
 ---
-#Kholles 
+
 
 ## Chapitre B8 : 
 
@@ -10,4 +9,6 @@ tags:
 - Théorème de Bézout [[MP2I/Mathematique/B8 Polynômes/Théorème 48|Théorème 48]]
 - Théorème de Gauss [[Théorème 58]]
 - Polynômes d’interpolation de Lagrange
-- 
+
+
+#Kholles 

@@ -3,7 +3,8 @@
     "custom": [
       "colles",
       "definition",
-      "remarque"
+      "remarque",
+      "formule"
     ],
     "settings": {
       "colles": [
@@ -42,6 +43,14 @@
           "changes": {
             "icon": "lucide-pencil-line",
             "color": "254, 77, 104"
+          }
+        }
+      ],
+      "formule": [
+        {
+          "changes": {
+            "icon": "lucide-heart",
+            "color": "83, 223, 221"
           }
         }
       ]

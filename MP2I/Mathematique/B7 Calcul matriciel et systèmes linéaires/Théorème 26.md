@@ -18,3 +18,5 @@
 >&=\sum^{p}_{k=1}\sum^{q}_{l=1}[A]_{i,k} \times [B]_{k,l} \times [C]_{l,j} \\
 >&=
 >\end{align}$$
+
+#Maths  #B7

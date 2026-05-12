@@ -10,5 +10,5 @@
 >
 >iv) $\lim_{x\to 0^+} x^\alpha|\ln|^\beta = 0$
 
-
+#Maths #Fiches 
 

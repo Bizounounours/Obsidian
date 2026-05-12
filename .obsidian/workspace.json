@@ -11,14 +11,23 @@
             "id": "5e91024ae8ccd0a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "f3158120c646fa60",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-                "mode": "preview",
-                "source": false
+                "file": "INDEX.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Chapitre 24 Bases de Données"
+              "icon": "lucide-table",
+              "title": "INDEX"
             }
           }
         ]
@@ -63,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kholles",
+                "query": "tag:Chap_maths",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +80,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           }
         ]
@@ -94,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Chapitre 24 Bases de Données"
+              "title": "Liens sortants de Chapitre 22 Récursivité et induction"
             }
           },
           {
@@ -123,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Chapitre 24 Bases de Données"
+              "title": "Rétrolien pour Chapitre 22 Récursivité et induction"
             }
           },
           {
@@ -142,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Chapitre 24 Bases de Données"
+              "title": "Plan de Chapitre 22 Récursivité et induction"
             }
           },
           {
@@ -188,11 +197,28 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "608684da60852a22",
+  "active": "5e91024ae8ccd0a9",
   "lastOpenFiles": [
-    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
+    "INDEX.base",
+    "Sans titre.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Théorème 26.md",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
+    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
+    "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
+    "MP2I/Mathematique/B9 Fonctions Rationelles/!B9.md",
+    "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
+    "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
+    "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
+    "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
+    "MP2I/Mathematique/!Fiche utile/Multiplication Matrices.md",
+    "MP2I/Physique/🌡️ Fiche de Révision - Thermodynamique.md",
+    "MP2I/Index_Info.md",
+    "MP2I/Index_Maths.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
@@ -200,26 +226,9 @@
     "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Informatique/Cours/Chapitre 14.md",
     "MP2I/Informatique/Cours/Chapitre 13.md",
-    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-    "MP2I/Informatique/Cours/Chapitre 15 Mutabilité en OCaml.md",
-    "MP2I/Informatique/Cours/Chapitre 12.md",
-    "jeu_reines.excalidraw.md",
-    "MP2I/Index_Info.md",
-    "MP2I/Index_Maths.md",
-    "Chapitre 21 Entrées Sorties.md",
-    "MP2I/Informatique/Cours/Chapitre 24 Base de données.md",
-    "MP2I/Informatique/TD/TD 14.md",
     "MP2I/Informatique/TD/PDF/TD14.pdf",
-    "MP2I/FR/Devoirs/Sans titre.md",
-    "MP2I/FR/Devoirs/correction.md",
-    "MP2I/FR/Devoirs/Résumer CCINP.md",
-    "MP2I/FR/Cours/Rapport de l'homme à la nature.md",
-    "murd.md",
-    "MP2I/Informatique/Cours/Chapitre 23.md",
-    "AMONGUS.md",
     "MP2I/Informatique/TD/PDF/TD13.pdf",
     "MP2I/Informatique/TD/PDF",
-    "INDEX INFINI.base",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Mathematique/D7 Développements Limités",
@@ -230,7 +239,6 @@
     "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",
     "Excalidraw",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
-    "MP2I/Physique/Mécanique/TD/Meca2&3_TD.pdf",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce23.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",

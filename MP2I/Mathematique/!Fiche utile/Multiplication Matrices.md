@@ -9,3 +9,4 @@
 >En d’autres termes, on a $∀(i, j) ∈ [\![1,n]\!] \times [\![1,q]\!], [A × B]_{i,j} = \sum^{p}_{k=1}[A]_{i,k}[B]_{k,j}$. On remarque que le terme d’indice $(i, j)$ de $A × B$ est donné par le produit de la $i$-ième ligne de $A$ par la 
 >$j$-ième colonne de $B$.
 
+#Maths #Fiches 

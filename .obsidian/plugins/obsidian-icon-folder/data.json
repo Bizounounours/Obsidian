@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📋",
       "LiLeaf",
       "📎",
       "LiSigma",
-      "✂",
-      "📝"
+      "✂"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "MP2I/Index_Info.md": "📋",
   "MP2I/Index_Maths.md": "📋",
   "MP2I/Archives Khôlles/Maths/Colles Maths 21.md": "LiSigma",
-  "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md": "LiLeaf"
+  "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md": "LiLeaf",
+  "INDEX.base": "📋"
 }

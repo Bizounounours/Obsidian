@@ -33,3 +33,4 @@
 >- $(1+x)^\alpha= 1+\alpha x+x\varepsilon_9(x)$
 
 
+#Maths #Fiches 
