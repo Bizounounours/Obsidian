@@ -11,14 +11,16 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
-                "mode": "source",
-                "source": false
+                "file": "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
+                "page": 2,
+                "left": 0,
+                "top": 133,
+                "zoom": 0.5394957983193278
               },
-              "icon": "lucide-file",
-              "title": "Chapitre 19 Dictionnaires"
+              "icon": "lucide-file-text",
+              "title": "D7"
             }
           }
         ]
@@ -98,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md",
+            "file": "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,11 +165,12 @@
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
+    "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
-    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Mathematique/B9 Fonctions Rationelles/Théorème 14.md",
     "MP2I/Colles Maths 21.md",
     "murd.md",
@@ -188,7 +191,6 @@
     "MP2I/Archives Khôlles/!Programme Khôlles 2026.02.02.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 53.md",
     "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 48.md",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 55.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle",
     "MP2I/TIPE",
     "MP2I/Informatique/TD",
