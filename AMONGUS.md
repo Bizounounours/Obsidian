@@ -1,4 +1,4 @@
-
+hu
 
 
 
@@ -38,3 +38,66 @@ L'Homme ne se borgne pas à voir : il pense et veut connaître la signification 
 
 yoyoyooyo
 >>>>>>> origin/main
+
+
+
+
+$$
+\supset
+$$
+
+
+
+
+
+prix nobel 2022 masterclass <3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+notebook base de données 
+- 5097-10817347
+- cd13-10817352
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,10 @@
   "callouts": {
     "custom": [
       "colles",
-      "definition"
+      "definition",
+      "remarque",
+      "formule",
+      "rappel"
     ],
     "settings": {
       "colles": [
@@ -33,6 +36,37 @@
           },
           "changes": {
             "color": "255, 234, 0"
+          }
+        }
+      ],
+      "remarque": [
+        {
+          "changes": {
+            "icon": "lucide-pencil-line",
+            "color": "254, 77, 104"
+          }
+        }
+      ],
+      "formule": [
+        {
+          "changes": {
+            "icon": "lucide-heart",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "color": "177, 82, 255"
+          }
+        }
+      ],
+      "rappel": [
+        {
+          "changes": {
+            "icon": "lucide-history",
+            "color": "62, 142, 72"
           }
         }
       ]

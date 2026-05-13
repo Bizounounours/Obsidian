@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.folder
+      - file.tags
+      - file.size
+    sort: []
+    columnSize:
+      file.folder: 306
+      file.tags: 200

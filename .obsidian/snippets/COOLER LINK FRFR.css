@@ -30,7 +30,7 @@
 .markdown-rendered .internal-link:hover,
 .markdown-rendered blockquote .internal-link:hover {
   color: #b80202 !important; /* The color when you hover */
-  text-decoration: underline !important;
+  text-decoration: /*underline*/ none !important;
   cursor: pointer;
   opacity: 1 !important;
 }
