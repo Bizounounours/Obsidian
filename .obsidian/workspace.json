@@ -11,14 +11,14 @@
             "id": "f3158120c646fa60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
-                "mode": "source",
-                "source": false
+                "file": "MP2I/Physique/TD.pdf",
+                "page": 1,
+                "zoom": 1
               },
-              "icon": "lucide-file",
-              "title": "💾 Fiche - Concours Blanc Info"
+              "icon": "lucide-file-text",
+              "title": "TD"
             }
           }
         ]
@@ -188,12 +188,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d5e66e152642fbb2",
+  "active": "f3158120c646fa60",
   "lastOpenFiles": [
+    "MP2I/Physique/ID.pdf",
+    "MP2I/Physique/TD.pdf",
+    "MP2I/Informatique/Cours/Chapitre 12.md",
+    "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
     "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
     "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
-    "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
     "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
@@ -217,17 +220,13 @@
     "MP2I/Mathematique/B9 Fonctions Rationelles/!B9.md",
     "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
     "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
-    "MP2I/Mathematique/!Fiche utile/Multiplication Matrices.md",
-    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
     "MP2I/Informatique/TD/PDF/TD14.pdf",
     "MP2I/Informatique/TD/PDF/TD13.pdf",
     "MP2I/Informatique/TD/PDF",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Mathematique/D7 Développements Limités",
-    "MP2I/FR/DOCX/Rapport de l'homme à la nature.docx",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/C1.pdf",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
     "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
