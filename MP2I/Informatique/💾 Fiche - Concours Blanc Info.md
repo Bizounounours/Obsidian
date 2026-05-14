@@ -1,4 +1,3 @@
-# 💻 ARCHIVE INTÉGRALE : INFORMATIQUE (MP2I)
 
 > [!abstract] Sommaire
 > 1. Dictionnaires & Hachage (Ch. 19)

@@ -11,14 +11,14 @@
             "id": "f3158120c646fa60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Physique/TD.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TD"
+              "icon": "lucide-file",
+              "title": "💾 Fiche - Concours Blanc Info"
             }
           }
         ]
