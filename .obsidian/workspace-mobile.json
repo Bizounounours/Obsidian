@@ -11,16 +11,14 @@
             "id": "4fc6c5b34ca72ba0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
-                "page": 2,
-                "left": 0,
-                "top": 133,
-                "zoom": 0.5394957983193278
+                "file": "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D7"
+              "icon": "lucide-file",
+              "title": "🌡️ Fiche - Thermodynamique"
             }
           }
         ]
@@ -100,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
+            "file": "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +163,12 @@
   },
   "active": "4fc6c5b34ca72ba0",
   "lastOpenFiles": [
+    "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
+    "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
+    "INDEX.base",
+    "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
+    "MP2I/Physique/Thermodynamique/Thermo 4/Thermo4_transitions.pdf",
+    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
@@ -187,10 +191,6 @@
     "MP2I/!Programmes Khôlles 2026.02.09.md",
     "MP2I/Index Info.md",
     "MP2I/Index Maths.md",
-    "MP2I/Archives Khôlles/!Programme Khôlles 2026.01.19.md",
-    "MP2I/Archives Khôlles/!Programme Khôlles 2026.02.02.md",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 53.md",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Théorème 48.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle",
     "MP2I/TIPE",
     "MP2I/Informatique/TD",
@@ -198,9 +198,6 @@
     "MP2I/FR/Devoirs",
     "MP2I/Mathematique/B8 Polynômes/Cours/B8.pdf",
     "MP2I/Mathematique/B8 Polynômes/Cours",
-    "MP2I/Mathematique/B8 Polynômes",
-    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
-    "MP2I/Physique/Thermodynamique/Thermo 2/Thermo2.pdf",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/Thermodynamique/thermo1.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
