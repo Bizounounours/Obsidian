@@ -11,14 +11,10 @@
             "id": "f3158120c646fa60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🌡️ Fiche - Thermodynamique"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -188,20 +184,21 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f3158120c646fa60",
+  "active": "608684da60852a22",
   "lastOpenFiles": [
+    "MP2I/Physique/TD.pdf",
+    "MP2I/Physique/ID.pdf",
+    "INDEX.base",
+    "Sans titre.base",
+    "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
     "MP2I/TIPE/2026-04-14.md",
     "MP2I/TIPE/2026-03-31.md",
     "MP2I/TIPE/2026-04-07.md",
-    "MP2I/Physique/TD.pdf",
-    "MP2I/Physique/ID.pdf",
     "AMONGUS.md",
-    "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
     "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
     "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
     "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-    "INDEX.base",
     "murd.md",
     "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
     "MP2I/Informatique/Cours/Chapitre 12.md",
@@ -220,13 +217,11 @@
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Théorème 26.md",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
-    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
     "MP2I/Informatique/TD/PDF/TD14.pdf",
     "MP2I/Informatique/TD/PDF/TD13.pdf",
     "MP2I/Informatique/TD/PDF",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
-    "MP2I/Mathematique/D7 Développements Limités",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
     "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",

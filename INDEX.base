@@ -6,7 +6,9 @@ views:
       - file.folder
       - file.tags
       - file.size
-    sort: []
+    sort:
+      - property: file.size
+        direction: DESC
     columnSize:
       file.folder: 306
       file.tags: 200
