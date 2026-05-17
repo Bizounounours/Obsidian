@@ -87,7 +87,7 @@ notebook base de données
 
 
 
-
+![[B7.pdf]]
 
 
 

@@ -78,6 +78,7 @@
 ``` SQL 
 SELECT ... FROM <table>
 ```
+
 >[!summary] Commentaires
 > `...` : attributs
 > `<table>` : la table à interroger (qui contient les données à explorer) 
