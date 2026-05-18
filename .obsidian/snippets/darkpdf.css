@@ -1,3 +1,21 @@
-.pdf-viewer-container canvas {
-  filter: invert(1) hue-rotate(180deg);
+/* On redéfinit la couleur du thème sombre d'Obsidian pour les PDF */
+.theme-dark {
+    --pdf-canvas-background: #1a1b26 !important;
+    --pdf-page-background: #1a1b26 !important;
+    --pdf-background: #1a1b26 !important;
+}
+
+/* Force le lecteur à devenir transparent pour afficher la couleur définie au-dessus */
+.pdfViewer .page,
+.pdf-viewer .page,
+.pdfViewer canvas,
+.pdf-viewer canvas {
+    background-color: var(--pdf-canvas-background) !important;
+    background: var(--pdf-canvas-background) !important;
+}
+
+/* Force le texte noir à s'inverser proprement en blanc par-dessus */
+.pdfViewer .textLayer,
+.pdf-viewer .textLayer {
+    filter: invert(0.9) sepia(0.4) saturate(1.5) hue-rotate(185deg) !important;
 }

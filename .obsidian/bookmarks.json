@@ -29,7 +29,26 @@
             {
               "type": "group",
               "ctime": 1769103494124,
-              "items": [],
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1779129962208,
+                  "items": [],
+                  "title": "Cours"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1779129946758,
+                  "items": [],
+                  "title": "TD"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1779129937502,
+                  "items": [],
+                  "title": "Fiches"
+                }
+              ],
               "title": "Informatique"
             },
             {

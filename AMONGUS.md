@@ -97,7 +97,4 @@ notebook base de données
 
 
 
-
-
-
-
+![[Drawing 2026-05-18 20.54.18.excalidraw]]

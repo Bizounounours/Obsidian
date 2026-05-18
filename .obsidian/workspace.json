@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f55bae50136ce5",
+        "id": "1c990ea09dc86042",
         "type": "tabs",
         "children": [
           {
-            "id": "f3158120c646fa60",
+            "id": "a1c5d92efdffe500",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MP2I/Informatique/Fiches/💾 Fiche - Stratégies Algorithmiques & Base de Données.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "💾 Fiche - Stratégies Algorithmiques & Base de Données"
             }
           }
         ]
@@ -50,7 +54,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           },
           {
@@ -176,31 +180,36 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "custom-sort:Toggle custom sorting": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "608684da60852a22",
+  "active": "a1c5d92efdffe500",
   "lastOpenFiles": [
+    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+    "MP2I/Informatique/Fiches/💾 Fiche - Stratégies Algorithmiques & Base de Données.md",
+    "AMONGUS.md",
+    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
+    "Ink/Drawing/2026.2.13 - 9.47am.drawing",
+    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.svg",
+    "Excalidraw",
+    "MP2I/Informatique/Fiches/💾 Fiche - Concours Blanc Info.md",
+    "MP2I/Informatique/Fiches",
+    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
+    "MP2I/Physique/Thermodynamique/Thermo 4/Thermo4_transitions.pdf",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
+    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
+    "INDEX.base",
+    "murd.md",
     "MP2I/Physique/TD.pdf",
     "MP2I/Physique/ID.pdf",
-    "INDEX.base",
     "Sans titre.base",
     "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
     "MP2I/TIPE/2026-04-14.md",
     "MP2I/TIPE/2026-03-31.md",
     "MP2I/TIPE/2026-04-07.md",
-    "AMONGUS.md",
     "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
-    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
-    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-    "murd.md",
-    "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
     "MP2I/Informatique/Cours/Chapitre 12.md",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
@@ -208,20 +217,12 @@
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
-    "Ink/Drawing/2026.2.13 - 9.47am.drawing",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
     "MP2I/Index_Info.md",
     "MP2I/Index_Maths.md",
-    "Sans titre.md",
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Théorème 26.md",
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
     "MP2I/Informatique/TD/PDF/TD14.pdf",
-    "MP2I/Informatique/TD/PDF/TD13.pdf",
-    "MP2I/Informatique/TD/PDF",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
-    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
     "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",
@@ -230,7 +231,6 @@
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
     "OneNote/Phys/Électrocinetique/Elec3_RSF/Elec3_RSF - Ink.svg",
-    "OneNote/Phys/Électrocinetique/Elec3_RSF/TD  - Ink.svg",
     "Untitled.canvas",
     "Sans titre.canvas",
     "Sans titre 1.canvas"

@@ -13,10 +13,9 @@
   "execute-code",
   "obsidian-completr",
   "obsidian-latex-suite",
-  "pdf-plus",
   "callout-manager",
   "obsidian-hider",
-  "obsidian-importer",
   "obsidian-enhancing-export",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "pdf-plus"
 ]
