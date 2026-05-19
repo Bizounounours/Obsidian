@@ -28,7 +28,7 @@
 >première colonne : nom des attributs
 >deuxième colonne : domaine de chaque attributs (se réduit généralement à un type de valeurs)
 
->[!important] Remarque 
+>[!remarque] Remarque 
 >on donne parfois les types du langage SQL pour spécifier le domaine : par exemple :
 >INT 
 >BIGINT 
@@ -37,9 +37,8 @@
 
 ### 3)<u>Clé primaire</u> : <font color = "red">(important)</font>
 
->[!cours]
->On appelle clé primaire, un attribut ou un n-uplet d'attributs, qui prend des valeurs distinctes sur des entités distinctes.
->Il existe parfois plusieurs choix possibles de clé primaire : on parle alors de clé candidates à être clé primaire, et c'est le concepteur de la base de donnée qui choisit celle qui lui convient.
+On appelle clé primaire, un attribut ou un n-uplet d'attributs, qui prend des valeurs distinctes sur des entités distinctes.
+Il existe parfois plusieurs choix possibles de clé primaire : on parle alors de clé candidates à être clé primaire, et c'est le concepteur de la base de donnée qui choisit celle qui lui convient.
 
 >[!example] BD - 1
 >Deux possibilités de clé primaire : le nom ou le code iso
@@ -52,25 +51,29 @@
 
 ### 4)<u>Clé étrangère</u> :
 
->[!cours]
->Une clé étrangère est un attribut ou n-uplet d'attributs, qui correspond (sans utiliser forcément les mêmes noms d'attributs) à une clé primaire dans une autre table.
->La présence d'une clé étrangère (et déclarer comme telle par le concepteur de la base de données) permet de faire respecter des contraintes d'intégrité, à savoir : 
-> - un attribut (ou n-uplet d'attributs) déclarer comme clé étrangère ne pourra pas  prendre de valeurs qui ne soit pas présente dans la table où se trouve la clé primaire correspondante.
->>[!example] on ne peut utiliser dans une table un INE ne correspondant à aucun étudiant dans la base établissement
->
-> - inversement, il ne sera pas possible de supprimer un enregistrement dans la table où l'attribut est la clé primaire, si la valeur de la clé primaire apparaît dans une autre table.
->>[!example] on ne peut supprimer un élève et son INE dans la base élève si ce élève (via son INE) est présent dans une autre table.
+
+Une clé étrangère est un attribut ou n-uplet d'attributs, qui correspond (sans utiliser forcément les mêmes noms d'attributs) à une clé primaire dans une autre table.
+
+La présence d'une clé étrangère (et déclarer comme telle par le concepteur de la base de données) permet de faire respecter des contraintes d'intégrité, à savoir : 
+
+ - un attribut (ou n-uplet d'attributs) déclarer comme clé étrangère ne pourra pas  prendre de valeurs qui ne soit pas présente dans la table où se trouve la clé primaire correspondante.
+ 
+>[!example] on ne peut utiliser dans une table un INE ne correspondant à aucun étudiant dans la base établissement
+
+ - inversement, il ne sera pas possible de supprimer un enregistrement dans la table où l'attribut est la clé primaire, si la valeur de la clé primaire apparaît dans une autre table.
+ 
+>[!example] on ne peut supprimer un élève et son INE dans la base élève si ce élève (via son INE) est présent dans une autre table.
 
 >[!note] 
 >L'existence d'une clé étrangère permet, par ailleurs, de construire des jointures (voir après)
 
 # II)<u>Requêtes SQL sur une table</u> :
 
->[!cours]
->Le langage SQL est un langage permettant de construire, modifier, interroger des bases de données, constituées de différentes tables.
->Il s'agit d'un <font color = "red"><u>langage de description</u></font> et non d'un langage de programmation :
-> - Il n'y aura ni variables, ni boucles, mais uniquement des <font color = "red"><u>requêtes</u></font> dans lesquelles on *décrira* les informations, les données que l'on souhaites ajouter, modifier, ou afficher.
+Le langage SQL est un langage permettant de construire, modifier, interroger des bases de données, constituées de différentes tables.
+Il s'agit d'un <font color = "red"><u>langage de description</u></font> et non d'un langage de programmation :
+ - Il n'y aura ni variables, ni boucles, mais uniquement des <font color = "red"><u>requêtes</u></font> dans lesquelles on *décrira* les informations, les données que l'on souhaites ajouter, modifier, ou afficher.
 
+>[!question] 
 >*Dans le cadre de MPI, on se contente d'interroger les bases de données (pas de créations, ajout ou modification).*
 
 ### 1)<u>Syntaxe générale d'une requête</u> :
@@ -213,3 +216,66 @@ ORDER BY attr1 ASC (ou DESC)
 >>```
 >>pour les pays ayant plus de 10 millions d'habitants
 
+## IV) Fonctions d'agrégation :
+>[!definition] 
+>Les fonctions d'agrégations permette de faire des calculs sur les valeurs d'un meme attribut sur tous les enregistrement d'unr table 
+
+### 1/ Listes des fonctions à connaître
+
+>[!formule] Fonction
+>```SQL
+>COUNT(attr)
+>```
+>- Compte les enregistrements pour lesquels l'attribut `attr` a une valeur 
+>(ne le compte pas si pas de valeur ou si la valeur est `NULL`)
+>
+>```SQL
+>COUNT(*)
+>```
+>
+>- Compte le nombre total d'enregistrements (lignes) de la table.
+>
+>
+>>[!remarque]
+>>```SQL
+>>COUNT(DISTINCT attr)
+>>```
+>>- Compte le nombre de valeurs distinctes prises par l'attribut dans la table 
+
+
+>[!formule] Autre fonctions d'agrégation
+>
+>```SQL
+>SUM
+>AVG
+>MIN
+>MAX
+>```
+>>[!example] 
+>>```SQL
+>>SELECT AVG(population) / 1e6 , SUM(pib)/COUNT(pib) FROM pays
+>>```
+>>- Renvoie une table qui n'a qu'une *seule* ligne qui donne le nombre d'habitant moyen par pays en milliards d'habitants.
+>>  le pib moyen des pays du globe
+
+### 2/ Calculs sur des agrégats
+
+On peut calculer les valaurs des fonctions d'agrégation sur des sous-ensembles (agrégat) d'enregistrements définis par la valeur prise par un certain attribut.
+
+On utilise alors la clause `GROUP BY` pour effectuer ces regroupements.
+
+On obtient alors une table ayant autant de lignes qu'il y a de sous ensemble 
+
+>[!example] 
+>```SQL
+>SELECT continent, SUM(population) FROM pays
+>GROUP BY continent
+>```
+>- La requête renvoie le nom des continents et leur population totale
+
+>[!warning]
+>Dans une requête utilisant un regroupement avec `GROUP BY`, hormis les valeurs de fonctions d'agrégation (par gorupe), cela ne fait pas sens de demander la valeurs d'attribut dont la valeur n'est pas constante sur chaque regroupement.
+>
+
+---
+#Informatique 
