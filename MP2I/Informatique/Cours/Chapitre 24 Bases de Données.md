@@ -275,7 +275,29 @@ On obtient alors une table ayant autant de lignes qu'il y a de sous ensemble
 
 >[!warning]
 >Dans une requête utilisant un regroupement avec `GROUP BY`, hormis les valeurs de fonctions d'agrégation (par gorupe), cela ne fait pas sens de demander la valeurs d'attribut dont la valeur n'est pas constante sur chaque regroupement.
->
+
+
+>[!remarque]
+>Si on calcule des fonctions d'agrégation sans `GROUP BY` on ne peut demander que l'affichage de valeurs de fonctions d'agrégation car il n'y aura qu'une ligne dans la réponse 
+
+Lorque l'on a utilisé `GROUP BY` on peut retenir, dans la table résultats, que les lignes vérifiant un certain critère portant portant sur les valeurs prises par les fonctions d'agrégations.
+
+On utilise la clause `HAVING`
+
+>[!example] 
+>```SQL
+>SELECT continent, SUM(population) FROM pays
+>GROUP BY continent
+>HAVING SUM(population)>1e9
+>```
+>>[!warning] Ne pas confondre `WHERE` et `HAVING`
+
+## V) Opérations ensemblistes 
+
+On peut combiner les resultats de deux requêtes à l'aide d'opération ensemblistes 
+- `UNION` : union $AB$ 
+- `INTERSECT` : intersection $AB$
+- `EXCEPT` : Différence $AB$
 
 ---
 #Informatique 
