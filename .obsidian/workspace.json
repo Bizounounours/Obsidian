@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1c5d92efdffe500",
+            "id": "0b1dc1f5a784ffee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MP2I/Informatique/Fiches/💾 Fiche - Stratégies Algorithmiques & Base de Données.md",
-                "mode": "source",
-                "source": false
+                "file": "MP2I/Informatique/TD/Epic attachements/TD15_canva.canvas",
+                "viewState": {
+                  "x": 27.5,
+                  "y": 716.9379844961243,
+                  "zoom": -0.6446015760175465
+                }
               },
-              "icon": "lucide-file",
-              "title": "💾 Fiche - Stratégies Algorithmiques & Base de Données"
+              "icon": "lucide-layout-dashboard",
+              "title": "TD15_canva"
             }
           }
         ]
@@ -184,12 +187,25 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "a1c5d92efdffe500",
+  "active": "0b1dc1f5a784ffee",
   "lastOpenFiles": [
+    "MP2I/Informatique/TD/TD 15.md",
+    "Pasted image 20260520140150.png",
+    "MP2I/Informatique/TD/Epic attachements/TD15_canva.canvas",
+    "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520135326.png",
+    "Sans titre.canvas",
+    "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520134744.png",
+    "MP2I/Informatique/TD/Epic attachements",
+    "MP2I/Informatique/TD/TD15_canva.png",
+    "Triple_T.png",
+    "INDEX.base",
+    "AMONGUS.md",
+    "MP2I/Informatique/TD/TD 10.md",
+    "MP2I/FR/Devoirs/correction.md",
+    "MP2I/Informatique/Fiches/💾 Fiche - Stratégies Algorithmiques & Base de Données.md",
     "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
     "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
-    "MP2I/Informatique/Fiches/💾 Fiche - Stratégies Algorithmiques & Base de Données.md",
-    "AMONGUS.md",
+    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
     "Ink/Drawing/2026.2.13 - 9.47am.drawing",
     "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.svg",
@@ -199,7 +215,6 @@
     "MP2I/Physique/Thermodynamique/Thermo 4/Thermo4_transitions.pdf",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
     "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
-    "INDEX.base",
     "murd.md",
     "MP2I/Physique/TD.pdf",
     "MP2I/Physique/ID.pdf",
@@ -215,24 +230,13 @@
     "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
-    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
     "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
-    "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
-    "MP2I/Index_Info.md",
-    "MP2I/Index_Maths.md",
-    "MP2I/Informatique/TD/PDF/TD14.pdf",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
     "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
     "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",
-    "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce23.png",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
-    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
-    "OneNote/Phys/Électrocinetique/Elec3_RSF/Elec3_RSF - Ink.svg",
     "Untitled.canvas",
-    "Sans titre.canvas",
     "Sans titre 1.canvas"
   ]
 }
