@@ -65,14 +65,14 @@ int main() {
 
 
 
-$$
+>[!note] 
+>$$
 \begin{align}
 \Delta(f)=f' \\
-
-\Delta(y^{(4)}+2y^{(2)}+y) = \Delta(0) \\
-\implies (y^{(4)}+2y^{(2)}+y)'=0'
-\end{align}
-$$
+>\Delta(y^{(4)}+2y^{(2)}+y) = \Delta(0) \\
+>\implies (y^{(4)}+2y^{(2)}+y)'=0'
+>\end{align}
+>$$
 
 
 
@@ -105,3 +105,8 @@ Trainer: 25
 
 Energy: 14
 15 Grass Energy MEE 1
+
+![[Théorème 10]]
+
+![[Théorème 15]]
+

@@ -12,9 +12,9 @@
   background-color: transparent !important; /* Rend le fond transparent */
 }
 
-/* Cible spécifiquement l'export PDF pour s'assurer que le fond est blanc/propre */
+/* Cible spécifiquement l'export PDF pour s'assurer que le fond est blanc/propre
 @media print {
   .markdown-embed {
     background-color: white !important;
   }
-}
+} */

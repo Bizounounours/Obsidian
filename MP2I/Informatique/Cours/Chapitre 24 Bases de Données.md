@@ -260,7 +260,7 @@ ORDER BY attr1 ASC (ou DESC)
 
 ### 2/ Calculs sur des agrégats
 
-On peut calculer les valaurs des fonctions d'agrégation sur des sous-ensembles (agrégat) d'enregistrements définis par la valeur prise par un certain attribut.
+On peut calculer les valeurs des fonctions d'agrégation sur des sous-ensembles (agrégat) d'enregistrements définis par la valeur prise par un certain attribut.
 
 On utilise alors la clause `GROUP BY` pour effectuer ces regroupements.
 
@@ -298,6 +298,53 @@ On peut combiner les resultats de deux requêtes à l'aide d'opération ensembli
 - `UNION` : union $AB$ 
 - `INTERSECT` : intersection $AB$
 - `EXCEPT` : Différence $AB$
+
+On va dire ce qu'il en est des associations de cardinalité $*-*$
+
+Une association $*-*$ peut se décomposer en deux associations $1-*$ et $*-1$, ce qui permet de passé du modèle E/A au modele relationnel, en créant une table décrivant l'association "joue dans" (table casting dans l'example du cours) et en la <mark style="background: #FFB86CA6;">liant </mark> aux tables représentant les deux ensembles d'entités reliés par l'associations grâce aux liens <mark style="background: #FFB86CA6;">clé primaire - clé étrangère</mark>
+
+
+De façon générale, on peut passer du modèle E/A au modèle relationnel, en créant une table par ensemble d'identités et une table par ensemble d'associations 
+
+Mais pour les asso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 #Informatique 
