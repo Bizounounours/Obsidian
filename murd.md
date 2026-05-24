@@ -106,7 +106,6 @@ Trainer: 25
 Energy: 14
 15 Grass Energy MEE 1
 
-![[Théorème 10]]
 
-![[Théorème 15]]
+
 

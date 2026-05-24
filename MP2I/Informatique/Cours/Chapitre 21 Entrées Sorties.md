@@ -164,15 +164,6 @@
 >`argv` tableau de chaîne de caractères qui contient `argc` cellule une paramètre (en position 0 : le nom du programme).
 
 
-
-
-
-
-
-
-
-
-
-
-
 [^1]: lit jusqu'au premier retour à la ligne.
+---
+#Informatique #cours

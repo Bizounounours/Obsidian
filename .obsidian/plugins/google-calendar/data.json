@@ -1,6 +1,6 @@
 {
-  "googleClientId": "",
-  "googleClientSecret": "",
+  "googleClientId": "365808758112-ugj8pi21qk001duu0ofupgi4l09c7otk.apps.googleusercontent.com",
+  "googleClientSecret": "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",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
@@ -15,8 +15,17 @@
   "importEndOffset": 1,
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
-  "defaultCalendar": "",
-  "calendarBlackList": [],
+  "defaultCalendar": "43e7a898545ef00b415f80d42898a85cf02bb46f33447a2572a0869cf9e432dd@group.calendar.google.com",
+  "calendarBlackList": [
+    [
+      "a174374e48620f71ca3460df92dad0af5920218f611629da1d61a40288784b28@group.calendar.google.com",
+      "Emploi du Temps"
+    ],
+    [
+      "ayrtonkebiche@gmail.com",
+      "ayrtonkebiche@gmail.com"
+    ]
+  ],
   "insertTemplates": [],
   "useDefaultTemplate": false,
   "defaultTemplate": "",
@@ -39,7 +48,8 @@
       "offset": 0,
       "timespan": 1,
       "showAllDay": true,
-      "navigation": true
+      "navigation": true,
+      "date": "2026-05-24T15:39:08+02:00"
     },
     "week": {
       "type": "week",

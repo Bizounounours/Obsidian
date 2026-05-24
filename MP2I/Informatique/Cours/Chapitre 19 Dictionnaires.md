@@ -233,3 +233,5 @@ $\forall m \in h(A) \subset [|0,N-1|]$, les valeurs de P$(c=m)$ pour toute clé 
 	(entier % N en C 
 	entier mod $N$ en OCaml
 	reste dans la division euclidienne par $N$ )
+---
+#Informatique #cours 

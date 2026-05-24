@@ -87,15 +87,3 @@ notebook base de données
 
 
 
-![[B7.pdf]]
-
-
-
-
-
-
-
-
-
-![[Drawing 2026-05-18 20.54.18.excalidraw]]
-![[E2.pdf#page=3&rect=11,364,582,423|E2, p.3]]

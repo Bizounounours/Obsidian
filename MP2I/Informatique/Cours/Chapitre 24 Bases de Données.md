@@ -347,4 +347,4 @@ Mais pour les asso
 
 
 ---
-#Informatique 
+#Informatique #cours

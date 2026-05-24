@@ -24,5 +24,6 @@
   "catppuccin-heading-settings@@ctp-h4": "var(--ctp-sapphire)",
   "catppuccin-heading-settings@@ctp-h5": "var(--ctp-blue)",
   "catppuccin-heading-settings@@ctp-h6": "var(--ctp-lavender)",
-  "catppuccin-pdf@@ctp-pdf-darken": true
+  "catppuccin-pdf@@ctp-pdf-darken": true,
+  "catppuccin-font-styles@@ctp-blockquote": "var(--ctp-text)"
 }

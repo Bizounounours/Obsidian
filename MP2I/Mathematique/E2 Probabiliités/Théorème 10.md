@@ -1,8 +1,8 @@
-
+### Propriétés élémentaires des probabilités
 
 ![[E2.pdf#page=3&rect=8,168,590,326|E2, p.3]]
 
->[!colles] Démonstration
+>[!colles]- Démonstration
 >
 >#### i)
 >On a :
@@ -50,7 +50,16 @@
 >
 >#### vi) 
 >Par <font color="lime"> iii) </font> 
->$P(A \cup B)=P((A\cup B)\cap A)+P((A\cup B)\cap \bar{A})$
+>$$P(A \cup B)=P((A\cup B)\cap A)+P((A\cup B)\cap \bar{A})$$
 >Déjà $A \subset (A\cup B)$ donc $(A\cup B)\cap A = \bar{A}$
->Ensuite 
+>Ensuite $(A\cup B)\cap \bar{A}=(A\cap \bar{A})\cup(B\cap \bar{A})=B\cap \bar{A}$
+>Ainsi :
+>$$
+>\begin{align}
+>P(A\cup B)&=P(A)+P(B\cap \bar{A}) \\
+>&=P(A)+P(B)-P(B\cap A)
+>\end{align}
+>$$
 
+---
+#Maths #E2_probabilités

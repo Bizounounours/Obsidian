@@ -508,3 +508,5 @@ g \in AB, d\in AB \implies N(g,d)\in AB
 [^6]: mettre des parenthèses autour d'un élément déjà construit
 
 [^7]: accoler deux éléments déjà construits 
+---
+#Informatique #cours 
