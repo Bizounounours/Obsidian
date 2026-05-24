@@ -1,12 +1,12 @@
 {
   "showRibbon": true,
   "theme": "obsidian",
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Catppuccin",
   "accentColor": "#00688f",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "darkpdf",
     "Dark PDF export",
-    "NO TITLE IN EMBED"
+    "NO TITLE IN EMBED",
+    "Fix Latex RV"
   ]
 }

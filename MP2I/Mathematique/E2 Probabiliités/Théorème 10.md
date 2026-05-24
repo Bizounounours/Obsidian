@@ -38,10 +38,19 @@
 >
 >#### iv) 
 >On rappelle que $(B \backslash A)=B \cap \bar{A}$
->Par iii) 
+>Par <font color = "lime" >iii)</font> 
 >$$P(B \backslash A)=P(B \cap \bar{A})=P(B) -P(A \cap B)$$
 >Or $A \subset B$ donc $A \cap B=A$, et ainsi 
 >$$
 >P(B \backslash A)= P(B)-P(A)
 >$$ 
+>
+>#### v)
+>On a $P(B \backslash A)\geq O$ donc si $A \subset B$ par <font color = "lime"> iv) </font> il vient $P(B)-P(A)\geq0$
+>
+>#### vi) 
+>Par <font color="lime"> iii) </font> 
+>$P(A \cup B)=P((A\cup B)\cap A)+P((A\cup B)\cap \bar{A})$
+>Déjà $A \subset (A\cup B)$ donc $(A\cup B)\cap A = \bar{A}$
+>Ensuite 
 

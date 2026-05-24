@@ -1,0 +1,18 @@
+/* Réduit la taille globale des blocs d'équations centrés */
+.markdown-rendered .math-block > mjx-container {
+    font-size: 0.9em !important; /* Ajustez ce chiffre (0.8, 0.7...) selon vos goûts */
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+}
+
+/* Réduit la taille du LaTeX à l'intérieur d'une ligne de texte */
+.markdown-rendered .math-inline mjx-container {
+    font-size: 0.9em !important;
+}
+
+/* Supprime les bordures ou fonds imposants que Royal Velvet pourrait ajouter */
+.math-block, .math-inline {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
