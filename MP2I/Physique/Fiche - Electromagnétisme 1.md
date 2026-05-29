@@ -1,21 +1,21 @@
 
 
 > [!formule] Constantes Fondamentales
-> - Vitesse de la lumière : $c = 3,00 \times 10^8 \text{ m.s}^{-1}$ [cite: 558]
-> - Permittivité du vide : $\epsilon_0 \approx 8,85 \times 10^{-12} \text{ F.m}^{-1}$ [cite: 559]
-> - Perméabilité du vide : $\mu_0 \approx 1,26 \times 10^{-6} \text{ H.m}^{-1}$ [cite: 560]
-> - Relation fondamentale : $c^2 \mu_0 \epsilon_0 = 1$ [cite: 558]
+> - Vitesse de la lumière : $c = 3,00 \times 10^8 \text{ m.s}^{-1}$
+> - Permittivité du vide : $\epsilon_0 \approx 8,85 \times 10^{-12} \text{ F.m}^{-1}$
+> - Perméabilité du vide : $\mu_0 \approx 1,26 \times 10^{-6} \text{ H.m}^{-1}$
+> - Relation fondamentale : $c^2 \mu_0 \epsilon_0 = 1$
 
 ---
 
 ## I. Le Champ Magnétique $\vec{B}$
 
 ### 1. Définition et Force de Lorentz
-Le champ magnétique décrit les interactions entre charges en mouvement [cite: 552].
+Le champ magnétique décrit les interactions entre charges en mouvement.
 
 > [!formule] Force de Lorentz magnétique
 > Une charge $q$ au point $M$ avec une vitesse $\vec{v}$ dans un champ $\vec{B}(M,t)$ subit :
-> $$\vec{F}_m = q \vec{v} \wedge \vec{B}(M,t)$$ [cite: 553]
+> $$\vec{F}_m = q \vec{v} \wedge \vec{B}(M,t)$$
 
 > [!rappel] Propriétés du produit vectoriel
 > - $\vec{A} \wedge \vec{B} = - \vec{B} \wedge \vec{A}$ (Anticommutativité)
@@ -24,85 +24,79 @@ Le champ magnétique décrit les interactions entre charges en mouvement [cite: 
 > - Norme : $\|ec{A} \wedge ec{B}\| = AB \sin(	heta)$.
 
 ### 2. Sources et Cartes de Champ
-- **Sources** : Mouvement de charges (courants macroscopiques ou microscopiques dans les aimants) [cite: 564, 567].
-- **Superposition** : Les champs magnétiques s'ajoutent vectoriellement [cite: 571].
-- **Lignes de champ** : Courbes tangentes à $\vec{B}$, toujours **fermées** [cite: 575, 579].
-- **Aimant droit** : À l'extérieur, $\vec{B}$ sort par le pôle Nord et entre par le pôle Sud [cite: 583, 593].
+- **Sources** : Mouvement de charges (courants macroscopiques ou microscopiques).
+- **Superposition** : Les champs magnétiques s'ajoutent vectoriellement : $\vec{B}_{tot} = \sum \vec{B}_i$.
+- **Lignes de champ** : Courbes tangentes à $\vec{B}$ en tout point, elles sont toujours **fermées**.
+- **Aimant droit** : À l'extérieur, $\vec{B}$ sort par le pôle Nord et entre par le pôle Sud.
 
 ### 3. Champs usuels créés par des courants
 
 > [!formule] Spire circulaire (sur l'axe Oz)
 > Pour une spire de rayon $R$ parcourue par un courant $i$ :
-> $$\vec{B}(z) = \frac{\mu_0 i R^2}{2(R^2 + z^2)^{3/2}} \vec{u}_z$$ [cite: 364]
+> $$\vec{B}(z) = \frac{\mu_0 i R^2}{2(R^2 + z^2)^{3/2}} \vec{u}_z$$
 > Au centre ($z=0$) : $B(0) = \frac{\mu_0 i}{2R}$.
 
 > [!formule] Solénoïde (Bobine longue $L \gg R$)
-> À l'intérieur d'un solénoïde comportant $n = N/L$ spires par unité de longueur :
-> $$\vec{B}_{int} = \mu_0 n i \vec{u}_z$$ [cite: 368, 380]
-> Le champ à l'extérieur est nul [cite: 368, 380].
+> À l'intérieur du solénoïde, le champ est considéré comme uniforme :
+> $$\vec{B}_{int} = \mu_0 n i \vec{u}_z \quad (n = N/L)$$
 
 > [!formule] Bobines de Helmholtz
-> Deux bobines de rayon $R$ séparées d'une distance $R$ créent un champ quasi-uniforme au centre :
-> $$\vec{B} = \frac{\mu_0 N i}{R} \left(\frac{4}{5}\right)^{3/2} \vec{u}_z$$ [cite: 383, 384]
+> Deux bobines identiques de rayon $R$ séparées d'une distance $R$ :
+> $$\vec{B} \approx \frac{\mu_0 N i}{R} \left(\frac{4}{5}\right)^{3/2} \vec{u}_z$$
 
 ---
 
 ## II. Moment Magnétique $\vec{m}$
 
-Toute source magnétique se comporte comme un dipôle magnétique [cite: 389]. Il n'existe pas de monopôle magnétique [cite: 390].
-
 > [!formule] Moment magnétique d'une spire
-> $$\vec{m} = i S \vec{n} = i \vec{S}$$ [cite: 406, 407]
+> $$\vec{m} = i S \vec{n} = i \vec{S}$$
 > - $i$ : intensité du courant (A).
 > - $S$ : surface de la spire ($m^2$).
-> - $\vec{n}$ : vecteur unitaire normal orienté par la main droite [cite: 406].
+> - $\vec{n}$ : vecteur unitaire normal (règle de la main droite).
 
-> [!example] Magnéton de Bohr
-> Moment magnétique de l'électron dans son état fondamental : $\mu_B = \frac{e \hbar}{2 m_e}$ [cite: 413].
+> [!example] Moment magnétique de l'électron
+> Le magnéton de Bohr $\mu_B$ est le moment magnétique associé à l'électron : $\mu_B = \frac{e \hbar}{2 m_e}$.
 
 ---
 
 ## III. Actions d'un Champ Magnétique
 
 ### 1. Force de Laplace
-S'exerce sur un circuit filiforme parcouru par un courant $I$ placé dans un champ extérieur $\vec{B}$ [cite: 464].
+S'exerce sur un conducteur parcouru par un courant $I$ dans un champ extérieur $\vec{B}$.
 
 > [!formule] Loi de Laplace
-> Un élément infinitésimal $d\vec{\ell}$ subit :
-> $$d\vec{F}_L = I d\vec{\ell} \wedge \vec{B}$$ [cite: 465]
-> Force totale sur un fil MN : $\vec{F}_L = \int_M^N I d\vec{\ell} \wedge \vec{B}$ [cite: 466].
+> Un élément de courant $I d\vec{\ell}$ subit :
+> $$d\vec{F}_L = I d\vec{\ell} \wedge \vec{B}$$
 
 ### 2. Couple et Énergie
-Un dipôle magnétique dans un champ $\vec{B}$ extérieur uniforme subit un couple d'actions mécaniques [cite: 494].
+Un dipôle magnétique placé dans un champ $\vec{B}$ uniforme subit des actions mécaniques qui tendent à l'orienter.
 
 > [!formule] Moment du couple (Torque)
-> $$\vec{\Gamma}_L = \vec{m} \wedge \vec{B}$$ [cite: 494]
+> $$\vec{\Gamma}_L = \vec{m} \wedge \vec{B}$$
 
 > [!formule] Puissance de l'action de Laplace
-> $$\mathcal{P}_L = \vec{\Omega} \cdot \vec{\Gamma}_L$$ [cite: 495]
-> Où $\vec{\Omega}$ est le vecteur rotation [cite: 494].
+> $$\mathcal{P}_L = \vec{\Omega} \cdot \vec{\Gamma}_L$$
 
-> [!remarque] Stabilité de l'équilibre
-> - **Stable** : $\vec{m}$ et $\vec{B}$ sont de **même sens** [cite: 509].
-> - **Instable** : $\vec{m}$ et $\vec{B}$ sont de sens opposés [cite: 509].
-> Le moment magnétique a tendance à s'aligner sur le champ extérieur [cite: 510].
+> [!remarque] Équilibre
+> - **Stable** : $\vec{m}$ est aligné avec $\vec{B}$ (même sens).
+> - **Instable** : $\vec{m}$ et $\vec{B}$ sont de sens opposés.
 
 ---
 
 ## IV. Rappels Transverses
 
 ### 1. Mécanique
-> [!rappel] Dynamique et Énergie
-> - **PFD (2ème loi de Newton)** : $\sum \vec{F} = m \vec{a}$.
-> - **Théorème du Moment Cinétique** : $\frac{d\vec{L}_O}{dt} = \sum \vec{\Gamma}_O(\vec{F})$.
-> - **Travail d'une force** : $W = \int \vec{F} \cdot d\vec{r}$.
-> - **Puissance** : $\mathcal{P} = \vec{F} \cdot \vec{v}$ (translation) ou $\mathcal{P} = \vec{\Gamma} \cdot \vec{\Omega}$ (rotation).
+> [!rappel] Dynamique et Travail
+> - **PFD** : $\sum \vec{F} = m \vec{a}$.
+> - **Moment Cinétique** : $\frac{d\vec{L}_O}{dt} = \sum \vec{\Gamma}_O$.
+> - **Puissance d'une force** : $\mathcal{P} = \vec{F} \cdot \vec{v}$.
+> - **Théorème de l'Énergie Cinétique** : $\Delta E_c = W_{tot}$.
 
 ### 2. Électrocinétique
-> [!rappel] Courant et Loi d'Ohm
+> [!rappel] Loi d'Ohm et Courant
 > - **Loi d'Ohm** : $U = RI$.
-> - **Puissance dissipée (Effet Joule)** : $P_J = RI^2$.
-> - **Lien courant - vitesse microscopique** : $I = n q v S$ (où $n$ est la densité de porteurs, $q$ leur charge, $v$ la vitesse moyenne et $S$ la section) [cite: 434, 437].
+> - **Puissance Joule** : $P_J = RI^2$.
+> - **Vitesse de dérive** : $I = n q v S$.
 
-> [!remarque] Unité Gauss
-> $1 \text{ Gauss (G)} = 10^{-4} \text{ Tesla (T)}$ [cite: 384].
+> [!remarque] Unité de champ
+> $1 \text{ Tesla (T)} = 10^{4} \text{ Gauss (G)}$.
