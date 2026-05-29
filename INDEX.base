@@ -1,13 +1,16 @@
 views:
   - type: table
     name: Table
+    groupBy:
+      property: file.tags
+      direction: ASC
     order:
       - file.name
       - file.folder
       - file.tags
       - file.size
     sort:
-      - property: file.size
+      - property: file.name
         direction: DESC
     columnSize:
       file.folder: 306

@@ -1,6 +1,5 @@
 ### Propriétés élémentaires des probabilités
-
-![[E2.pdf#page=3&rect=8,168,590,326|E2, p.3]]
+![[E2.pdf#page=3&rect=9,166,583,324|E2, p.3]]
 
 >[!colles]- Démonstration
 >

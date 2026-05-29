@@ -44,15 +44,6 @@
       "key": "S"
     }
   ],
-  "pdf-plus:copy-link-to-selection": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:toggle-blockquote": [
     {
       "modifiers": [
@@ -78,6 +69,15 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }

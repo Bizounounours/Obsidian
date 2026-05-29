@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📋",
-      "LiLeaf",
-      "📎",
-      "LiSigma",
-      "✂"
+      "📉",
+      "〽",
+      "🧲",
+      "🌡",
+      "LiCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,10 @@
   "MP2I/Index_Maths.md": "📋",
   "MP2I/Archives Khôlles/Maths/Colles Maths 21.md": "LiSigma",
   "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md": "LiLeaf",
-  "INDEX.base": "📋"
+  "INDEX.base": "📋",
+  "MP2I/Khôlles Maths 28.md": "LiSigma",
+  "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md": "LiCog",
+  "MP2I/Physique/Fiche - Thermodynamique.md": "🌡",
+  "MP2I/Physique/Fiche - Electromagnétisme 1.md": "🧲",
+  "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md": "📉"
 }

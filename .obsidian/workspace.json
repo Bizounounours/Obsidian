@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "766f9250ccb35bb6",
+        "id": "1ab34eb0a5f1b158",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc0b3be3ea7860b",
+            "id": "464d9efb49dd4667",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Mathematique/B10 Groupe Symétrique/B10.pdf",
-                "page": 1,
-                "left": -15,
-                "top": 846,
-                "zoom": 1.0210084033613447
+                "file": "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "B10"
+              "icon": "lucide-file",
+              "title": "Fiche - Équations Différentielles (Électrocinétique)"
             }
           }
         ]
@@ -65,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#Informatique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +87,7 @@
       {
         "id": "d6ce3675014fff2e",
         "type": "tabs",
-        "dimension": 52.112676056338024,
+        "dimension": 48.708920187793424,
         "children": [
           {
             "id": "66233c458281aa2b",
@@ -112,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Physique/Thermodynamique/Thermo 4/Thermo4_transitions.pdf",
+                "file": "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Thermo4_transitions"
+              "title": "Plan de Fiche - Équations Différentielles (Électrocinétique)"
             }
           },
           {
@@ -130,13 +128,24 @@
               "icon": "layout-template",
               "title": "GCal Timeline View"
             }
+          },
+          {
+            "id": "ccc0b3be3ea7860b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c7109523a5cedd8d",
         "type": "tabs",
-        "dimension": 47.88732394366197,
+        "dimension": 51.291079812206576,
         "children": [
           {
             "id": "608684da60852a22",
@@ -180,6 +189,19 @@
               "icon": "links-going-out",
               "title": "Liens sortants de Chapitre 24 Bases de Données"
             }
+          },
+          {
+            "id": "8e988e02baf8ccbd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "INDEX.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "INDEX"
+            }
           }
         ]
       }
@@ -203,56 +225,56 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ccc0b3be3ea7860b",
+  "active": "d5e66e152642fbb2",
   "lastOpenFiles": [
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/D4.pdf",
-    "MP2I/Mathematique/B10 Groupe Symétrique/B10.pdf",
-    "MP2I/Mathematique/B10 Groupe Symétrique",
-    "MP2I/Mathematique/B10 Groupe",
-    "MP2I/Mathematique/Nouveau dossier",
-    "MP2I/Physique/Thermodynamique/Thermo 4/Thermo4_transitions.pdf",
-    "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
-    "MP2I/Physique/Mécanique/TD/Meca2&3_TD.pdf",
-    "MP2I/Physique/TP/Pasted image 20260317114959.png",
-    "MP2I/Mathematique/E2 Probabiliités/E2.pdf",
+    "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+    "MP2I/Physique/Fiche - Thermodynamique.md",
+    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
+    "MP2I/Khôlles Maths 28.md",
+    "AMONGUS.md",
+    "INDEX.base",
+    "Sans titre.canvas",
+    "Khôlle de Mathématiques 28-1.pdf",
+    "MP2I/Informatique/Cours/Chapitre 25.md",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Théorème 19.md",
     "MP2I/Mathematique/E2 Probabiliités/Théorème 10.md",
-    "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
-    "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
-    "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
+    "Triple_T.png",
+    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
+    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+    "MP2I/Informatique/Fiches/Sans titre.md",
     "MP2I/Informatique/TD/TD 15.md",
+    "MP2I/FR/Pour le futur.md",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Lemme 23.md",
+    "murd.md",
+    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
+    "MP2I/Mathematique/D6 Espaces préhilbertiens réels",
+    "MP2I/Mathematique/D8",
+    "MP2I/Mathematique/B10 Groupe Symétrique/B10.pdf",
+    "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Théoréme 19.png",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Sans titre.png",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Schémas",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Nouveau dossier",
+    "MP2I/Mathematique/E2 Probabiliités/E2.pdf",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/D4.pdf",
+    "MP2I/Mathematique/B10 Groupe Symétrique",
+    "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
+    "MP2I/Physique/TP/Pasted image 20260317114959.png",
+    "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Informatique/TD/TD 10.md",
     "MP2I/Informatique/TD/TD 11.md",
     "MP2I/Informatique/TD/TD 12.md",
     "MP2I/Informatique/TD/TD 13.md",
-    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
     "MP2I/Informatique/Cours/Chapitre 14.md",
     "MP2I/Informatique/Cours/Chapitre 15 Mutabilité en OCaml.md",
-    "MP2I/Informatique/Cours/Chapitre 16 Arbres binaires de recherche.md",
-    "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
-    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
-    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
-    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
-    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
-    "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
-    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
-    "MP2I/Khôlles Maths 28.md",
-    "MP2I/Sans titre.md",
-    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
-    "murd.md",
-    "MP2I/Index_Info.md",
-    "Sans titre.canvas",
-    "Triple_T.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520134744.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520135326.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520140150.png",
     "MP2I/Informatique/TD/Epic attachements/TD15_canva.canvas",
-    "INDEX.base",
-    "MP2I/Mathematique/E2 Probabiliités",
-    "MP2I/Informatique/TD/Epic attachements",
     "MP2I/Informatique/TD/TD15_canva.png",
     "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.svg",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
-    "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
     "Untitled.canvas",
     "Sans titre 1.canvas"
   ]
