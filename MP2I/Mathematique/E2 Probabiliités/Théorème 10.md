@@ -1,0 +1,64 @@
+### Propriétés élémentaires des probabilités
+![[E2.pdf#page=3&rect=9,166,583,324|E2, p.3]]
+
+>[!colles]- Démonstration
+>
+>#### i)
+>On a :
+>$$
+>\begin{align}
+>1&= P(\Omega) \\
+>&=P(A \cup \bar{A}) \\
+>&=P(A)+P(\bar{A}) \\
+>\end{align}
+>$$
+>Donc $P(\bar{A})=1-P(A)$
+>
+>#### ii)
+>On a déjà $P(\Omega)=A$, donc $P(\varnothing)=P(\bar{\Omega})=0$
+>
+>#### iii)
+>On a :
+>$$
+>\begin{align}
+>B&=B \cap \Omega \ \ \ \ \ \ \ \ \ \text{car } B \subset \Omega \\
+>&=B \cap (A \cup \bar{A}) \\
+>&=(B \cap A) \cup (B \cap \bar{A}) \ \ \ \ \ \text{par distributivité de } n \text{ par } u
+>\end{align}
+>$$
+>Or $(B \cap A) \cap (B \cap \bar{A})=B \cap A \cap \bar{A}=\varnothing$
+>Ainsi :
+>$$
+>\begin{align}
+>P(B)&=P((B \cap A) \cup (B \cap \bar{A})) \\
+>&=P(B \cap A)+P(B \cap \bar{A})
+>\end{align}
+>$$
+>
+>#### iv) 
+>On rappelle que $(B \backslash A)=B \cap \bar{A}$
+>Par <font color = "lime" >iii)</font> 
+>$$P(B \backslash A)=P(B \cap \bar{A})=P(B) -P(A \cap B)$$
+>Or $A \subset B$ donc $A \cap B=A$, et ainsi 
+>$$
+>P(B \backslash A)= P(B)-P(A)
+>$$ 
+>
+>#### v)
+>On a $P(B \backslash A)\geq O$ donc si $A \subset B$ par <font color = "lime"> iv) </font> il vient $P(B)-P(A)\geq0$
+>
+>#### vi) 
+>Par <font color="lime"> iii) </font> 
+>$$P(A \cup B)=P((A\cup B)\cap A)+P((A\cup B)\cap \bar{A})$$
+>Déjà $A \subset (A\cup B)$ donc $(A\cup B)\cap A = \bar{A}$
+>Ensuite $(A\cup B)\cap \bar{A}=(A\cap \bar{A})\cup(B\cap \bar{A})=B\cap \bar{A}$
+>Ainsi :
+>$$
+>\begin{align}
+>P(A\cup B)&=P(A)+P(B\cap \bar{A}) \\
+>&=P(A)+P(B)-P(B\cap A)
+>\end{align}
+>$$
+
+---
+#Maths #E2_probabilités

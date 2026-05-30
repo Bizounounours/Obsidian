@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"109c959b501dcd5f","type":"text","text":"# range_dans\n---\n- allee\n- nom_categorie ","x":-100,"y":-260,"width":250,"height":200},
+		{"id":"d1fdd013fa85b25e","type":"text","text":"# Produits\n---\n- id_produit *(integer)*\n- nom *(string)*\n- prix *(float)*\n- nom_categorie *(string)*","x":-400,"y":-260,"width":250,"height":240}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

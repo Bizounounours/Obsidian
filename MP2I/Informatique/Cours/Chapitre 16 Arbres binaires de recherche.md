@@ -254,3 +254,5 @@ let rec supprime a e = match a with
 
 
 
+---
+#Informatique #cours 

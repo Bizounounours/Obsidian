@@ -1,12 +1,11 @@
 {
   "showRibbon": true,
   "theme": "obsidian",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Catppuccin",
   "accentColor": "#00688f",
   "enabledCssSnippets": [
-    "RoundedCorner",
     "supercharged-links-gen",
-    "COOLER LINK FRFR",
-    "NO TITLE IN EMBED"
+    "NO TITLE IN EMBED",
+    "Dark PDF export"
   ]
 }

@@ -349,3 +349,5 @@ a_{1} = 1 \text{ et } a_{i} = 2  \end{align} $$
 [^3]: (exemple 1) ou <u>le retrait d'une valeur</u> (exemple 2)
 
 [^4]: coût réel
+---
+#Informatique #cours 

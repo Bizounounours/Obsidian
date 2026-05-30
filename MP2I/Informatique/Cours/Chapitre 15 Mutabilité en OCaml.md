@@ -176,3 +176,5 @@ while i <= n do
 	incr i;
 done
 `````
+---
+#Informatique #cours 

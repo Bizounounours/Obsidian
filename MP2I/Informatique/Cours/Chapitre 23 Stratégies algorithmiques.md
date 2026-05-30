@@ -252,3 +252,5 @@
 [^3]: classer par $d_{i}$ croissants
 
 [^4]: classer par $f_{i}$ croissants
+---
+#Informatique #cours

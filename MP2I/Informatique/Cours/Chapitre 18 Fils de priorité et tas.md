@@ -238,3 +238,5 @@ struct tas init(int* tab, int taille){
 
 
 
+---
+#Informatique #cours 

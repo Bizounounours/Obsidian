@@ -72,3 +72,5 @@ let contient_zero t =
 	with
 		Exit -> true 
 ```
+---
+#Informatique #cours 

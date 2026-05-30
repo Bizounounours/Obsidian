@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f55bae50136ce5",
+        "id": "1ab34eb0a5f1b158",
         "type": "tabs",
         "children": [
           {
-            "id": "f3158120c646fa60",
+            "id": "464d9efb49dd4667",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Physique/TD.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TD"
+              "icon": "lucide-file",
+              "title": "Fiche - Electromagnétisme 1"
             }
           }
         ]
@@ -54,7 +54,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Revision",
+                "query": "tag:#Informatique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,30 +78,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 255
   },
   "right": {
     "id": "c4f98c1b25bc3a36",
     "type": "split",
     "children": [
       {
-        "id": "cb166b6b7191e84a",
+        "id": "d6ce3675014fff2e",
         "type": "tabs",
+        "dimension": 48.708920187793424,
         "children": [
-          {
-            "id": "71ee07e8142344ec",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de Chapitre 22 Récursivité et induction"
-            }
-          },
           {
             "id": "66233c458281aa2b",
             "type": "leaf",
@@ -109,31 +96,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
-            }
-          },
-          {
-            "id": "9e4dec190d7af373",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Rétrolien pour Chapitre 22 Récursivité et induction"
             }
           },
           {
@@ -142,15 +110,43 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
+                "file": "MP2I/Physique/Fiche - Electromagnétisme 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Chapitre 22 Récursivité et induction"
+              "title": "Plan de Fiche - Electromagnétisme 1"
             }
           },
+          {
+            "id": "d1d358f95e7b27db",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {},
+              "icon": "layout-template",
+              "title": "GCal Timeline View"
+            }
+          },
+          {
+            "id": "ccc0b3be3ea7860b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c7109523a5cedd8d",
+        "type": "tabs",
+        "dimension": 51.291079812206576,
+        "children": [
           {
             "id": "608684da60852a22",
             "type": "leaf",
@@ -160,13 +156,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9e4dec190d7af373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Chapitre 24 Bases de Données"
+            }
+          },
+          {
+            "id": "71ee07e8142344ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Chapitre 24 Bases de Données"
+            }
+          },
+          {
+            "id": "8e988e02baf8ccbd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "INDEX.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "INDEX"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,63 +221,60 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "custom-sort:Toggle custom sorting": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f3158120c646fa60",
+  "active": "464d9efb49dd4667",
   "lastOpenFiles": [
-    "MP2I/Physique/ID.pdf",
-    "MP2I/Physique/TD.pdf",
-    "MP2I/Informatique/Cours/Chapitre 12.md",
-    "MP2I/Informatique/💾 Fiche - Concours Blanc Info.md",
-    "MP2I/Physique/📉 Fiche - Équations Différentielles (Électrocinétique).md",
-    "MP2I/Physique/⚙️ Mécanique - Moment Cinétique, Gravitation et Solide.md",
-    "MP2I/Physique/🌡️ Fiche - Thermodynamique.md",
-    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-    "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
-    "MP2I/Informatique/Cours/Chapitre 18 Fils de priorité et tas.md",
-    "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
-    "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
+    "Fiche_Revision_Electromagnetisme_PURE.md",
+    "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+    "Khôlle de Mathématiques 28-1.pdf",
+    "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
+    "MP2I/Physique/Fiche - Thermodynamique.md",
+    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
+    "MP2I/Khôlles Maths 28.md",
+    "AMONGUS.md",
+    "INDEX.base",
+    "Sans titre.canvas",
+    "MP2I/Informatique/Cours/Chapitre 25.md",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Théorème 19.md",
+    "MP2I/Mathematique/E2 Probabiliités/Théorème 10.md",
+    "Triple_T.png",
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
     "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
-    "INDEX.base",
-    "Ink/Drawing/2026.2.13 - 9.47am.drawing",
-    "MP2I/Archives Khôlles/Old/!Programme Khôlles 15.md",
-    "MP2I/Archives Khôlles/Old/!Programme Khôlles 17.md",
-    "MP2I/Index_Info.md",
-    "MP2I/Index_Maths.md",
-    "Sans titre.md",
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/B7.pdf",
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/Théorème 26.md",
-    "MP2I/Mathematique/B7 Calcul matriciel et systèmes linéaires/!B7.md",
-    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
-    "MP2I/Mathematique/!Fiche utile/Croissance Comparée.md",
-    "MP2I/Mathematique/B9 Fonctions Rationelles/!B9.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+    "MP2I/Informatique/Fiches/Sans titre.md",
+    "MP2I/Informatique/TD/TD 15.md",
+    "MP2I/FR/Pour le futur.md",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Lemme 23.md",
+    "murd.md",
+    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
+    "MP2I/Mathematique/D6 Espaces préhilbertiens réels",
+    "MP2I/Mathematique/D8",
+    "MP2I/Mathematique/B10 Groupe Symétrique/B10.pdf",
     "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
-    "MP2I/Archives Khôlles/Old/!Programmes Khôlles 18.md",
-    "MP2I/Informatique/TD/PDF/TD14.pdf",
-    "MP2I/Informatique/TD/PDF/TD13.pdf",
-    "MP2I/Informatique/TD/PDF",
-    "MP2I/Physique/TP/Pasted image 20260317114959.png",
-    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
-    "MP2I/Mathematique/D7 Développements Limités",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce18.png",
-    "Excalidraw/Drawing 2026-03-18 10.15.15.excalidraw.svg",
-    "Excalidraw/Drawing 2026-03-18 10.12.31.excalidraw.svg",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Théoréme 19.png",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Sans titre.png",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Schémas",
+    "MP2I/Mathematique/B10 Groupe Symétrique/Nouveau dossier",
+    "MP2I/Mathematique/E2 Probabiliités/E2.pdf",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/D4.pdf",
+    "MP2I/Mathematique/B10 Groupe Symétrique",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce23.png",
-    "MP2I/Mathematique/C1 Espaces Vectoriels/Enonce/enonce16.png",
-    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1 Notes.png",
-    "OneNote/Phys/Électrocinetique/Elec3_RSF/Elec3_RSF - Ink.svg",
-    "OneNote/Phys/Électrocinetique/Elec3_RSF/TD  - Ink.svg",
+    "MP2I/Physique/TP/Pasted image 20260317114959.png",
+    "MP2I/Informatique/TD/TD 10.md",
+    "MP2I/Informatique/TD/TD 11.md",
+    "MP2I/Informatique/TD/TD 12.md",
+    "MP2I/Informatique/TD/TD 13.md",
+    "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520134744.png",
+    "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520135326.png",
+    "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520140150.png",
+    "MP2I/Informatique/TD/Epic attachements/TD15_canva.canvas",
+    "MP2I/Informatique/TD/TD15_canva.png",
+    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.svg",
     "Untitled.canvas",
-    "Sans titre.canvas",
     "Sans titre 1.canvas"
   ]
 }

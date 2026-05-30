@@ -2,18 +2,11 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "file:Index_Maths",
-      "color": {
-        "a": 1,
-        "rgb": 182809
-      }
-    },
     {
       "query": "tag:#Chap_maths  ",
       "color": {
@@ -22,17 +15,17 @@
       }
     },
     {
-      "query": "file:!INDEX_colles",
-      "color": {
-        "a": 1,
-        "rgb": 15784960
-      }
-    },
-    {
       "query": "tag:#Kholles  ",
       "color": {
         "a": 1,
         "rgb": 13085696
+      }
+    },
+    {
+      "query": "tag:#Fiches ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 10.7368421052632,
   "linkStrength": 0.468421052631579,
   "linkDistance": 113,
-  "scale": 1.17350926034502,
-  "close": false
+  "scale": 0.28124116482578365,
+  "close": true
 }

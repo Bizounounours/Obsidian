@@ -82,21 +82,8 @@ notebook base de données
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	fonction d'grega 
+	count sum min max avg
 
 
 
