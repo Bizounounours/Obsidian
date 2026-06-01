@@ -11,14 +11,16 @@
             "id": "464d9efb49dd4667",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MP2I/Physique/Fiche - Electromagnétisme 1.md",
-                "mode": "source",
-                "source": false
+                "file": "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
+                "page": 17,
+                "left": -15,
+                "top": 561,
+                "zoom": 1.0205350123304149
               },
-              "icon": "lucide-file",
-              "title": "Fiche - Electromagnétisme 1"
+              "icon": "lucide-file-text",
+              "title": "cahier_d_entrainement_PC_v1-0-1"
             }
           }
         ]
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+                "file": "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Fiche - Electromagnétisme 1"
+              "title": "Plan de cahier_d_entrainement_PC_v1-0-1"
             }
           },
           {
@@ -227,12 +229,14 @@
   },
   "active": "464d9efb49dd4667",
   "lastOpenFiles": [
-    "Fiche_Revision_Electromagnetisme_PURE.md",
     "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
+    "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
+    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
+    "Fiche_Revision_Electromagnetisme_PURE.md",
     "Khôlle de Mathématiques 28-1.pdf",
     "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/Fiche - Thermodynamique.md",
-    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
     "MP2I/Khôlles Maths 28.md",
     "AMONGUS.md",
     "INDEX.base",
@@ -260,8 +264,6 @@
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas",
     "MP2I/Mathematique/B10 Groupe Symétrique/Nouveau dossier",
     "MP2I/Mathematique/E2 Probabiliités/E2.pdf",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/D4.pdf",
-    "MP2I/Mathematique/B10 Groupe Symétrique",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Informatique/TD/TD 10.md",
