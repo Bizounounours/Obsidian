@@ -16,3 +16,11 @@ Peinture peinte en intérieur et représentant l'intérireur. Aucune feunetres -
     
 ### Impressionisme
 Claude Monet
+
+### Baroque 
+le désordre
+
+### Classissisme 
+Ordonnée
+Sobre
+

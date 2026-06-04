@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab34eb0a5f1b158",
+        "id": "04e86ac7be7cbb31",
         "type": "tabs",
         "children": [
           {
-            "id": "464d9efb49dd4667",
+            "id": "870862d306e6b9ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
-                "page": 17,
-                "left": -15,
-                "top": 561,
-                "zoom": 1.0205350123304149
+                "file": "MP2I/Mathematique/B10 Groupe Symétrique/Théorème 19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "cahier_d_entrainement_PC_v1-0-1"
+              "icon": "lucide-file",
+              "title": "Théorème 19"
             }
           }
         ]
@@ -112,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
+                "file": "MP2I/FR/Pour le futur.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de cahier_d_entrainement_PC_v1-0-1"
+              "title": "Plan de Pour le futur"
             }
           },
           {
@@ -140,9 +138,23 @@
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
             }
+          },
+          {
+            "id": "41965ce0affa61f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "c7109523a5cedd8d",
@@ -209,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 274
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,33 +239,37 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "464d9efb49dd4667",
+  "active": "608684da60852a22",
   "lastOpenFiles": [
+    "MP2I/Informatique/TD/TD.md",
+    "Peak/Triple_T.png",
+    "Peak/Primo_Kyogre_Primo_Groudon.wav",
+    "INDEX.base",
+    "MP2I/Informatique/TD/TD 15.md",
+    "MP2I/FR/Pour le futur.md",
     "MP2I/Physique/Fiche - Electromagnétisme 1.md",
-    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
+    "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
     "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
+    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/Cours/Chapitre 26 Logique Propositionnelle.md",
+    "Peak",
+    "murd.md",
+    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
     "Fiche_Revision_Electromagnetisme_PURE.md",
     "Khôlle de Mathématiques 28-1.pdf",
-    "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/Fiche - Thermodynamique.md",
     "MP2I/Khôlles Maths 28.md",
     "AMONGUS.md",
-    "INDEX.base",
     "Sans titre.canvas",
     "MP2I/Informatique/Cours/Chapitre 25.md",
     "MP2I/Mathematique/B10 Groupe Symétrique/Théorème 19.md",
     "MP2I/Mathematique/E2 Probabiliités/Théorème 10.md",
-    "Triple_T.png",
-    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
     "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
     "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
     "MP2I/Informatique/Fiches/Sans titre.md",
-    "MP2I/Informatique/TD/TD 15.md",
-    "MP2I/FR/Pour le futur.md",
     "MP2I/Mathematique/B10 Groupe Symétrique/Lemme 23.md",
-    "murd.md",
     "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
     "MP2I/Mathematique/D6 Espaces préhilbertiens réels",
     "MP2I/Mathematique/D8",
@@ -262,14 +278,10 @@
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Théoréme 19.png",
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Sans titre.png",
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas",
-    "MP2I/Mathematique/B10 Groupe Symétrique/Nouveau dossier",
-    "MP2I/Mathematique/E2 Probabiliités/E2.pdf",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
     "MP2I/Informatique/TD/TD 10.md",
     "MP2I/Informatique/TD/TD 11.md",
-    "MP2I/Informatique/TD/TD 12.md",
-    "MP2I/Informatique/TD/TD 13.md",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520134744.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520135326.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520140150.png",
