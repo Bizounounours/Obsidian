@@ -45,3 +45,31 @@ Toutes formules propositionnelle peut se représenter par un arbre selon le prin
 
  
 
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

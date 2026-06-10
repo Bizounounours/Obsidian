@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/TIPE/2026-04-14.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-14"
+              "title": "Chapitre 14"
             }
           }
         ]
@@ -239,7 +239,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ccc0b3be3ea7860b",
+  "active": "870862d306e6b9ed",
   "lastOpenFiles": [
     "MP2I/TIPE/2026-04-14.md",
     "MP2I/TIPE/2026-04-07.md",
