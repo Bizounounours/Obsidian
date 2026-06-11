@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "04e86ac7be7cbb31",
+        "id": "33ccbe805b74344d",
         "type": "tabs",
         "children": [
           {
-            "id": "870862d306e6b9ed",
+            "id": "c784a60cff49a48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 14.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 14"
+              "title": "Chapitre 24 Bases de Données"
+            }
+          },
+          {
+            "id": "e2e91f3ae36e385f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MP2I/Informatique/Cours/Chapitre 26 Logique Propositionnelle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 26 Logique Propositionnelle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Informatique",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +102,7 @@
       {
         "id": "d6ce3675014fff2e",
         "type": "tabs",
-        "dimension": 48.70892018779343,
+        "dimension": 48.59154929577465,
         "children": [
           {
             "id": "66233c458281aa2b",
@@ -110,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/FR/Pour le futur.md",
+                "file": "CODE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Pour le futur"
+              "title": "Plan de CODE"
             }
           },
           {
@@ -130,7 +145,7 @@
             }
           },
           {
-            "id": "ccc0b3be3ea7860b",
+            "id": "870862d306e6b9ed",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -140,7 +155,7 @@
             }
           },
           {
-            "id": "41965ce0affa61f4",
+            "id": "e86e6da4c0511208",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,7 +174,7 @@
       {
         "id": "c7109523a5cedd8d",
         "type": "tabs",
-        "dimension": 51.29107981220657,
+        "dimension": 51.40845070422535,
         "children": [
           {
             "id": "608684da60852a22",
@@ -221,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 270
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,8 +254,24 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "870862d306e6b9ed",
+  "active": "e2e91f3ae36e385f",
   "lastOpenFiles": [
+    "Sans titre.canvas",
+    "murd.md",
+    "CODE.md",
+    "Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Base de données.md",
+    "MP2I/Informatique/TD/TD 16.md",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/!D4.md",
+    "MP2I/Informatique/TD/TD 14.md",
+    "MP2I/Informatique/TD/TD 10.md",
+    "MP2I/Informatique/TD/TD 11.md",
+    "MP2I/Informatique/TD/TD 13.md",
+    "MP2I/Informatique/TD/TD 15.md",
+    "INDEX.base",
+    "MP2I/Informatique/Cours/Chapitre 26 Logique Propositionnelle.md",
+    "MP2I/Informatique/Cours/Chapitre 14.md",
     "MP2I/TIPE/2026-04-14.md",
     "MP2I/TIPE/2026-04-07.md",
     "MP2I/TIPE/2026-03-31.md",
@@ -250,31 +281,14 @@
     "MP2I/TIPE/2026-02-17.md",
     "MP2I/TIPE/2026-02-10.md",
     "MP2I/TIPE/2026-02-03.md",
-    "MP2I/Informatique/Cours/Chapitre 26 Logique Propositionnelle.md",
     "MP2I/Mathematique/B10 Groupe Symétrique/Théorème 19.md",
     "MP2I/Informatique/TD/TD.md",
     "Peak/Triple_T.png",
     "Peak/Primo_Kyogre_Primo_Groudon.wav",
-    "INDEX.base",
-    "MP2I/Informatique/TD/TD 15.md",
-    "MP2I/FR/Pour le futur.md",
-    "MP2I/Physique/Fiche - Electromagnétisme 1.md",
-    "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
     "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
-    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
-    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "Peak",
-    "murd.md",
     "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
-    "Fiche_Revision_Electromagnetisme_PURE.md",
     "Khôlle de Mathématiques 28-1.pdf",
-    "MP2I/Physique/Fiche - Thermodynamique.md",
-    "MP2I/Khôlles Maths 28.md",
-    "AMONGUS.md",
-    "Sans titre.canvas",
-    "MP2I/Informatique/Cours/Chapitre 25.md",
-    "MP2I/Mathematique/E2 Probabiliités/Théorème 10.md",
-    "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
     "MP2I/Mathematique/D6 Espaces préhilbertiens réels",
     "MP2I/Mathematique/D8",
     "MP2I/Mathematique/B10 Groupe Symétrique/B10.pdf",
