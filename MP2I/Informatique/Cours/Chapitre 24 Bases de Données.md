@@ -292,59 +292,233 @@ On utilise la clause `HAVING`
 >```
 >>[!warning] Ne pas confondre `WHERE` et `HAVING`
 
-## V) Opérations ensemblistes 
+## 5. Opérations ensemblistes
+On peut combiner les résultats de deux requêtes à l'aide d'opérations ensemblistes (`UNION`[^5],`INTERSECT`[^6],`EXCEPT`[^7]) pour vu que les résultats des deux requêtes aient le **même nombre de colonnes** et que **le domaine des colonnes situées à la même position soit le même**.
 
-On peut combiner les resultats de deux requêtes à l'aide d'opération ensemblistes 
-- `UNION` : union $AB$ 
-- `INTERSECT` : intersection $AB$
-- `EXCEPT` : Différence $AB$
+> [!example] Exemple
+> Voir notebook [cd13-10817352](https://capytale2.ac-paris.fr/p/basthon/n/?kernel=sql&mode=assignment&id=10817663)
+> 
+> ```sql
+> SELECT realisateur FROM film -- Renvoie les identifiants des réalisateurs de film
+> INTERSECT
+> SELECT id_acteur FROM casting -- Renvoie les identifiants des acteurs ayant joué dans un film
+> ```
+> 
+> Chaque requête renvoie une colonne, avec un attribut de type int.
+>
+> La requête complète renvoie les identifiants des acteurs qui ont aussi réalisé au moins un film.
+>
+> >[!tip] Note
+> > La requête fonctionnerait en remplaçant `id_acteur` par `id_film` (même nombre de colonnes même domaine) mais le résultat n'aurait pas de sens.
 
-On va dire ce qu'il en est des associations de cardinalité $*-*$
+# II. Bases de données comportant plusieurs tables
+## 1. Modèle entité-association
+### A. Description du modèle
+On prend comme exemple la base de données `cinema` du notebook [cd13-10817352](https://capytale2.ac-paris.fr/p/basthon/n/?kernel=sql&mode=assignment&id=10817663), qui contient la description d'entités de deux natures distinctes :
+- Les **INDIVIDUS** : **acteurs** ou des **réalisateurs**, décrit dans la table `acteur`[^8] par leur *nom* et un identifiant *id*
+- Les **FILMS** : décrits dans la table `film` par les attributs *id, titre, annee, ..., realisateur*
 
-Une association $*-*$ peut se décomposer en deux associations $1-*$ et $*-1$, ce qui permet de passé du modèle E/A au modele relationnel, en créant une table décrivant l'association "joue dans" (table casting dans l'example du cours) et en la <mark style="background: #FFB86CA6;">liant </mark> aux tables représentant les deux ensembles d'entités reliés par l'associations grâce aux liens <mark style="background: #FFB86CA6;">clé primaire - clé étrangère</mark>
+> [!danger] L'attribut `realisateur` est un identifiant : 
+> C'est une [[clé étrangère]] faisant référence à la [[clé primaire]] **id** de la table `acteur`.
+
+Dans le modèle entité-association, on cherche à mettre en évidence les liens entre les entités de divers ensembles d'entités (ici les **INDIVIDUS** et les **FILMS**) au travers d'**ensembles d'associations**.
+
+Ici on peut distinguer les ensembles d'associations (ou, en abrégé, associations) suivants :
+- "*joue_dans*" : permet d'indiquer qu'un individu a joué dans un certain film.
+- "*réalise_par*" : indique qu'un individu a réalisé un certain film.
+
+Dans le cadre du programme, on se limitera à des associations binaires, entre les entités de deux ensembles $E_{1} = \lbrace e^{1}_{i} \rbrace_{1 \leq i \leq n}$, $E_{2} = \lbrace e^{2}_{j} \rbrace_{1 \leq j \leq n}$ permettant de spécifier qu'une entité $e^{1}_{i}$ de $E_{1}$ est associée à une entité $e^{2}_{j}$ de $E_{2}$
+
+Pour une association donnée, on précisera sa **[[cardinalité]]**, précisant combien d'élément de l'un des deux ensembles peuvent être associés à un élément de l'autre ensemble.
+
+La **cardinalité** est donnée sous la forme d'un couple du type $1-1$, $1-n$, $*-1$, $1-*$,$*-*$.
+- $1-1$ : Dénote que chaque élément de $E_{1}$ est associé à un et un seul élément de $E_{2}$ (l'association définit une bijection entre $E_{1}$ et $E_{2}$)
+- $1-*$ : Chaque élément de $E_{1}$ est associé à un nombre quelconque d'éléments de $E_{2}$ (Éventuellement nul) tandis que chaque élément de $E_{2}$ est associé à un unique élément de $E_{1}$. (le lien d'association définit une application de $E_{2}$ vers $E_{1}$)
+- $*-1$ : idem dans l'autre sens (échanger $E_{1}$ et $E_{2}$)
+- $*-*$ : Chaque élément de $E_{1}$ peut-être associé à un nombre quelconque d'éléments de $E_{2}$ et réciproquement. (Le lien d'association correspond à une relation binaire, sans plus)
+
+> [!tip] Remarque
+> Si on écrit $n$ au lieu de $*$, cela signifie que la valeur $0$ n'est pas autorisée.
+
+> [!example] Exemple
+> *joue_dans* est de cardinalité $*-*$ 
+> - Un individu peut n'avoir joué dans aucun film ou dans un nombre quelconque de films.
+> - Un film peut avoir un nombre quelconque d'acteurs éventuellement aucun
+> 
+> *realise_par* est de cardinalité $*-1$
+> - Chaque film est réalisé par un individu dans la BD étudiée
+
+On résume les informations sur les liens d'association entre les ensembles d'entités par un diagramme :
+![[Liens d'association.png]]
+
+- Séparation d'une association $*-*$ en deux associations $*-1$ et $1-*$
+  
+  Pour ce faire, on peut définir un nouvel ensemble d'entités, dont les éléments sont les associations d'un élément de $E_{1}$ avec un élément de $E_{2}$ auquel il est associé.
+
+> [!example] Exemple
+> Pour l'association *joue_dans*, on peut définir un ensemble d'entité **ROLES** dans lequel chaque élément traduit qu'un certain individu a joué dans un certain film.
+> 
+> Cet ensemble d'entités, **ROLES**, est réalisé par la table `casting` dont le schéma relationnel est `casting(id_acteur entier, id_film entier, num entier)` [^9]
+
+On a maintenant :
+![[Pasted image 20260519095053.png]]
+
+### B. Traduction en SQL des associations 1-1 ou 1-\*
+Si on a une association $1-1$ ou $1-*$ entre deux-ensembles d'entités $E_{1}$ et $E_{2}$, représentés par des tables $t_{1}$ et $t_{2}$, et qu'une clé étrangère existe pour $t_{1}$ renvoyant à une [[clé primaire]] dans $t_{2}$, on peut matérialiser le lien d'association de la façon suivante :
+![[Pasted image 20260519100110.png]]
+
+On va dire ce qu'il en est des associations de cardinalité $*-*$.
+
+Une association $*-*$ peut se décomposer en deux associations $1-*$ et $*-1$, ce qui permet de passer du modèle E/A au modèle relationnel, en créant une table décrivant l'association "*joue_dans*" ([[24. Base de donnée#A. Description du modèle|table casting dans l'exemple du cours]]) et en **la reliant** aux tables représentant les deux ensembles d'entité reliés par l'association, grace aux liens **clé primaire-clé étrangère**.
+
+De façon générale, on peut passer du modèle E/A au modèle relationnel, en créant une table par ensemble d'entités et une table par ensemble d'associations.
+
+Mais pour les associations $1-*$ ou $*-1$, le lien clé primaire-clé étrangère peut permettre de faire l'économie d'une table représentant l'association. 
+
+Il est possible que les associations d'un ensemble d'association aient des propriétés (ou attributs), de même que les entités ont des propriétés.
+
+C'est le cas ici, où pour l'association "*joue_dans*" on a ajouté la propriété "*rang_dans_la_distribution*" (attribut *num* dans *casting*).
+
+On peut le signaler ainsi :
+![[Pasted image 20260522082755.png]]
+
+## 2. Jointures
+### A. Produit cartésien de deux tables
+```sql
+SELECT * FROM table1,table2
+```
+Ou de façon équivalente.
+```sql
+SELECT * FROM table1 JOIN table2
+```
+
+Construit une table dont les lignes sont, chacune, la concaténation d'un enregistrement de la table `table1` et d'un enregistrement de la table `table2` sans que nécessairement la juxtaposition des deux enregistrements ait de sens.  
+
+> [!example] Exemple
+> ```sql
+> SELECT * FROM film,acteur
+> ```
+> Attributs de la table retenu renvoie :
+>
+| film    | < | <   | <           | individu | <   |
+| --- | ----- | --- | ----------- | -------- | --- |
+| id  | titre | ... | realisateur | id       | nom |
+>
+
+Si $table_{1} = \{ent_{i}^1\}_{1 \leq i \leq n}$ et $table_{2} = \{ent_{j}^2\}_{1\leq j \leq m}$
+
+Le produit cartésien est l'ensemble $\{ (ent_{i}^1,ent_{j}^2)\}_{\cases{1\leq i\leq n  \\ 1\leq j\leq m}}$ et a pour cardinal $|table_{1}|\times|table_{2}|$.
+
+> [!example] Exemple
+> Sur l'exemple $|film| = 1500$ et $|acteur| = 2000$
+> 
+> La table résultante à $3M$ de lignes
+>> [!danger] Affichage
+
+### B. Jointures
+On peut imposer que deux enregistrements $ent_{i}^1$, $ent_{j}^2$ ne soient réunis une ligne que si un certain critère portant sur leurs attributs est vérifié de la façon suivante :
+```sql
+SELECT * FROM table1 
+
+JOIN table 2
+ON -- Critère
+```
+Ou bien
+```sql
+SELECT * FROM table1,table2
+
+WHERE -- Critère
+```
+
+> [!example] Exemple
+> ```sql
+> SELECT * FROM film 
+> 
+> JOIN acteur
+> ON film.realisateur = acteur.id
+> ```
+
+Ici, le critère `film.realisateur = acteur.id` assure que l'individu à droite est le réalisateur du film (et cela permet de connaitre son nom[^10] et pas seulement son identifiant (attribut *realisateur* de la table *film*)).
+
+ - On doit obligatoirement **préfixer** le nom de l'attribut par le nom de la table si le nom le même nom d'attribut est utilisé dans les deux tables.
+   
+   Donc `film.realisateur` peut être remplacé par `realisateur` alors qu'on ne peut pa remplacer `acteur.id` par `id` car `id` n'est pas unique.
+   
+   On peut décider que l'on préfixera toujours.
+   
+ On peut utiliser aussi un renommage
+   
+ ```sql
+ SELECT * FROM film AS F 
+ 
+ JOIN acteur AS I
+ ON F.realisateur = I.id
+ ```
+
+#### Jointure "naturelle"
+Lorsqu'un attribut (ou un n-uplet d'attributs) est une clé étrangère dans une table *t1*, qui fait référence à un clé primaire d'une table *t2*, il découle que la jointure suivante est possible et a du sens :
+```sql
+SELECT * FROM t1
+
+JOIN t2
+ON t1.attr1 = t2.attr2 -- Clé étrangère = Clé primaire correspondante
+(AND t1.attr3 = t2.attr4) -- Si les clés sont des n-uplets (attr1,attr3) et (attr2,attr4)
+...
+```
+
+> [!tip] Remarque
+> Tant que l'on reste là (`SELECT *`) la table résultante a pour attributs tous les attributs des 2 tables.
+> 
+> Et `t1.attr1` et `t2.attr2` sont égaux et donc présents 2 fois
+
+On pourra utiliser des projections pour supprimer les colonnes redondantes ou inutiles.
+
+Dans les cas, il s'agit après avoir fait la jointure, de réaliser sur la table résultante toutes opérations utiles pour obtenir le résultat demandé.
+
+#### Jointures multiples
+```sql
+SELECT * FROM table1 
+
+JOIN table2
+ON -- Critère
+
+JOIN table3
+ON -- Critère
+-- ad libitum
+```
+Chaque critère devant porter sur des attributs des tables qui précèdent.
+
+#### Auto-jointure
+On peut joindre une table avec elle-même mais il y a nécessité de renommer la table.
+```sql
+SELECT * FROM casting AS c1
+
+JOIN casting AS c2
+ON c1.id_film = c2.id_film
+```
+
+On obtient :
+
+| c1        | <       | <   | c2        | <       | <   |
+| --------- | ------- | --- | --------- | ------- | --- |
+| id_acteur | id_film | num | id_acteur | id_film | num |
+| 47        | 23      | 2   | 205       | 23      | 2   |
+L'acteur(trice) 47 a joué dans le film 23 avec l'acteur(trice) 205
 
 
-De façon générale, on peut passer du modèle E/A au modèle relationnel, en créant une table par ensemble d'identités et une table par ensemble d'associations 
-
-Mais pour les asso
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> [!tip] Remarque
+> Utile pour savoir si 47 a joué avec 205 
+> 
+> Mais on peut le savoir aussi en faisant :
+> ```sql
+> SELECT id_film FROM casting
+> 
+> WHERE id_acteur = 47
+> INTERSECT
+> SELECT id_film FROM casting
+> 
+> WHERE id_acteur = 205
+> ```
 
 ---
 #Informatique #cours
