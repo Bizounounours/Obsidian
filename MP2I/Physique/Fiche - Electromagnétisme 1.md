@@ -21,7 +21,7 @@ Le champ magnétique décrit les interactions entre charges en mouvement.
 > - $\vec{A} \wedge \vec{B} = - \vec{B} \wedge \vec{A}$ (Anticommutativité)
 > - $\vec{A} \wedge \vec{A} = \vec{0}$
 > - Le vecteur résultat est orthogonal aux deux vecteurs.
-> - Norme : $\|ec{A} \wedge ec{B}\| = AB \sin(	heta)$.
+> - Norme : $|Vect{A} \wedge Vec{B}| = AB \sin(	\eta)$.
 
 ### 2. Sources et Cartes de Champ
 - **Sources** : Mouvement de charges (courants macroscopiques ou microscopiques).

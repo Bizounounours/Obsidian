@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-                "mode": "preview",
+                "file": "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 24 Bases de Données"
+              "title": "Chapitre 23 Stratégies algorithmiques"
             }
           },
           {
@@ -176,7 +176,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -185,9 +184,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "callout-manager:Insert Callout": false,
       "custom-sort:Toggle custom sorting": false,
       "omnisearch:Omnisearch": false,
@@ -196,6 +192,13 @@
   },
   "active": "3725f7f2c66dcc5b",
   "lastOpenFiles": [
+    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
+    "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
+    "MP2I/Mathematique/!Fiche utile/DL Ordre 1.md",
+    "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
+    "MP2I/Physique/Fiche - Thermodynamique.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
     "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
     "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
     "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
@@ -207,9 +210,7 @@
     "MP2I/Physique/ID.pdf",
     "INDEX.base",
     "MP2I/Physique/Thermodynamique/Thermo 4/Thermo4_transitions.pdf",
-    "MP2I/Mathematique/D7 Développements Limités/D7.pdf",
     "MP2I/Informatique/Cours/Chapitre 19 Dictionnaires.md",
-    "MP2I/Mathematique/D7 Développements Limités/Théorème 7.md",
     "MP2I/Informatique/Cours/Chapitre 20 Complexité avancée.md",
     "MP2I/FR/Cours/Fiche de Synthèse - Le Rapport de l'homme à la nature.md",
     "MP2I/Informatique/Cours/Chapitre 17 Les exceptions en OCaml.md",
@@ -221,12 +222,6 @@
     "MP2I/Informatique/Cours/Chapitre 15 Mutabilité en OCaml.md",
     "MP2I/Informatique/Cours/Chapitre 15.md",
     "MP2I/Informatique/Cours/Chapitre 14.md",
-    "MP2I/Informatique/Cours/Chapitre 13.md",
-    "MP2I/Informatique/Cours/Chapitre 12.md",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 48.md",
-    "MP2I/Mathematique/B8 Polynômes/Khôlle/Théorème 58.md",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/Khôlle/Khôlles D4 (fin).md",
-    "MP2I/TIPE/2026-02-10.md",
     "MP2I/Mathematique/B8 Polynômes/Khôlle",
     "MP2I/TIPE",
     "MP2I/Informatique/TD",
