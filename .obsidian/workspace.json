@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab34eb0a5f1b158",
+        "id": "33ccbe805b74344d",
         "type": "tabs",
         "children": [
           {
-            "id": "464d9efb49dd4667",
+            "id": "e2e91f3ae36e385f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+                "file": "MP2I/Informatique/Cours/Chapitre 25 Algorithme du Texte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiche - Electromagnétisme 1"
+              "title": "Chapitre 25 Algorithme du Texte"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Informatique",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       {
         "id": "d6ce3675014fff2e",
         "type": "tabs",
-        "dimension": 48.708920187793424,
+        "dimension": 48.59154929577465,
         "children": [
           {
             "id": "66233c458281aa2b",
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MP2I/Physique/Fiche - Electromagnétisme 1.md",
+                "file": "CODE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Fiche - Electromagnétisme 1"
+              "title": "Plan de CODE"
             }
           },
           {
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "ccc0b3be3ea7860b",
+            "id": "870862d306e6b9ed",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,14 +138,28 @@
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
             }
+          },
+          {
+            "id": "e86e6da4c0511208",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c7109523a5cedd8d",
         "type": "tabs",
-        "dimension": 51.291079812206576,
+        "dimension": 51.40845070422535,
         "children": [
           {
             "id": "608684da60852a22",
@@ -207,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 270
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,49 +239,50 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "464d9efb49dd4667",
+  "active": "e2e91f3ae36e385f",
   "lastOpenFiles": [
-    "Fiche_Revision_Electromagnetisme_PURE.md",
-    "MP2I/Physique/Fiche - Electromagnétisme 1.md",
-    "Khôlle de Mathématiques 28-1.pdf",
-    "MP2I/Physique/Fiche - Équations Différentielles (Électrocinétique).md",
-    "MP2I/Physique/Fiche - Thermodynamique.md",
-    "MP2I/Physique/Mécanique - Moment Cinétique, Gravitation et Solide.md",
-    "MP2I/Khôlles Maths 28.md",
-    "AMONGUS.md",
-    "INDEX.base",
-    "Sans titre.canvas",
-    "MP2I/Informatique/Cours/Chapitre 25.md",
-    "MP2I/Mathematique/B10 Groupe Symétrique/Théorème 19.md",
-    "MP2I/Mathematique/E2 Probabiliités/Théorème 10.md",
-    "Triple_T.png",
-    "MP2I/Informatique/Cours/Chapitre 21 Entrées Sorties.md",
-    "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
-    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
     "MP2I/Informatique/Cours/Chapitre 24 Bases de Données.md",
-    "MP2I/Informatique/Fiches/Sans titre.md",
-    "MP2I/Informatique/TD/TD 15.md",
-    "MP2I/FR/Pour le futur.md",
-    "MP2I/Mathematique/B10 Groupe Symétrique/Lemme 23.md",
+    "MP2I/Informatique/Cours/Chapitre 23 Stratégies algorithmiques.md",
+    "MP2I/Informatique/Cours/Chapitre 23.md",
+    "MP2I/23. Stratégies algorithmiques.md",
+    "MP2I/24. Base de donnée.md",
+    "MP2I/Informatique/Cours/Chapitre 25 Algorithme du Texte.md",
+    "MP2I/25. Algorithmique du texte.md",
+    "MP2I/Informatique/Cours/Chapitre 26 Logique Propositionnelle.md",
+    "MP2I/26. Logique propositionnelle.md",
+    "MP2I/Informatique/Cours/Chapitre 24 Base de données.md",
+    "MP2I/Informatique/Cours/Chapitre 22 Récursivité et induction.md",
+    "Sans titre.canvas",
     "murd.md",
-    "Excalidraw/Drawing 2026-05-18 20.54.18.excalidraw.md",
+    "CODE.md",
+    "Chapitre 21 Entrées Sorties.md",
+    "MP2I/Informatique/TD/TD 16.md",
+    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/!D4.md",
+    "MP2I/Informatique/TD/TD 14.md",
+    "MP2I/Informatique/TD/TD 10.md",
+    "MP2I/Informatique/TD/TD 11.md",
+    "MP2I/Informatique/TD/TD 13.md",
+    "MP2I/Informatique/TD/TD 15.md",
+    "INDEX.base",
+    "MP2I/Informatique/Cours/Chapitre 14.md",
+    "MP2I/TIPE/2026-04-14.md",
+    "MP2I/TIPE/2026-04-07.md",
+    "MP2I/TIPE/2026-03-31.md",
+    "MP2I/TIPE/2026-03-24.md",
+    "Peak/Triple_T.png",
+    "Peak/Primo_Kyogre_Primo_Groudon.wav",
+    "MP2I/Physique/cahier_d_entrainement_PC_v1-0-1.pdf",
+    "Peak",
+    "MP2I/Physique/Thermodynamique/Thermo 1/Thermo1.pdf",
+    "Khôlle de Mathématiques 28-1.pdf",
     "MP2I/Mathematique/D6 Espaces préhilbertiens réels",
     "MP2I/Mathematique/D8",
     "MP2I/Mathematique/B10 Groupe Symétrique/B10.pdf",
-    "MP2I/Archives Khôlles/Maths/Colles Maths 21.md",
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Théoréme 19.png",
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas/Sans titre.png",
     "MP2I/Mathematique/B10 Groupe Symétrique/Schémas",
-    "MP2I/Mathematique/B10 Groupe Symétrique/Nouveau dossier",
-    "MP2I/Mathematique/E2 Probabiliités/E2.pdf",
-    "MP2I/Mathematique/D4 Dérivations des fonctions d'une variable réelle/D4.pdf",
-    "MP2I/Mathematique/B10 Groupe Symétrique",
     "MP2I/Physique/Mécanique/TD/Meca 5 EXO5.png",
     "MP2I/Physique/TP/Pasted image 20260317114959.png",
-    "MP2I/Informatique/TD/TD 10.md",
-    "MP2I/Informatique/TD/TD 11.md",
-    "MP2I/Informatique/TD/TD 12.md",
-    "MP2I/Informatique/TD/TD 13.md",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520134744.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520135326.png",
     "MP2I/Informatique/TD/Epic attachements/Pasted image 20260520140150.png",
